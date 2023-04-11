@@ -1,0 +1,999 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Graph</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <canvas id="myChart"></canvas>
+    <script>
+      const yearData = {
+        stoner: [
+          {
+            year: 1985,
+            bands: 0,
+          },
+          {
+            year: 1986,
+            bands: 0,
+          },
+          {
+            year: 1987,
+            bands: 1,
+          },
+          {
+            year: 1988,
+            bands: 1,
+          },
+          {
+            year: 1989,
+            bands: 2,
+          },
+          {
+            year: 1990,
+            bands: 3,
+          },
+          {
+            year: 1991,
+            bands: 7,
+          },
+          {
+            year: 1992,
+            bands: 8,
+          },
+          {
+            year: 1993,
+            bands: 11,
+          },
+          {
+            year: 1994,
+            bands: 6,
+          },
+          {
+            year: 1995,
+            bands: 10,
+          },
+          {
+            year: 1996,
+            bands: 12,
+          },
+          {
+            year: 1997,
+            bands: 12,
+          },
+          {
+            year: 1998,
+            bands: 18,
+          },
+          {
+            year: 1999,
+            bands: 19,
+          },
+          {
+            year: 2000,
+            bands: 16,
+          },
+          {
+            year: 2001,
+            bands: 21,
+          },
+          {
+            year: 2002,
+            bands: 19,
+          },
+          {
+            year: 2003,
+            bands: 42,
+          },
+          {
+            year: 2004,
+            bands: 29,
+          },
+          {
+            year: 2005,
+            bands: 41,
+          },
+          {
+            year: 2006,
+            bands: 45,
+          },
+          {
+            year: 2007,
+            bands: 56,
+          },
+          {
+            year: 2008,
+            bands: 64,
+          },
+          {
+            year: 2009,
+            bands: 73,
+          },
+          {
+            year: 2010,
+            bands: 84,
+          },
+          {
+            year: 2011,
+            bands: 93,
+          },
+          {
+            year: 2012,
+            bands: 123,
+          },
+          {
+            year: 2013,
+            bands: 121,
+          },
+          {
+            year: 2014,
+            bands: 126,
+          },
+          {
+            year: 2015,
+            bands: 109,
+          },
+          {
+            year: 2016,
+            bands: 98,
+          },
+          {
+            year: 2017,
+            bands: 100,
+          },
+          {
+            year: 2018,
+            bands: 94,
+          },
+          {
+            year: 2019,
+            bands: 63,
+          },
+          {
+            year: 2020,
+            bands: 50,
+          },
+          {
+            year: 2021,
+            bands: 24,
+          },
+          {
+            year: 2022,
+            bands: 13,
+          },
+          {
+            year: 2023,
+            bands: 0,
+          },
+        ],
+        gothic: [
+          {
+            year: 1985,
+            bands: 2,
+          },
+          {
+            year: 1986,
+            bands: 0,
+          },
+          {
+            year: 1987,
+            bands: 3,
+          },
+          {
+            year: 1988,
+            bands: 2,
+          },
+          {
+            year: 1989,
+            bands: 9,
+          },
+          {
+            year: 1990,
+            bands: 8,
+          },
+          {
+            year: 1991,
+            bands: 19,
+          },
+          {
+            year: 1992,
+            bands: 24,
+          },
+          {
+            year: 1993,
+            bands: 49,
+          },
+          {
+            year: 1994,
+            bands: 59,
+          },
+          {
+            year: 1995,
+            bands: 52,
+          },
+          {
+            year: 1996,
+            bands: 58,
+          },
+          {
+            year: 1997,
+            bands: 48,
+          },
+          {
+            year: 1998,
+            bands: 54,
+          },
+          {
+            year: 1999,
+            bands: 45,
+          },
+          {
+            year: 2000,
+            bands: 43,
+          },
+          {
+            year: 2001,
+            bands: 36,
+          },
+          {
+            year: 2002,
+            bands: 35,
+          },
+          {
+            year: 2003,
+            bands: 37,
+          },
+          {
+            year: 2004,
+            bands: 33,
+          },
+          {
+            year: 2005,
+            bands: 46,
+          },
+          {
+            year: 2006,
+            bands: 33,
+          },
+          {
+            year: 2007,
+            bands: 25,
+          },
+          {
+            year: 2008,
+            bands: 24,
+          },
+          {
+            year: 2009,
+            bands: 26,
+          },
+          {
+            year: 2010,
+            bands: 21,
+          },
+          {
+            year: 2011,
+            bands: 16,
+          },
+          {
+            year: 2012,
+            bands: 26,
+          },
+          {
+            year: 2013,
+            bands: 18,
+          },
+          {
+            year: 2014,
+            bands: 11,
+          },
+          {
+            year: 2015,
+            bands: 11,
+          },
+          {
+            year: 2016,
+            bands: 11,
+          },
+          {
+            year: 2017,
+            bands: 15,
+          },
+          {
+            year: 2018,
+            bands: 9,
+          },
+          {
+            year: 2019,
+            bands: 17,
+          },
+          {
+            year: 2020,
+            bands: 10,
+          },
+          {
+            year: 2021,
+            bands: 6,
+          },
+          {
+            year: 2022,
+            bands: 0,
+          },
+        ],
+        melodic: [
+          {
+            year: 1985,
+            bands: 0,
+          },
+          {
+            year: 1986,
+            bands: 0,
+          },
+          {
+            year: 1987,
+            bands: 1,
+          },
+          {
+            year: 1988,
+            bands: 0,
+          },
+          {
+            year: 1989,
+            bands: 3,
+          },
+          {
+            year: 1990,
+            bands: 2,
+          },
+          {
+            year: 1991,
+            bands: 9,
+          },
+          {
+            year: 1992,
+            bands: 13,
+          },
+          {
+            year: 1993,
+            bands: 21,
+          },
+          {
+            year: 1994,
+            bands: 20,
+          },
+          {
+            year: 1995,
+            bands: 19,
+          },
+          {
+            year: 1996,
+            bands: 16,
+          },
+          {
+            year: 1997,
+            bands: 8,
+          },
+          {
+            year: 1998,
+            bands: 13,
+          },
+          {
+            year: 1999,
+            bands: 10,
+          },
+          {
+            year: 2000,
+            bands: 15,
+          },
+          {
+            year: 2001,
+            bands: 19,
+          },
+          {
+            year: 2002,
+            bands: 18,
+          },
+          {
+            year: 2003,
+            bands: 21,
+          },
+          {
+            year: 2004,
+            bands: 21,
+          },
+          {
+            year: 2005,
+            bands: 24,
+          },
+          {
+            year: 2006,
+            bands: 14,
+          },
+          {
+            year: 2007,
+            bands: 11,
+          },
+          {
+            year: 2008,
+            bands: 24,
+          },
+          {
+            year: 2009,
+            bands: 21,
+          },
+          {
+            year: 2010,
+            bands: 19,
+          },
+          {
+            year: 2011,
+            bands: 13,
+          },
+          {
+            year: 2012,
+            bands: 9,
+          },
+          {
+            year: 2013,
+            bands: 15,
+          },
+          {
+            year: 2014,
+            bands: 17,
+          },
+          {
+            year: 2015,
+            bands: 12,
+          },
+          {
+            year: 2016,
+            bands: 17,
+          },
+          {
+            year: 2017,
+            bands: 14,
+          },
+          {
+            year: 2018,
+            bands: 17,
+          },
+          {
+            year: 2019,
+            bands: 10,
+          },
+          {
+            year: 2020,
+            bands: 11,
+          },
+          {
+            year: 2021,
+            bands: 14,
+          },
+          {
+            year: 2022,
+            bands: 0,
+          },
+        ],
+        atmospheric: [
+          {
+            year: 1985,
+            bands: 0,
+          },
+          {
+            year: 1986,
+            bands: 0,
+          },
+          {
+            year: 1987,
+            bands: 0,
+          },
+          {
+            year: 1988,
+            bands: 2,
+          },
+          {
+            year: 1989,
+            bands: 3,
+          },
+          {
+            year: 1990,
+            bands: 1,
+          },
+          {
+            year: 1991,
+            bands: 5,
+          },
+          {
+            year: 1992,
+            bands: 7,
+          },
+          {
+            year: 1993,
+            bands: 6,
+          },
+          {
+            year: 1994,
+            bands: 18,
+          },
+          {
+            year: 1995,
+            bands: 24,
+          },
+          {
+            year: 1996,
+            bands: 14,
+          },
+          {
+            year: 1997,
+            bands: 14,
+          },
+          {
+            year: 1998,
+            bands: 6,
+          },
+          {
+            year: 1999,
+            bands: 3,
+          },
+          {
+            year: 2000,
+            bands: 5,
+          },
+          {
+            year: 2001,
+            bands: 6,
+          },
+          {
+            year: 2002,
+            bands: 8,
+          },
+          {
+            year: 2003,
+            bands: 10,
+          },
+          {
+            year: 2004,
+            bands: 13,
+          },
+          {
+            year: 2005,
+            bands: 7,
+          },
+          {
+            year: 2006,
+            bands: 10,
+          },
+          {
+            year: 2007,
+            bands: 14,
+          },
+          {
+            year: 2008,
+            bands: 10,
+          },
+          {
+            year: 2009,
+            bands: 18,
+          },
+          {
+            year: 2010,
+            bands: 16,
+          },
+          {
+            year: 2011,
+            bands: 14,
+          },
+          {
+            year: 2012,
+            bands: 17,
+          },
+          {
+            year: 2013,
+            bands: 22,
+          },
+          {
+            year: 2014,
+            bands: 16,
+          },
+          {
+            year: 2015,
+            bands: 9,
+          },
+          {
+            year: 2016,
+            bands: 17,
+          },
+          {
+            year: 2017,
+            bands: 14,
+          },
+          {
+            year: 2018,
+            bands: 14,
+          },
+          {
+            year: 2019,
+            bands: 9,
+          },
+          {
+            year: 2020,
+            bands: 16,
+          },
+          {
+            year: 2021,
+            bands: 9,
+          },
+          {
+            year: 2022,
+            bands: 0,
+          },
+        ],
+        funeral: [
+          {
+            year: 1985,
+            bands: 0,
+          },
+          {
+            year: 1986,
+            bands: 0,
+          },
+          {
+            year: 1987,
+            bands: 0,
+          },
+          {
+            year: 1988,
+            bands: 2,
+          },
+          {
+            year: 1989,
+            bands: 0,
+          },
+          {
+            year: 1990,
+            bands: 3,
+          },
+          {
+            year: 1991,
+            bands: 4,
+          },
+          {
+            year: 1992,
+            bands: 3,
+          },
+          {
+            year: 1993,
+            bands: 2,
+          },
+          {
+            year: 1994,
+            bands: 3,
+          },
+          {
+            year: 1995,
+            bands: 4,
+          },
+          {
+            year: 1996,
+            bands: 3,
+          },
+          {
+            year: 1997,
+            bands: 2,
+          },
+          {
+            year: 1998,
+            bands: 8,
+          },
+          {
+            year: 1999,
+            bands: 7,
+          },
+          {
+            year: 2000,
+            bands: 11,
+          },
+          {
+            year: 2001,
+            bands: 11,
+          },
+          {
+            year: 2002,
+            bands: 16,
+          },
+          {
+            year: 2003,
+            bands: 25,
+          },
+          {
+            year: 2004,
+            bands: 45,
+          },
+          {
+            year: 2005,
+            bands: 41,
+          },
+          {
+            year: 2006,
+            bands: 35,
+          },
+          {
+            year: 2007,
+            bands: 48,
+          },
+          {
+            year: 2008,
+            bands: 26,
+          },
+          {
+            year: 2009,
+            bands: 29,
+          },
+          {
+            year: 2010,
+            bands: 38,
+          },
+          {
+            year: 2011,
+            bands: 32,
+          },
+          {
+            year: 2012,
+            bands: 28,
+          },
+          {
+            year: 2013,
+            bands: 35,
+          },
+          {
+            year: 2014,
+            bands: 20,
+          },
+          {
+            year: 2015,
+            bands: 17,
+          },
+          {
+            year: 2016,
+            bands: 20,
+          },
+          {
+            year: 2017,
+            bands: 22,
+          },
+          {
+            year: 2018,
+            bands: 17,
+          },
+          {
+            year: 2019,
+            bands: 19,
+          },
+          {
+            year: 2020,
+            bands: 16,
+          },
+          {
+            year: 2021,
+            bands: 10,
+          },
+          {
+            year: 2022,
+            bands: 0,
+          },
+        ],
+        death: [
+          {
+            year: 1985,
+            bands: 6,
+          },
+          {
+            year: 1986,
+            bands: 5,
+          },
+          {
+            year: 1987,
+            bands: 7,
+          },
+          {
+            year: 1988,
+            bands: 21,
+          },
+          {
+            year: 1989,
+            bands: 47,
+          },
+          {
+            year: 1990,
+            bands: 51,
+          },
+          {
+            year: 1991,
+            bands: 104,
+          },
+          {
+            year: 1992,
+            bands: 117,
+          },
+          {
+            year: 1993,
+            bands: 123,
+          },
+          {
+            year: 1994,
+            bands: 125,
+          },
+          {
+            year: 1995,
+            bands: 99,
+          },
+          {
+            year: 1996,
+            bands: 91,
+          },
+          {
+            year: 1997,
+            bands: 73,
+          },
+          {
+            year: 1998,
+            bands: 58,
+          },
+          {
+            year: 1999,
+            bands: 60,
+          },
+          {
+            year: 2000,
+            bands: 63,
+          },
+          {
+            year: 2001,
+            bands: 72,
+          },
+          {
+            year: 2002,
+            bands: 61,
+          },
+          {
+            year: 2003,
+            bands: 84,
+          },
+          {
+            year: 2004,
+            bands: 93,
+          },
+          {
+            year: 2005,
+            bands: 101,
+          },
+          {
+            year: 2006,
+            bands: 66,
+          },
+          {
+            year: 2007,
+            bands: 88,
+          },
+          {
+            year: 2008,
+            bands: 84,
+          },
+          {
+            year: 2009,
+            bands: 85,
+          },
+          {
+            year: 2010,
+            bands: 108,
+          },
+          {
+            year: 2011,
+            bands: 77,
+          },
+          {
+            year: 2012,
+            bands: 97,
+          },
+          {
+            year: 2013,
+            bands: 68,
+          },
+          {
+            year: 2014,
+            bands: 85,
+          },
+          {
+            year: 2015,
+            bands: 60,
+          },
+          {
+            year: 2016,
+            bands: 84,
+          },
+          {
+            year: 2017,
+            bands: 82,
+          },
+          {
+            year: 2018,
+            bands: 85,
+          },
+          {
+            year: 2019,
+            bands: 73,
+          },
+          {
+            year: 2020,
+            bands: 83,
+          },
+          {
+            year: 2021,
+            bands: 56,
+          },
+          {
+            year: 2022,
+            bands: 0,
+          },
+        ],
+      };
+      var canvas = document.getElementById("myChart");
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+      var ctx = canvas.getContext("2d");
+
+      var data = {
+        labels: yearData.stoner.map((values) => values.year).filter((_, idx) => idx < 36),
+        datasets: [
+          {
+            label: "Stoner",
+            data: yearData.stoner.map((values) => values.bands).filter((_, idx) => idx < 36),
+            backgroundColor: "green",
+            borderColor: "green",
+            borderWidth: 0.5,
+          },
+          {
+            label: "Gothic",
+            data: yearData.gothic.map((values) => values.bands).filter((_, idx) => idx < 36),
+            backgroundColor: "blue",
+            borderColor: "blue",
+            borderWidth: 0.5,
+          },
+          {
+            label: "Melodic",
+            data: yearData.melodic.map((values) => values.bands).filter((_, idx) => idx < 36),
+            backgroundColor: "red",
+            borderColor: "red",
+            borderWidth: 0.5,
+          },
+          {
+            label: "Atmospheric",
+            data: yearData.atmospheric.map((values) => values.bands).filter((_, idx) => idx < 36),
+            backgroundColor: "orange",
+            borderColor: "orange",
+            borderWidth: 0.5,
+          },
+          {
+            label: "Funeral",
+            data: yearData.funeral.map((values) => values.bands).filter((_, idx) => idx < 36),
+            backgroundColor: "purple",
+            borderColor: "purple",
+            borderWidth: 0.5,
+          },
+          {
+            label: "Death",
+            data: yearData.death.map((values) => values.bands).filter((_, idx) => idx < 36),
+            backgroundColor: "black",
+            borderColor: "black",
+            borderWidth: 0.5,
+          },
+        ],
+      };
+
+      var myChart = new Chart(ctx, {
+        type: "line",
+        data: data,
+      });
+    </script>
+  </body>
+</html>
