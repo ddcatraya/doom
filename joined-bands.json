@@ -27836,6 +27836,1520 @@
     ],
     [
         {
+            "artist": "Earth Drive",
+            "country": "Portugal",
+            "albums": [
+                {
+                    "album": "Stellar Drone",
+                    "year": "2017",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/11943946",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Earth%20Drive/Stellar%20Drone"
+                },
+                {
+                    "album": "Helix Nebula",
+                    "year": "2020",
+                    "albumLink": "https://open.spotify.com/album/0PcMYVPLs08cToFbmK6Np5",
+                    "discogsLink": "https://www.discogs.com/master/1732884",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Earth%20Drive/Helix%20Nebula"
+                }
+            ]
+        },
+        {
+            "artist": "Occultation",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Three & Seven",
+                    "year": "2012",
+                    "albumLink": "https://open.spotify.com/album/1IhgV6Grph5CEgG9Zj8oz7",
+                    "discogsLink": "https://www.discogs.com/master/494932",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=77521&band_id=8252&bandname=Occultation",
+                    "msRating": "7.6",
+                    "archivesLink": "https://www.metal-archives.com/albums/Occultation/Three%20&%20Seven"
+                },
+                {
+                    "album": "Silence in the Ancestral House",
+                    "year": "2014",
+                    "albumLink": "https://open.spotify.com/album/58z30YlOzhJZro2ND28GWR",
+                    "discogsLink": "https://www.discogs.com/master/763769",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=78336&band_id=8252&bandname=Occultation",
+                    "msRating": "7.9",
+                    "archivesLink": "https://www.metal-archives.com/albums/Occultation/Silence%20in%20the%20Ancestral%20House"
+                }
+            ]
+        },
+        {
+            "artist": "Premarone",
+            "country": "Italy",
+            "albums": [
+                {
+                    "album": "Obscuris Vera Involvens",
+                    "year": "2015",
+                    "albumLink": "https://open.spotify.com/album/0DVMLxg36zMVojYw9e0T0J",
+                    "discogsLink": "https://www.discogs.com/release/11756167",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Premarone/Obscuris%20Vera%20Involvens"
+                },
+                {
+                    "album": "Das Volk der Freiheit",
+                    "year": "2018",
+                    "albumLink": "https://open.spotify.com/album/4yBa8ii9rryrtLRoBEydgR",
+                    "discogsLink": "https://www.discogs.com/release/11391329",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Premarone/Das%20Volk%20der%20Freiheit"
+                }
+            ]
+        },
+        {
+            "artist": "Shinin' Shade",
+            "country": "Italy",
+            "albums": [
+                {
+                    "album": "Shinin' Shade",
+                    "year": "2010",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/4477815",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Shinin'%20Shade/Shinin'%20Shade"
+                },
+                {
+                    "album": "Sat-Urn",
+                    "year": "2013",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/4866937",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Shinin'%20Shade/Sat-Urn"
+                }
+            ]
+        },
+        {
+            "artist": "Sabbath Assembly",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Restored to One",
+                    "year": "2010",
+                    "albumLink": "https://open.spotify.com/album/1J6c4YnDXPJ1ps69HeDWa2",
+                    "discogsLink": "https://www.discogs.com/master/284827",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98940&band_id=10670&bandname=Sabbath+Assembly",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sabbath%20Assembly/Restored%20to%20One"
+                },
+                {
+                    "album": "Ye Are Gods",
+                    "year": "2012",
+                    "albumLink": "https://open.spotify.com/album/5tdbh7NrVbLGajfYeLe6xU",
+                    "discogsLink": "https://www.discogs.com/master/482903",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98939&band_id=10670&bandname=Sabbath+Assembly",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sabbath%20Assembly/Ye%20Are%20Gods"
+                },
+                {
+                    "album": "Quaternity",
+                    "year": "2014",
+                    "albumLink": "https://open.spotify.com/album/1K5jG8kXS2K1n9dCJIsdnx",
+                    "discogsLink": "https://www.discogs.com/master/672125",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98938&band_id=10670&bandname=Sabbath+Assembly",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sabbath%20Assembly/Quaternity"
+                },
+                {
+                    "album": "Sabbath Assembly",
+                    "year": "2015",
+                    "albumLink": "https://open.spotify.com/album/7pqwdrIZ2THdrvuVxsp2Jj",
+                    "discogsLink": "https://www.discogs.com/master/897532",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98937&band_id=10670&bandname=Sabbath+Assembly",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sabbath%20Assembly/Sabbath%20Assembly"
+                },
+                {
+                    "album": "Rites of Passage",
+                    "year": "2017",
+                    "albumLink": "https://open.spotify.com/album/4Y2us2BqIyyK7G0I9jxOXi",
+                    "discogsLink": "https://www.discogs.com/master/1194365",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98936&band_id=10670&bandname=Sabbath+Assembly",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sabbath%20Assembly/Rites%20of%20Passage"
+                },
+                {
+                    "album": "Exsanguinata",
+                    "year": "2017",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/22380757",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sabbath%20Assembly/Exsanguinata"
+                },
+                {
+                    "album": "A Letter of Red",
+                    "year": "2019",
+                    "albumLink": "https://open.spotify.com/album/5gOgXjFbreJJu2xVKyV5ji",
+                    "discogsLink": "https://www.discogs.com/master/1539683",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98935&band_id=10670&bandname=Sabbath+Assembly",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sabbath%20Assembly/A%20Letter%20of%20Red"
+                }
+            ]
+        },
+        {
+            "artist": "A Tree of Signs",
+            "country": "Portugal",
+            "albums": [
+                {
+                    "album": "Initiation of Light",
+                    "year": "2017",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/10647008",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/A%20Tree%20of%20Signs/Initiation%20of%20Light"
+                }
+            ]
+        },
+        {
+            "artist": "Acid Witch",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Witchtanic Hellucinations",
+                    "year": "2008",
+                    "albumLink": "https://open.spotify.com/album/3V9rfVfXh8DcKbj8CGD5VX",
+                    "discogsLink": "https://www.discogs.com/master/248851",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=29724&band_id=3634&bandname=Acid+Witch",
+                    "msRating": "8.2",
+                    "archivesLink": "https://www.metal-archives.com/albums/Acid%20Witch/Witchtanic%20Hellucinations"
+                },
+                {
+                    "album": "Stoned",
+                    "year": "2010",
+                    "albumLink": "https://open.spotify.com/album/31DbYsp8hL2iHGheQrJtxZ",
+                    "discogsLink": "https://www.discogs.com/master/294205",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=41662&band_id=3634&bandname=Acid+Witch",
+                    "msRating": "8.3",
+                    "archivesLink": "https://www.metal-archives.com/albums/Acid%20Witch/Stoned"
+                },
+                {
+                    "album": "Evil Sound Screamers",
+                    "year": "2017",
+                    "albumLink": "https://open.spotify.com/album/1QzU5KdnHe5vb5OcnU728r",
+                    "discogsLink": "https://www.discogs.com/master/1279959",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=92870&band_id=3634&bandname=Acid+Witch",
+                    "msRating": "7.1",
+                    "archivesLink": "https://www.metal-archives.com/albums/Acid%20Witch/Evil%20Sound%20Screamers"
+                },
+                {
+                    "album": "Rot Among Us",
+                    "year": "2022",
+                    "albumLink": "https://open.spotify.com/album/1aqFLuL8HmPpzM46bAvLLT",
+                    "discogsLink": "https://www.discogs.com/master/2826965",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=153577&band_id=3634&bandname=Acid+Witch",
+                    "msRating": "7.5",
+                    "archivesLink": "https://www.metal-archives.com/albums/Acid%20Witch/Rot%20Among%20Us"
+                }
+            ]
+        },
+        {
+            "artist": "Bezoar",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Wyt Deth",
+                    "year": "2012",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/531969",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Bezoar/Wyt%20Deth"
+                }
+            ]
+        },
+        {
+            "artist": "Blood Ceremony",
+            "country": "Canada",
+            "albums": [
+                {
+                    "album": "Blood Ceremony",
+                    "year": "2008",
+                    "albumLink": "https://open.spotify.com/album/6R6rHfcf3KOlclxj52u9uO",
+                    "discogsLink": "https://www.discogs.com/master/50124",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=41931&band_id=4805&bandname=Blood+Ceremony",
+                    "msRating": "8.1",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blood%20Ceremony/Blood%20Ceremony"
+                },
+                {
+                    "album": "Living with the Ancients",
+                    "year": "2011",
+                    "albumLink": "https://open.spotify.com/album/3Ixd0Z5uiqGuEXgQoFROYq",
+                    "discogsLink": "https://www.discogs.com/master/338757",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=48050&band_id=4805&bandname=Blood+Ceremony",
+                    "msRating": "8.4",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blood%20Ceremony/Living%20with%20the%20Ancients"
+                },
+                {
+                    "album": "The Eldritch Dark",
+                    "year": "2013",
+                    "albumLink": "https://open.spotify.com/album/4Syg4ygPBaQLuDYs5HEALA",
+                    "discogsLink": "https://www.discogs.com/master/561925",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=70440&band_id=4805&bandname=Blood+Ceremony",
+                    "msRating": "8.4",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blood%20Ceremony/The%20Eldritch%20Dark"
+                },
+                {
+                    "album": "Lord of Misrule",
+                    "year": "2016",
+                    "albumLink": "https://open.spotify.com/album/5ZxI30AGxfMgiyDH29bWaa",
+                    "discogsLink": "https://www.discogs.com/master/988035",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=85866&band_id=4805&bandname=Blood+Ceremony",
+                    "msRating": "7.8",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blood%20Ceremony/Lord%20of%20Misrule"
+                },
+                {
+                    "album": "The Old Ways Remain",
+                    "year": "2023",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/561925",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=162082&band_id=4805&bandname=Blood+Ceremony",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blood%20Ceremony/The%20Old%20Ways%20Remain"
+                }
+            ]
+        },
+        {
+            "artist": "Clorange",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Instinct",
+                    "year": "2012",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/6702847",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Clorange/Instinct"
+                }
+            ]
+        },
+        {
+            "artist": "Dark Buddha Rising",
+            "country": "Finland",
+            "albums": [
+                {
+                    "album": "I",
+                    "year": "2007",
+                    "albumLink": "https://open.spotify.com/album/7xUqeKkVO0Mltq3TkWNzWj",
+                    "discogsLink": "https://www.discogs.com/release/2811144",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Dark%20Buddha%20Rising/I"
+                },
+                {
+                    "album": "Ritual IX",
+                    "year": "2008",
+                    "albumLink": "https://open.spotify.com/album/4xBUPTMC8hNbXrOzse4qp3",
+                    "discogsLink": "https://www.discogs.com/master/1463097",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=58861&band_id=6698&bandname=Dark+Buddha+Rising",
+                    "msRating": "7.6",
+                    "archivesLink": "https://www.metal-archives.com/albums/Dark%20Buddha%20Rising/Ritual%20IX"
+                },
+                {
+                    "album": "Entheomorphosis",
+                    "year": "2009",
+                    "albumLink": "https://open.spotify.com/album/3U05aBsiL1juOrDpA3xW9Z",
+                    "discogsLink": "https://www.discogs.com/master/1463111",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=58862&band_id=6698&bandname=Dark+Buddha+Rising",
+                    "msRating": "6.8",
+                    "archivesLink": "https://www.metal-archives.com/albums/Dark%20Buddha%20Rising/Entheomorphosis"
+                },
+                {
+                    "album": "Abyssolute Transfinite",
+                    "year": "2011",
+                    "albumLink": "https://open.spotify.com/album/60U5CQYXNBDkjsupQNPoIx",
+                    "discogsLink": "https://www.discogs.com/master/1463118",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=58863&band_id=6698&bandname=Dark+Buddha+Rising",
+                    "msRating": "7.1",
+                    "archivesLink": "https://www.metal-archives.com/albums/Dark%20Buddha%20Rising/Abyssolute%20Transfinite"
+                },
+                {
+                    "album": "Dakhmandal",
+                    "year": "2013",
+                    "albumLink": "https://open.spotify.com/album/2CMGVMUbvoAHrhDSEUs0br",
+                    "discogsLink": "https://www.discogs.com/master/569298",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=70228&band_id=6698&bandname=Dark+Buddha+Rising",
+                    "msRating": "7.2",
+                    "archivesLink": "https://www.metal-archives.com/albums/Dark%20Buddha%20Rising/Dakhmandal"
+                },
+                {
+                    "album": "Inversum",
+                    "year": "2015",
+                    "albumLink": "https://open.spotify.com/album/7xUqeKkVO0Mltq3TkWNzWj",
+                    "discogsLink": "https://www.discogs.com/master/890096",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83978&band_id=6698&bandname=Dark+Buddha+Rising",
+                    "msRating": "7.4",
+                    "archivesLink": "https://www.metal-archives.com/albums/Dark%20Buddha%20Rising/Inversum"
+                },
+                {
+                    "album": "Mathreyata",
+                    "year": "2020",
+                    "albumLink": "https://open.spotify.com/album/3tDMZd5gWciM8uvwxtVif8",
+                    "discogsLink": "https://www.discogs.com/master/1837488",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=120050&band_id=6698&bandname=Dark+Buddha+Rising",
+                    "msRating": "7.7",
+                    "archivesLink": "https://www.metal-archives.com/albums/Dark%20Buddha%20Rising/Mathreyata"
+                }
+            ]
+        },
+        {
+            "artist": "Mother Witch",
+            "country": "Ukraine",
+            "albums": [
+                {
+                    "album": "Mother Witch & Dead Water Ghosts",
+                    "year": "2014",
+                    "albumLink": "https://open.spotify.com/album/1v6pTbOhjqbQywswxJREQu",
+                    "discogsLink": "https://www.discogs.com/master/1159924",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=85598&band_id=9268&bandname=Mother+Witch+%26+Dead+Water+Ghosts",
+                    "msRating": "7",
+                    "archivesLink": "https://www.metal-archives.com/albums/Mother%20Witch/Mother%20Witch%20&%20Dead%20Water%20Ghosts"
+                }
+            ]
+        },
+        {
+            "artist": "Nibiru",
+            "country": "Italy",
+            "albums": [
+                {
+                    "album": "Caosgon",
+                    "year": "2013",
+                    "albumLink": "https://open.spotify.com/album/4ek4F1VPCHRAgJGEI35wWF",
+                    "discogsLink": "https://www.discogs.com/master/807195",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Nibiru/Caosgon"
+                },
+                {
+                    "album": "Netrayoni",
+                    "year": "2014",
+                    "albumLink": "https://open.spotify.com/album/71l9qNorWoX4hwllnVjnUl",
+                    "discogsLink": "https://www.discogs.com/master/1692190",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Nibiru/Netrayoni"
+                },
+                {
+                    "album": "Padmalotus",
+                    "year": "2015",
+                    "albumLink": "https://open.spotify.com/album/0ksRtTNSinfuEbkjw97Is3",
+                    "discogsLink": "https://www.discogs.com/master/1010928",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Nibiru/Padmalotus"
+                },
+                {
+                    "album": "Qaal Babalon",
+                    "year": "2017",
+                    "albumLink": "https://open.spotify.com/album/0OZKT8ramXVsP3774jHoUb",
+                    "discogsLink": "https://www.discogs.com/release/10997139",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Nibiru/Qaal%20Babalon"
+                },
+                {
+                    "album": "Salbrox",
+                    "year": "2019",
+                    "albumLink": "https://open.spotify.com/album/5AB4R8qzgqAyb4msowCxOO",
+                    "discogsLink": "https://www.discogs.com/master/1578879",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Nibiru/Salbrox"
+                },
+                {
+                    "album": "Panspermia",
+                    "year": "2020",
+                    "albumLink": "https://open.spotify.com/album/0FTf1ekLPQuMP64yLnUpzb",
+                    "discogsLink": "https://www.discogs.com/master/1943643",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Nibiru/Panspermia"
+                },
+                {
+                    "album": "Anamorphosis",
+                    "year": "2023",
+                    "albumLink": "",
+                    "discogsLink": "",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Nibiru/Anamorphosis"
+                }
+            ]
+        },
+        {
+            "artist": "Redwood Blues",
+            "country": "Japan",
+            "albums": [
+                {
+                    "album": "The Pace of the Ordeal",
+                    "year": "2005",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/15624131",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Redwood%20Blues/The%20Pace%20of%20the%20Ordeal"
+                }
+            ]
+        },
+        {
+            "artist": "Rise and Shine",
+            "country": "Sweden",
+            "albums": [
+                {
+                    "album": "Flowerpowermetal",
+                    "year": "1998",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/325553",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=127725&band_id=14241&bandname=Rise+And+Shine",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rise%20and%20Shine/Flowerpowermetal"
+                },
+                {
+                    "album": "Roadflower",
+                    "year": "1999",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/311086",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=127726&band_id=14241&bandname=Rise+And+Shine",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rise%20and%20Shine/Roadflower"
+                },
+                {
+                    "album": "Ghosts of the Past",
+                    "year": "2006",
+                    "albumLink": "https://open.spotify.com/album/2DOv05RGHGfqnoIYmXuDDY",
+                    "discogsLink": "https://www.discogs.com/master/109499",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=127727&band_id=14241&bandname=Rise+And+Shine",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rise%20and%20Shine/Ghosts%20of%20the%20Past"
+                },
+                {
+                    "album": "Empty Hand",
+                    "year": "2011",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/538760",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=127728&band_id=14241&bandname=Rise+And+Shine",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rise%20and%20Shine/Empty%20Hand"
+                },
+                {
+                    "album": "In the Shadow",
+                    "year": "2017",
+                    "albumLink": "https://open.spotify.com/album/4N96IK4hnsxKuPrEHE4XHN",
+                    "discogsLink": "https://www.discogs.com/release/10291150",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=127729&band_id=14241&bandname=Rise+And+Shine",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rise%20and%20Shine/In%20the%20Shadow"
+                }
+            ]
+        },
+        {
+            "artist": "Spacegoat",
+            "country": "Mexico",
+            "albums": [
+                {
+                    "album": "Superstition",
+                    "year": "2016",
+                    "albumLink": "https://open.spotify.com/album/5wtMJufVlPUaW60i7C5ecF",
+                    "discogsLink": "https://www.discogs.com/release/15146431",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Spacegoat/Superstition"
+                }
+            ]
+        },
+        {
+            "artist": "Sungod",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "First Matter",
+                    "year": "2010",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/973092",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/First%20Matter"
+                },
+                {
+                    "album": "Laurentide & Cordilleran + Others",
+                    "year": "2011",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/1002930",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/Laurentide%20&%20Cordilleran%20+%20Others"
+                },
+                {
+                    "album": "Cuts from the Ether",
+                    "year": "2012",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/3727873",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/Cuts%20from%20the%20Ether"
+                },
+                {
+                    "album": "Crash Galactic",
+                    "year": "2012",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/3793394",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/Crash%20Galactic"
+                },
+                {
+                    "album": "Contackt",
+                    "year": "2013",
+                    "albumLink": "https://open.spotify.com/album/17udet9gLZzBZFdLQvcF4H",
+                    "discogsLink": "https://www.discogs.com/release/4766880",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/Contackt"
+                },
+                {
+                    "album": "Vision Space",
+                    "year": "2014",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/8536317",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/Vision%20Space"
+                },
+                {
+                    "album": "Sungod",
+                    "year": "2014",
+                    "albumLink": "https://open.spotify.com/album/69avoYNMV9Ha3PUNJ65isA",
+                    "discogsLink": "https://www.discogs.com/master/796294",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/Sungod"
+                },
+                {
+                    "album": "Wave Refraction",
+                    "year": "2018",
+                    "albumLink": "https://open.spotify.com/album/0PD0MCjz951WoXWhbtEyUR",
+                    "discogsLink": "https://www.discogs.com/master/1440675",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sungod/Wave%20Refraction"
+                }
+            ]
+        },
+        {
+            "artist": "Superlynx",
+            "country": "Norway",
+            "albums": [
+                {
+                    "album": "LVX",
+                    "year": "2016",
+                    "albumLink": "https://open.spotify.com/album/5mx6WVhp0dFgZ9p22k1VfU",
+                    "discogsLink": "https://www.discogs.com/master/1126415",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98341&band_id=10576&bandname=Superlynx",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Superlynx/LVX"
+                },
+                {
+                    "album": "New Moon",
+                    "year": "2019",
+                    "albumLink": "https://open.spotify.com/album/5bkxkL7kOkjC46R6zl9rzk",
+                    "discogsLink": "https://www.discogs.com/master/1633362",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98340&band_id=10576&bandname=Superlynx",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Superlynx/New%20Moon"
+                },
+                {
+                    "album": "Electric Temple",
+                    "year": "2021",
+                    "albumLink": "https://open.spotify.com/album/0JfgeRIobDDuvyz9kw3tM3",
+                    "discogsLink": "https://www.discogs.com/master/2311246",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=126293&band_id=10576&bandname=Superlynx",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Superlynx/Electric%20Temple"
+                }
+            ]
+        },
+        {
+            "artist": "The Fërtility Cült",
+            "country": "Finland",
+            "albums": [
+                {
+                    "album": "Eschatology",
+                    "year": "2010",
+                    "albumLink": "https://open.spotify.com/album/7o7UL6PeHJiWd4TqYBeY22",
+                    "discogsLink": "https://www.discogs.com/master/1717805",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/The%20F%C3%ABrtility%20C%C3%BClt/Eschatology"
+                },
+                {
+                    "album": "Heavenly Bodies",
+                    "year": "2013",
+                    "albumLink": "https://open.spotify.com/album/50SZDSZZ3vgEeC2NUa5onc",
+                    "discogsLink": "https://www.discogs.com/master/1717808",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/The%20F%C3%ABrtility%20C%C3%BClt/Heavenly%20Bodies"
+                },
+                {
+                    "album": "A Forest of Kings",
+                    "year": "2016",
+                    "albumLink": "https://open.spotify.com/album/1sorT9T8ZfyZkVjGcege3o",
+                    "discogsLink": "https://www.discogs.com/master/1717810",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/The%20F%C3%ABrtility%20C%C3%BClt/A%20Forest%20of%20Kings"
+                },
+                {
+                    "album": "Kosmodysseia",
+                    "year": "2019",
+                    "albumLink": "https://open.spotify.com/album/7HX7QkeJG9UPaaQyS8EBXb",
+                    "discogsLink": "https://www.discogs.com/master/1717811",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/The%20F%C3%ABrtility%20C%C3%BClt/Kosmodysseia"
+                }
+            ]
+        },
+        {
+            "artist": "The Well",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Samsara",
+                    "year": "2014",
+                    "albumLink": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C",
+                    "discogsLink": "https://www.discogs.com/master/738727",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=128808&band_id=14395&bandname=The+Well",
+                    "msRating": "7.5",
+                    "archivesLink": "https://www.metal-archives.com/albums/The%20Well/Samsara"
+                },
+                {
+                    "album": "Pagan Science",
+                    "year": "2016",
+                    "albumLink": "https://open.spotify.com/album/6ZApdV3g980ekt9xoMmzco",
+                    "discogsLink": "https://www.discogs.com/master/1075560",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=128807&band_id=14395&bandname=The+Well",
+                    "msRating": "8.5",
+                    "archivesLink": "https://www.metal-archives.com/albums/The%20Well/Pagan%20Science"
+                },
+                {
+                    "album": "Death and Consolation",
+                    "year": "2019",
+                    "albumLink": "https://open.spotify.com/album/62dStnutISMpigjhEBpNu3",
+                    "discogsLink": "https://www.discogs.com/master/1538227",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=128806&band_id=14395&bandname=The+Well",
+                    "msRating": "7.7",
+                    "archivesLink": "https://www.metal-archives.com/albums/The%20Well/Death%20and%20Consolation"
+                }
+            ]
+        },
+        {
+            "artist": "Bacchus Priest",
+            "country": "Greece",
+            "albums": [
+                {
+                    "album": "Bacchus Priest",
+                    "year": "2015",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/8583579",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Bacchus%20Priest/Bacchus%20Priest"
+                }
+            ]
+        },
+        {
+            "artist": "Drug Honkey",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Drug Honkey",
+                    "year": "2002",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/10146294",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=64877&band_id=3526&bandname=Drug+Honkey",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Drug%20Honkey/Drug%20Honkey"
+                },
+                {
+                    "album": "Hail Satan",
+                    "year": "2005",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/1336983",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=64878&band_id=3526&bandname=Drug+Honkey",
+                    "msRating": "5",
+                    "archivesLink": "https://www.metal-archives.com/albums/Drug%20Honkey/Hail%20Satan"
+                },
+                {
+                    "album": "Death Dub",
+                    "year": "2008",
+                    "albumLink": "https://open.spotify.com/album/5j5fmbdEq371K3eaGz5Oas",
+                    "discogsLink": "https://www.discogs.com/release/2876637",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=28750&band_id=3526&bandname=Drug+Honkey",
+                    "msRating": "8.3",
+                    "archivesLink": "https://www.metal-archives.com/albums/Drug%20Honkey/Death%20Dub"
+                },
+                {
+                    "album": "Ghost in the Fire",
+                    "year": "2012",
+                    "albumLink": "https://open.spotify.com/album/3bUunxIEr8Sq1kY8soMxgu",
+                    "discogsLink": "https://www.discogs.com/master/1226345",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=59323&band_id=3526&bandname=Drug+Honkey",
+                    "msRating": "7.7",
+                    "archivesLink": "https://www.metal-archives.com/albums/Drug%20Honkey/Ghost%20in%20the%20Fire"
+                },
+                {
+                    "album": "Cloak of Skies",
+                    "year": "2017",
+                    "albumLink": "https://open.spotify.com/album/0d3olwEUFoZwsHd92Q0aML",
+                    "discogsLink": "https://www.discogs.com/master/1179624",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=91255&band_id=3526&bandname=Drug+Honkey",
+                    "msRating": "6.7",
+                    "archivesLink": "https://www.metal-archives.com/albums/Drug%20Honkey/Cloak%20of%20Skies"
+                }
+            ]
+        },
+        {
+            "artist": "King Goblin",
+            "country": "Japan",
+            "albums": [
+                {
+                    "album": "Goblin King",
+                    "year": "2007",
+                    "albumLink": "https://open.spotify.com/album/6YCouh2hN6gleDxaX1mWTR",
+                    "discogsLink": "https://www.discogs.com/master/712773",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/King%20Goblin/Goblin%20King"
+                },
+                {
+                    "album": "Cryptozoology",
+                    "year": "2016",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/7913826",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/King%20Goblin/Cryptozoology"
+                }
+            ]
+        },
+        {
+            "artist": "Matus",
+            "country": "Peru",
+            "albums": [
+                {
+                    "album": "Don Juan Matus",
+                    "year": "2007",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/421673",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Matus/Don%20Juan%20Matus"
+                },
+                {
+                    "album": "Visiones paganas",
+                    "year": "2008",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/587400",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Matus/Visiones%20paganas"
+                },
+                {
+                    "album": "Más allá del sol poniente",
+                    "year": "2010",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/682908",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Matus/M%C3%A1s%20all%C3%A1%20del%20sol%20poniente"
+                },
+                {
+                    "album": "Espejismos",
+                    "year": "2013",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/937451",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Matus/Espejismos"
+                },
+                {
+                    "album": "Claroscuro",
+                    "year": "2015",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/10659011",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Matus/Claroscuro"
+                },
+                {
+                    "album": "Espejismos II",
+                    "year": "2021",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/937451",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Matus/Espejismos%20II"
+                }
+            ]
+        },
+        {
+            "artist": "Stonehenge",
+            "country": "Germany",
+            "albums": [
+                {
+                    "album": "Bunch of Bisons",
+                    "year": "2013",
+                    "albumLink": "https://open.spotify.com/album/1nZRlSRbMuWnEsKZzQVJPF",
+                    "discogsLink": "https://www.discogs.com/master/1200106",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Stonehenge/Bunch%20of%20Bisons"
+                },
+                {
+                    "album": "Mild Thing",
+                    "year": "2017",
+                    "albumLink": "https://open.spotify.com/album/04Up5uDe59QQzAaoNpflRc",
+                    "discogsLink": "https://www.discogs.com/master/1284488",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Stonehenge/Mild%20Thing"
+                }
+            ]
+        },
+        {
+            "artist": "Is Love Alive?",
+            "country": "Germany",
+            "albums": [
+                {
+                    "album": "Final Journey",
+                    "year": "2018",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/13448117",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Is%20Love%20Alive?/Final%20Journey"
+                },
+                {
+                    "album": "Second to None",
+                    "year": "2020",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/15883823",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Is%20Love%20Alive?/Second%20to%20None"
+                }
+            ]
+        },
+        {
+            "artist": "Flummox",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Phlummoxygen",
+                    "year": "2014",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/18143293",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=143219&band_id=16745&bandname=Flummox",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Flummox/Phlummoxygen"
+                },
+                {
+                    "album": "Selcouth",
+                    "year": "2016",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/15802765",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=143220&band_id=16745&bandname=Flummox",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Flummox/Selcouth"
+                },
+                {
+                    "album": "Intellectual Hooliganism",
+                    "year": "2018",
+                    "albumLink": "https://open.spotify.com/album/0fYJMJ0cLtYZCBkWB0Erf9",
+                    "discogsLink": "https://www.discogs.com/master/1608128",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=143222&band_id=16745&bandname=Flummox",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Flummox/Intellectual%20Hooliganism"
+                },
+                {
+                    "album": "Rephlummoxed",
+                    "year": "2022",
+                    "albumLink": "https://open.spotify.com/album/6hPss3T5InXmdXDDnQXk4d",
+                    "discogsLink": "https://www.discogs.com/master/2572286",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=143225&band_id=16745&bandname=Flummox",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Flummox/Rephlummoxed"
+                }
+            ]
+        },
+        {
+            "artist": "Garden of Worm",
+            "country": "Finland",
+            "albums": [
+                {
+                    "album": "Garden of Worm",
+                    "year": "2010",
+                    "albumLink": "https://open.spotify.com/album/4zhmLY1sTam6mJ7ImzkKfM",
+                    "discogsLink": "https://www.discogs.com/master/527969",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=115671&band_id=12312&bandname=Garden+Of+Worm",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Garden%20of%20Worm/Garden%20of%20Worm"
+                },
+                {
+                    "album": "Idle Stones",
+                    "year": "2015",
+                    "albumLink": "https://open.spotify.com/album/5poUlo1hBdYWY53bFDLK45",
+                    "discogsLink": "https://www.discogs.com/master/814336",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=115673&band_id=12312&bandname=Garden+Of+Worm",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Garden%20of%20Worm/Idle%20Stones"
+                },
+                {
+                    "album": "Endless Garden",
+                    "year": "2022",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/2716079",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=148554&band_id=12312&bandname=Garden+Of+Worm",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Garden%20of%20Worm/Endless%20Garden"
+                }
+            ]
+        },
+        {
+            "artist": "Paul Chain",
+            "country": "Italy",
+            "albums": [
+                {
+                    "album": "Life and Death",
+                    "year": "1989",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/284650",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83441&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "7.2",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Life%20and%20Death"
+                },
+                {
+                    "album": "Violet Art of Improvisation",
+                    "year": "1989",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/124971",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83442&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "3.3",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Violet%20Art%20of%20Improvisation"
+                },
+                {
+                    "album": "Opera Decima - The World of the End",
+                    "year": "1990",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/283569",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83444&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "1.7",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Opera%20Decima%20-%20The%20World%20of%20the%20End"
+                },
+                {
+                    "album": "Whited Sepulchres",
+                    "year": "1991",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/396291",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83446&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "3",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Whited%20Sepulchres"
+                },
+                {
+                    "album": "Dies Irae",
+                    "year": "1994",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/1187056",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83451&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "2",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Dies%20Irae"
+                },
+                {
+                    "album": "Alkahest",
+                    "year": "1995",
+                    "albumLink": "https://open.spotify.com/album/3RiVhEahikRRBWkgdBTm2U",
+                    "discogsLink": "https://www.discogs.com/master/289665",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83452&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "8",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Alkahest"
+                },
+                {
+                    "album": "Emisphere",
+                    "year": "1997",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/1912089",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83453&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "2",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Emisphere"
+                },
+                {
+                    "album": "Master of All Times",
+                    "year": "2001",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/1233948",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83461&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "6.5",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Master%20of%20All%20Times"
+                },
+                {
+                    "album": "Sign from Space",
+                    "year": "2001",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/304235",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83462&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "7",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Sign%20from%20Space"
+                },
+                {
+                    "album": "Park of Reason",
+                    "year": "2002",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/412497",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83464&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "8",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Park%20of%20Reason"
+                },
+                {
+                    "album": "Cosmic Wind",
+                    "year": "2003",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/2125034",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=83468&band_id=8994&bandname=Paul+Chain",
+                    "msRating": "7",
+                    "archivesLink": "https://www.metal-archives.com/albums/Paul%20Chain/Cosmic%20Wind"
+                }
+            ]
+        },
+        {
+            "artist": "Stonebride",
+            "country": "Croatia",
+            "albums": [
+                {
+                    "album": "Inner Seasons",
+                    "year": "2008",
+                    "albumLink": "https://open.spotify.com/album/0yctsQAUamWcvElJ1xFXGW",
+                    "discogsLink": "https://www.discogs.com/master/261783",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Stonebride/Inner%20Seasons"
+                },
+                {
+                    "album": "Summon the Waves",
+                    "year": "2010",
+                    "albumLink": "https://open.spotify.com/album/5K8B0VIu4hkoz5oMVuXKsU",
+                    "discogsLink": "https://www.discogs.com/master/363460",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Stonebride/Summon%20the%20Waves"
+                },
+                {
+                    "album": "Heavy Envelope",
+                    "year": "2014",
+                    "albumLink": "https://open.spotify.com/album/4xHia3R0z3X2hD39zki416",
+                    "discogsLink": "https://www.discogs.com/master/772508",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Stonebride/Heavy%20Envelope"
+                }
+            ]
+        },
+        {
+            "artist": "Rose Kemp",
+            "country": "United Kingdom",
+            "albums": [
+                {
+                    "album": "Glance",
+                    "year": "2003",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/5305283",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rose%20Kemp/Glance"
+                },
+                {
+                    "album": "A Hand Full of Hurricanes",
+                    "year": "2007",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/514165",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rose%20Kemp/A%20Hand%20Full%20of%20Hurricanes"
+                },
+                {
+                    "album": "Unholy Majesty",
+                    "year": "2008",
+                    "albumLink": "https://open.spotify.com/album/2olrP7llC5C2QnI71z3Qwd",
+                    "discogsLink": "https://www.discogs.com/master/365935",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rose%20Kemp/Unholy%20Majesty"
+                },
+                {
+                    "album": "Golden Shroud",
+                    "year": "2010",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/1012356",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Rose%20Kemp/Golden%20Shroud"
+                }
+            ]
+        },
+        {
+            "artist": "Cripta Blue",
+            "country": "Italy",
+            "albums": [
+                {
+                    "album": "Cripta Blue",
+                    "year": "2021",
+                    "albumLink": "https://open.spotify.com/album/5FlpVj3lYsjsSUY4ccUQp0",
+                    "discogsLink": "https://www.discogs.com/release/22211059",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=132697&band_id=14573&bandname=Cripta+Blue",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Cripta%20Blue/Cripta%20Blue"
+                }
+            ]
+        },
+        {
+            "artist": "Elbrus",
+            "country": "Australia",
+            "albums": [
+                {
+                    "album": "Elbrus",
+                    "year": "2016",
+                    "albumLink": "https://open.spotify.com/album/78VxzZCZk9QS7CRB9vc8cG",
+                    "discogsLink": "https://www.discogs.com/master/1124976",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Elbrus/Elbrus"
+                }
+            ]
+        },
+        {
+            "artist": "Greenseeker",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "The Wish",
+                    "year": "2022",
+                    "albumLink": "https://open.spotify.com/album/2kUSsqisA9z5ygmh8kbOVi",
+                    "discogsLink": "https://www.discogs.com/release/23420522",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Greenseeker/The%20Wish"
+                }
+            ]
+        },
+        {
+            "artist": "High Priestess",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "High Priestess",
+                    "year": "2018",
+                    "albumLink": "https://open.spotify.com/album/4fMfbhqfIznkFaxoSPXuvo",
+                    "discogsLink": "https://www.discogs.com/master/1374024",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=110263&band_id=11594&bandname=High+Priestess",
+                    "msRating": "7.5",
+                    "archivesLink": "https://www.metal-archives.com/albums/High%20Priestess/High%20Priestess"
+                },
+                {
+                    "album": "Casting the Circle",
+                    "year": "2020",
+                    "albumLink": "https://open.spotify.com/album/3TfVVQxEdh2KyE9ypnBTQd",
+                    "discogsLink": "https://www.discogs.com/master/1722199",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=110262&band_id=11594&bandname=High+Priestess",
+                    "msRating": "7.3",
+                    "archivesLink": "https://www.metal-archives.com/albums/High%20Priestess/Casting%20the%20Circle"
+                }
+            ]
+        },
+        {
+            "artist": "Lucid Grave",
+            "country": "Denmark",
+            "albums": [
+                {
+                    "album": "Goddess of Misery",
+                    "year": "2020",
+                    "albumLink": "https://open.spotify.com/album/5hgdsVfGbK3UlgWgwoI9XQ",
+                    "discogsLink": "https://www.discogs.com/release/15127380",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Lucid%20Grave/Goddess%20of%20Misery"
+                },
+                {
+                    "album": "Cosmic Mountain",
+                    "year": "2022",
+                    "albumLink": "https://open.spotify.com/album/36SxPkqsAsCZJdKl1CgIzN",
+                    "discogsLink": "https://www.discogs.com/master/2710136",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Lucid%20Grave/Cosmic%20Mountain"
+                }
+            ]
+        },
+        {
+            "artist": "MWWB",
+            "country": "United Kingdom",
+            "albums": [
+                {
+                    "album": "Noeth ac Anoeth",
+                    "year": "2015",
+                    "albumLink": "",
+                    "discogsLink": "",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98141&band_id=10538&bandname=Mammoth+Weed+Wizard+Bastard",
+                    "msRating": "7.4",
+                    "archivesLink": "https://www.metal-archives.com/albums/MWWB/Noeth%20ac%20Anoeth"
+                },
+                {
+                    "album": "Y Proffwyd Dwyll",
+                    "year": "2016",
+                    "albumLink": "",
+                    "discogsLink": "",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98140&band_id=10538&bandname=Mammoth+Weed+Wizard+Bastard",
+                    "msRating": "7.4",
+                    "archivesLink": "https://www.metal-archives.com/albums/MWWB/Y%20Proffwyd%20Dwyll"
+                },
+                {
+                    "album": "Yn Ol I Annwn",
+                    "year": "2019",
+                    "albumLink": "",
+                    "discogsLink": "",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98139&band_id=10538&bandname=Mammoth+Weed+Wizard+Bastard",
+                    "msRating": "7.4",
+                    "archivesLink": "https://www.metal-archives.com/albums/MWWB/Yn%20Ol%20I%20Annwn"
+                },
+                {
+                    "album": "The Harvest",
+                    "year": "2022",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/master/2565458",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=142968&band_id=10538&bandname=Mammoth+Weed+Wizard+Bastard",
+                    "msRating": "7.7",
+                    "archivesLink": "https://www.metal-archives.com/albums/MWWB/The%20Harvest"
+                }
+            ]
+        },
+        {
+            "artist": "Psychic Dose",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Satyrnalia",
+                    "year": "2015",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/7839791",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Psychic%20Dose/Satyrnalia"
+                },
+                {
+                    "album": "Myrkviðr",
+                    "year": "2016",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/13875141",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Psychic%20Dose/Myrkvi%C3%B0r"
+                },
+                {
+                    "album": "Malefecium Volume 1: Death of the Sorcerer",
+                    "year": "2018",
+                    "albumLink": "",
+                    "discogsLink": "",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Psychic%20Dose/Malefecium%20Volume%201:%20Death%20of%20the%20Sorcerer"
+                },
+                {
+                    "album": "Gateway to Annwn",
+                    "year": "2018",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/13576608",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Psychic%20Dose/Gateway%20to%20Annwn"
+                }
+            ]
+        },
+        {
+            "artist": "Sign of the Sorcerer",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Obsessions of the Vile",
+                    "year": "2021",
+                    "albumLink": "https://open.spotify.com/album/5PWeoa4v7vCfa8JyBzghAZ",
+                    "discogsLink": "",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Sign%20of%20the%20Sorcerer/Obsessions%20of%20the%20Vile"
+                }
+            ]
+        },
+        {
+            "artist": "Spiral Skies",
+            "country": "Sweden",
+            "albums": [
+                {
+                    "album": "Blues for a Dying Planet",
+                    "year": "2018",
+                    "albumLink": "https://open.spotify.com/album/3LTSUIp8Eq1SwmQwgkzOBO",
+                    "discogsLink": "https://www.discogs.com/master/1391383",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=158099&band_id=19669&bandname=Spiral+Skies",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Spiral%20Skies/Blues%20for%20a%20Dying%20Planet"
+                },
+                {
+                    "album": "Death Is But a Door",
+                    "year": "2022",
+                    "albumLink": "https://open.spotify.com/album/5OwDWfxKf3JIz7cwrcd5aS",
+                    "discogsLink": "https://www.discogs.com/master/2592185",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=158102&band_id=19669&bandname=Spiral+Skies",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Spiral%20Skies/Death%20Is%20But%20a%20Door"
+                }
+            ]
+        },
+        {
+            "artist": "Year of the Cobra",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "...in the Shadows Below",
+                    "year": "2016",
+                    "albumLink": "https://open.spotify.com/album/5Z5SKoIifxaF4I8HjeT2Ic",
+                    "discogsLink": "https://www.discogs.com/master/1106964",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=98394&band_id=10585&bandname=Year+Of+The+Cobra",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Year%20of%20the%20Cobra/...in%20the%20Shadows%20Below"
+                },
+                {
+                    "album": "Ash and Dust",
+                    "year": "2019",
+                    "albumLink": "https://open.spotify.com/album/15y9JnslutPHBRSJe6TZmB",
+                    "discogsLink": "https://www.discogs.com/master/1630660",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=103700&band_id=10585&bandname=Year+Of+The+Cobra",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Year%20of%20the%20Cobra/Ash%20and%20Dust"
+                }
+            ]
+        },
+        {
+            "artist": "Besvärjelsen",
+            "country": "Sweden",
+            "albums": [
+                {
+                    "album": "Vallmo",
+                    "year": "2018",
+                    "albumLink": "https://open.spotify.com/album/1cDVoLz4pk2CVlK4GucKry",
+                    "discogsLink": "https://www.discogs.com/master/1493634",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=129099&band_id=14427&bandname=Besv%C3%A4rjelsen",
+                    "msRating": "9",
+                    "archivesLink": "https://www.metal-archives.com/albums/Besv%C3%A4rjelsen/Vallmo"
+                },
+                {
+                    "album": "Atlas",
+                    "year": "2022",
+                    "albumLink": "https://open.spotify.com/album/1vwrThsv99gKQ7Kkf4EcCH",
+                    "discogsLink": "https://www.discogs.com/master/2649737",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=142714&band_id=14427&bandname=Besv%C3%A4rjelsen",
+                    "msRating": "7.3",
+                    "archivesLink": "https://www.metal-archives.com/albums/Besv%C3%A4rjelsen/Atlas"
+                }
+            ]
+        },
+        {
+            "artist": "Blackwater Holylight",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Blackwater Holylight",
+                    "year": "2018",
+                    "albumLink": "https://open.spotify.com/album/61cYIGd2N2MjeJW1masPNv",
+                    "discogsLink": "https://www.discogs.com/master/1346291",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=136096&band_id=15359&bandname=Blackwater+Holylight",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blackwater%20Holylight/Blackwater%20Holylight"
+                },
+                {
+                    "album": "Veils of Winter",
+                    "year": "2019",
+                    "albumLink": "https://open.spotify.com/album/0W4AROdr18VyFZqzOUmdYb",
+                    "discogsLink": "https://www.discogs.com/master/1619764",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=136097&band_id=15359&bandname=Blackwater+Holylight",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blackwater%20Holylight/Veils%20of%20Winter"
+                },
+                {
+                    "album": "Silence​/​Motion",
+                    "year": "2021",
+                    "albumLink": "https://open.spotify.com/album/06rY9A3QaKVqDZRXXSjUYf",
+                    "discogsLink": "https://www.discogs.com/master/2355355",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Blackwater%20Holylight/Silence%E2%80%8B/%E2%80%8BMotion"
+                }
+            ]
+        },
+        {
+            "artist": "Gaupa",
+            "country": "Sweden",
+            "albums": [
+                {
+                    "album": "Feberdröm",
+                    "year": "2020",
+                    "albumLink": "https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w",
+                    "discogsLink": "https://www.discogs.com/master/1715786",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=116874&band_id=12515&bandname=Gaupa",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Gaupa/Feberdr%C3%B6m"
+                },
+                {
+                    "album": "Myriad",
+                    "year": "2022",
+                    "albumLink": "https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC",
+                    "discogsLink": "https://www.discogs.com/master/2872483",
+                    "msLink": "https://metalstorm.net/bands/album.php?album_id=145537&band_id=12515&bandname=Gaupa",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Gaupa/Myriad"
+                }
+            ]
+        },
+        {
+            "artist": "Hexthrower",
+            "country": "United States",
+            "albums": [
+                {
+                    "album": "Mythos Tragoedia",
+                    "year": "2015",
+                    "albumLink": "",
+                    "discogsLink": "https://www.discogs.com/release/14729933",
+                    "msLink": "",
+                    "msRating": "",
+                    "archivesLink": "https://www.metal-archives.com/albums/Hexthrower/Mythos%20Tragoedia"
+                }
+            ]
+        }
+    ],
+    [
+        {
             "artist": "Acid King",
             "albums": [
                 {
