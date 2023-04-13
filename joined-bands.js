@@ -5,7 +5,7 @@ export default {
             "albums": [
                 {
                     "album": "De zwaarte van het doorstane",
-                    "albumLink": "https://open.spotify.com/albums/0fBzdzLOW3guRArnBpvpPD",
+                    "albumLink": "https://open.spotify.com/album/0fBzdzLOW3guRArnBpvpPD",
                     "discogsLink": "https://www.discogs.com/master/441927",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=49094&band_id=5648&bandname=Akelei",
                     "msRating": "8.5",
@@ -20,7 +20,7 @@ export default {
             "albums": [
                 {
                     "album": "Bleak Silver Streams",
-                    "albumLink": "https://open.spotify.com/albums/527FzLogSog0mtFOiUaefr",
+                    "albumLink": "https://open.spotify.com/album/527FzLogSog0mtFOiUaefr",
                     "discogsLink": "https://www.discogs.com/release/2477729",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=33915&band_id=768&bandname=Lethian+Dreams",
                     "msRating": "8",
@@ -29,7 +29,7 @@ export default {
                 },
                 {
                     "album": "Season of Raven Words",
-                    "albumLink": "https://open.spotify.com/albums/34cXwYsDkYxUVOWZqHwR3M",
+                    "albumLink": "https://open.spotify.com/album/34cXwYsDkYxUVOWZqHwR3M",
                     "discogsLink": "https://www.discogs.com/release/4810942",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=59269&band_id=768&bandname=Lethian+Dreams",
                     "msRating": "7.5",
@@ -38,7 +38,7 @@ export default {
                 },
                 {
                     "album": "Red Silence Lodge",
-                    "albumLink": "https://open.spotify.com/albums/5oA09YSj0oGQR4W0WustwL",
+                    "albumLink": "https://open.spotify.com/album/5oA09YSj0oGQR4W0WustwL",
                     "discogsLink": "https://www.discogs.com/release/5651197",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=76579&band_id=768&bandname=Lethian+Dreams",
                     "msRating": "8.1",
@@ -47,7 +47,7 @@ export default {
                 },
                 {
                     "album": "A Shadow of Memories",
-                    "albumLink": "https://open.spotify.com/albums/2sRuCbCUzZgKJz4ptld4Ej",
+                    "albumLink": "https://open.spotify.com/album/2sRuCbCUzZgKJz4ptld4Ej",
                     "discogsLink": "https://www.discogs.com/master/2018239",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117533&band_id=768&bandname=Lethian+Dreams",
                     "msRating": "7.8",
@@ -77,7 +77,7 @@ export default {
             "albums": [
                 {
                     "album": "With Tragedies Adorned",
-                    "albumLink": "https://open.spotify.com/albums/2E72wGlamZ0kwWNYnBX6dC",
+                    "albumLink": "https://open.spotify.com/album/2E72wGlamZ0kwWNYnBX6dC",
                     "discogsLink": "https://www.discogs.com/master/640946",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1652&band_id=243&bandname=Yearning",
                     "msRating": "8.1",
@@ -95,7 +95,7 @@ export default {
                 },
                 {
                     "album": "Frore Meadow",
-                    "albumLink": "https://open.spotify.com/albums/0lv7VFW42aIKz73XW5KK1d",
+                    "albumLink": "https://open.spotify.com/album/0lv7VFW42aIKz73XW5KK1d",
                     "discogsLink": "https://www.discogs.com/master/656269",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1654&band_id=243&bandname=Yearning",
                     "msRating": "7.9",
@@ -104,7 +104,7 @@ export default {
                 },
                 {
                     "album": "Evershade",
-                    "albumLink": "https://open.spotify.com/albums/4hMYnlVbeHxJVYNvDabgNn",
+                    "albumLink": "https://open.spotify.com/album/4hMYnlVbeHxJVYNvDabgNn",
                     "discogsLink": "https://www.discogs.com/master/184643",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1655&band_id=243&bandname=Yearning",
                     "msRating": "8.6",
@@ -113,7 +113,7 @@ export default {
                 },
                 {
                     "album": "Merging into Landscapes",
-                    "albumLink": "https://open.spotify.com/albums/5NdQlI8PR2pqSIRYFeMN6E",
+                    "albumLink": "https://open.spotify.com/album/5NdQlI8PR2pqSIRYFeMN6E",
                     "discogsLink": "https://www.discogs.com/release/1306669",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19284&band_id=243&bandname=Yearning",
                     "msRating": "8.6",
@@ -152,7 +152,7 @@ export default {
             "albums": [
                 {
                     "album": "La signora del buio",
-                    "albumLink": "https://open.spotify.com/albums/6WwrPRdTjrdUQUNSet9p1v",
+                    "albumLink": "https://open.spotify.com/album/6WwrPRdTjrdUQUNSet9p1v",
                     "discogsLink": "https://www.discogs.com/master/487668",
                     "msLink": "",
                     "msRating": "",
@@ -161,7 +161,7 @@ export default {
                 },
                 {
                     "album": "Il tempio di ferro",
-                    "albumLink": "https://open.spotify.com/albums/5YG8UUfiL9IyIe0kmtK4VZ",
+                    "albumLink": "https://open.spotify.com/album/5YG8UUfiL9IyIe0kmtK4VZ",
                     "discogsLink": "https://www.discogs.com/master/579111",
                     "msLink": "",
                     "msRating": "",
@@ -176,7 +176,7 @@ export default {
             "albums": [
                 {
                     "album": "The Quest",
-                    "albumLink": "https://open.spotify.com/albums/6kBAaRJ5cM3bpFzxfxqxwd",
+                    "albumLink": "https://open.spotify.com/album/6kBAaRJ5cM3bpFzxfxqxwd",
                     "discogsLink": "https://www.discogs.com/master/2359048",
                     "msLink": "",
                     "msRating": "",
@@ -206,7 +206,7 @@ export default {
             "albums": [
                 {
                     "album": "Inner I",
-                    "albumLink": "https://open.spotify.com/albums/7jXPXMvd07ThgisAWMmJpL",
+                    "albumLink": "https://open.spotify.com/album/7jXPXMvd07ThgisAWMmJpL",
                     "discogsLink": "https://www.discogs.com/release/4752814",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=50174&band_id=5801&bandname=Corrupted+Melody",
                     "msRating": "8",
@@ -221,7 +221,7 @@ export default {
             "albums": [
                 {
                     "album": "Brightly Blackhearted",
-                    "albumLink": "https://open.spotify.com/albums/3DJit298bvGVBQrVNBg8S3",
+                    "albumLink": "https://open.spotify.com/album/3DJit298bvGVBQrVNBg8S3",
                     "discogsLink": "https://www.discogs.com/master/167967",
                     "msLink": "",
                     "msRating": "",
@@ -230,7 +230,7 @@ export default {
                 },
                 {
                     "album": "Interactive Playground",
-                    "albumLink": "https://open.spotify.com/albums/72HvW00TW6c9kboyZ3Q9RQ",
+                    "albumLink": "https://open.spotify.com/album/72HvW00TW6c9kboyZ3Q9RQ",
                     "discogsLink": "https://www.discogs.com/master/401703",
                     "msLink": "",
                     "msRating": "",
@@ -245,7 +245,7 @@ export default {
             "albums": [
                 {
                     "album": "Through the Eyes of Regret",
-                    "albumLink": "https://open.spotify.com/albums/6a7VAWM6bszQpFE6bXDdTu",
+                    "albumLink": "https://open.spotify.com/album/6a7VAWM6bszQpFE6bXDdTu",
                     "discogsLink": "https://www.discogs.com/master/1105214",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2866&band_id=382&bandname=Elegeion",
                     "msRating": "8.2",
@@ -254,7 +254,7 @@ export default {
                 },
                 {
                     "album": "The Last Moment",
-                    "albumLink": "https://open.spotify.com/albums/056zAxvymdN3WhkCSQNcOc",
+                    "albumLink": "https://open.spotify.com/album/056zAxvymdN3WhkCSQNcOc",
                     "discogsLink": "https://www.discogs.com/release/1097661",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4077&band_id=382&bandname=Elegeion",
                     "msRating": "7.8",
@@ -263,7 +263,7 @@ export default {
                 },
                 {
                     "album": "Plight of the Heretic",
-                    "albumLink": "https://open.spotify.com/albums/1TBF1aDbD5PvQB0noeIEtu",
+                    "albumLink": "https://open.spotify.com/album/1TBF1aDbD5PvQB0noeIEtu",
                     "discogsLink": "https://www.discogs.com/master/2684369",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=143604&band_id=382&bandname=Elegeion",
                     "msRating": "6",
@@ -278,7 +278,7 @@ export default {
             "albums": [
                 {
                     "album": "Intimate Portrait",
-                    "albumLink": "https://open.spotify.com/albums/4nlN8dzzWWpp8s0tFgUQDT",
+                    "albumLink": "https://open.spotify.com/album/4nlN8dzzWWpp8s0tFgUQDT",
                     "discogsLink": "https://www.discogs.com/master/405285",
                     "msLink": "",
                     "msRating": "",
@@ -317,7 +317,7 @@ export default {
                 },
                 {
                     "album": "Imperium Equilibrium",
-                    "albumLink": "https://open.spotify.com/albums/70eCwlgYCpxKoFMJVdi6V0",
+                    "albumLink": "https://open.spotify.com/album/70eCwlgYCpxKoFMJVdi6V0",
                     "discogsLink": "https://www.discogs.com/release/6012462",
                     "msLink": "",
                     "msRating": "",
@@ -365,7 +365,7 @@ export default {
             "albums": [
                 {
                     "album": "Behold My Vain Sacrifice",
-                    "albumLink": "https://open.spotify.com/albums/2mamWBwA072oNqDWDVYRMi",
+                    "albumLink": "https://open.spotify.com/album/2mamWBwA072oNqDWDVYRMi",
                     "discogsLink": "https://www.discogs.com/master/471087",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47197&band_id=5449&bandname=Love+Lies+Bleeding",
                     "msRating": "9",
@@ -374,7 +374,7 @@ export default {
                 },
                 {
                     "album": "S.I.N.",
-                    "albumLink": "https://open.spotify.com/albums/10PCtPopY4d9S4MNZrzVi8",
+                    "albumLink": "https://open.spotify.com/album/10PCtPopY4d9S4MNZrzVi8",
                     "discogsLink": "https://www.discogs.com/master/471086",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47198&band_id=5449&bandname=Love+Lies+Bleeding",
                     "msRating": "",
@@ -383,7 +383,7 @@ export default {
                 },
                 {
                     "album": "Ex Nihilo",
-                    "albumLink": "https://open.spotify.com/albums/5Jz9GfVPiNhJDifXV0doSM",
+                    "albumLink": "https://open.spotify.com/album/5Jz9GfVPiNhJDifXV0doSM",
                     "discogsLink": "https://www.discogs.com/master/326160",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47199&band_id=5449&bandname=Love+Lies+Bleeding",
                     "msRating": "7",
@@ -392,7 +392,7 @@ export default {
                 },
                 {
                     "album": "Ellipse",
-                    "albumLink": "https://open.spotify.com/albums/2L0ESghhcHXXGtITR8xEKG",
+                    "albumLink": "https://open.spotify.com/album/2L0ESghhcHXXGtITR8xEKG",
                     "discogsLink": "https://www.discogs.com/master/354423",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47200&band_id=5449&bandname=Love+Lies+Bleeding",
                     "msRating": "",
@@ -401,7 +401,7 @@ export default {
                 },
                 {
                     "album": "Clinamen",
-                    "albumLink": "https://open.spotify.com/albums/4O3Gtvd5GJF3ATMAHh7YU3",
+                    "albumLink": "https://open.spotify.com/album/4O3Gtvd5GJF3ATMAHh7YU3",
                     "discogsLink": "https://www.discogs.com/master/485532",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47201&band_id=5449&bandname=Love+Lies+Bleeding",
                     "msRating": "3",
@@ -431,7 +431,7 @@ export default {
             "albums": [
                 {
                     "album": "Misantropia",
-                    "albumLink": "https://open.spotify.com/albums/7xBNFtdfCwfH96JDYVbLgu",
+                    "albumLink": "https://open.spotify.com/album/7xBNFtdfCwfH96JDYVbLgu",
                     "discogsLink": "https://www.discogs.com/master/2049361",
                     "msLink": "",
                     "msRating": "",
@@ -479,7 +479,7 @@ export default {
                 },
                 {
                     "album": "Crystal Emotions",
-                    "albumLink": "https://open.spotify.com/albums/2ZxjXyDr7wsDlBL9nhh0hf",
+                    "albumLink": "https://open.spotify.com/album/2ZxjXyDr7wsDlBL9nhh0hf",
                     "discogsLink": "https://www.discogs.com/master/1270640",
                     "msLink": "",
                     "msRating": "",
@@ -518,7 +518,7 @@ export default {
             "albums": [
                 {
                     "album": "Nihil Euphoria",
-                    "albumLink": "https://open.spotify.com/albums/4eCEcPtExAqu123zrBFiiR",
+                    "albumLink": "https://open.spotify.com/album/4eCEcPtExAqu123zrBFiiR",
                     "discogsLink": "https://www.discogs.com/release/5033203",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=83539&band_id=9002&bandname=Shallow+Rivers",
                     "msRating": "9.3",
@@ -527,7 +527,7 @@ export default {
                 },
                 {
                     "album": "The Leaden Ghost",
-                    "albumLink": "https://open.spotify.com/albums/76BXlKTz3F8K1Zys31aUTa",
+                    "albumLink": "https://open.spotify.com/album/76BXlKTz3F8K1Zys31aUTa",
                     "discogsLink": "https://www.discogs.com/master/795183",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=83540&band_id=9002&bandname=Shallow+Rivers",
                     "msRating": "7.6",
@@ -536,7 +536,7 @@ export default {
                 },
                 {
                     "album": "The Tales Told Under the Willow",
-                    "albumLink": "https://open.spotify.com/albums/1nIHoKD1XgdyBaQiTBm8mC",
+                    "albumLink": "https://open.spotify.com/album/1nIHoKD1XgdyBaQiTBm8mC",
                     "discogsLink": "https://www.discogs.com/release/25442110",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=155932&band_id=9002&bandname=Shallow+Rivers",
                     "msRating": "7",
@@ -551,7 +551,7 @@ export default {
             "albums": [
                 {
                     "album": "Shades of...",
-                    "albumLink": "https://open.spotify.com/albums/4s0QohW4i5rL3ZfYMUFbQk",
+                    "albumLink": "https://open.spotify.com/album/4s0QohW4i5rL3ZfYMUFbQk",
                     "discogsLink": "https://www.discogs.com/master/11044",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2379&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.4",
@@ -560,7 +560,7 @@ export default {
                 },
                 {
                     "album": "Angels of Distress",
-                    "albumLink": "https://open.spotify.com/albums/5eHLW4hwMsIjP9QyXx5ntw",
+                    "albumLink": "https://open.spotify.com/album/5eHLW4hwMsIjP9QyXx5ntw",
                     "discogsLink": "https://www.discogs.com/master/235205",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2380&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.7",
@@ -569,7 +569,7 @@ export default {
                 },
                 {
                     "album": "Illusion's Play",
-                    "albumLink": "https://open.spotify.com/albums/6QbxDIN3CbEMZQeQKNREVX",
+                    "albumLink": "https://open.spotify.com/album/6QbxDIN3CbEMZQeQKNREVX",
                     "discogsLink": "https://www.discogs.com/master/11050",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2768&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.6",
@@ -578,7 +578,7 @@ export default {
                 },
                 {
                     "album": "Monotony Fields",
-                    "albumLink": "https://open.spotify.com/albums/1Jld5qR1CIfyvG4GYcrexK",
+                    "albumLink": "https://open.spotify.com/album/1Jld5qR1CIfyvG4GYcrexK",
                     "discogsLink": "https://www.discogs.com/master/849021",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=81932&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.6",
@@ -587,7 +587,7 @@ export default {
                 },
                 {
                     "album": "Return to the Void",
-                    "albumLink": "https://open.spotify.com/albums/59w4hQFZKTrDWymuXDPQdn",
+                    "albumLink": "https://open.spotify.com/album/59w4hQFZKTrDWymuXDPQdn",
                     "discogsLink": "https://www.discogs.com/master/2524510",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136930&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8",
@@ -602,7 +602,7 @@ export default {
             "albums": [
                 {
                     "album": "Alone Beside Her",
-                    "albumLink": "https://open.spotify.com/albums/76IAiAI0FNkDaGjSrbwkn3",
+                    "albumLink": "https://open.spotify.com/album/76IAiAI0FNkDaGjSrbwkn3",
                     "discogsLink": "https://www.discogs.com/master/709588",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=33079&band_id=4006&bandname=Shroud+Of+Bereavement",
                     "msRating": "7.9",
@@ -611,7 +611,7 @@ export default {
                 },
                 {
                     "album": "A Beautiful Winter",
-                    "albumLink": "https://open.spotify.com/albums/2IUsXnrHE9cOjxzBVrlijD",
+                    "albumLink": "https://open.spotify.com/album/2IUsXnrHE9cOjxzBVrlijD",
                     "discogsLink": "https://www.discogs.com/master/2857423",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=145540&band_id=4006&bandname=Shroud+Of+Bereavement",
                     "msRating": "6.9",
@@ -641,7 +641,7 @@ export default {
             "albums": [
                 {
                     "album": "The Whore and the Bride",
-                    "albumLink": "https://open.spotify.com/albums/0Xfys3trj0WhzFIMH2QGTn",
+                    "albumLink": "https://open.spotify.com/album/0Xfys3trj0WhzFIMH2QGTn",
                     "discogsLink": "https://www.discogs.com/release/3727865",
                     "msLink": "",
                     "msRating": "",
@@ -656,7 +656,7 @@ export default {
             "albums": [
                 {
                     "album": "Eyes Unfolded",
-                    "albumLink": "https://open.spotify.com/albums/38OlutkznTXyXa77oRz2tI",
+                    "albumLink": "https://open.spotify.com/album/38OlutkznTXyXa77oRz2tI",
                     "discogsLink": "https://www.discogs.com/master/598477",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=18841&band_id=2547&bandname=Terhen",
                     "msRating": "7",
@@ -728,7 +728,7 @@ export default {
             "albums": [
                 {
                     "album": "Always...",
-                    "albumLink": "https://open.spotify.com/albums/4AJytdlTjRpeP4ShUZysDZ",
+                    "albumLink": "https://open.spotify.com/album/4AJytdlTjRpeP4ShUZysDZ",
                     "discogsLink": "https://www.discogs.com/master/27919",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1310&band_id=187&bandname=The+Gathering",
                     "msRating": "7.8",
@@ -737,7 +737,7 @@ export default {
                 },
                 {
                     "album": "Almost a Dance",
-                    "albumLink": "https://open.spotify.com/albums/6vpBZmdklVWWW5tmNzNgk9",
+                    "albumLink": "https://open.spotify.com/album/6vpBZmdklVWWW5tmNzNgk9",
                     "discogsLink": "https://www.discogs.com/master/27929",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1311&band_id=187&bandname=The+Gathering",
                     "msRating": "5.9",
@@ -746,7 +746,7 @@ export default {
                 },
                 {
                     "album": "Mandylion",
-                    "albumLink": "https://open.spotify.com/albums/1cj2JuqUGbFVOja7XOVV4O",
+                    "albumLink": "https://open.spotify.com/album/1cj2JuqUGbFVOja7XOVV4O",
                     "discogsLink": "https://www.discogs.com/master/27909",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1312&band_id=187&bandname=The+Gathering",
                     "msRating": "8.9",
@@ -755,7 +755,7 @@ export default {
                 },
                 {
                     "album": "Nighttime Birds",
-                    "albumLink": "https://open.spotify.com/albums/0K2KgF0f6iq35vApuNfxXS",
+                    "albumLink": "https://open.spotify.com/album/0K2KgF0f6iq35vApuNfxXS",
                     "discogsLink": "https://www.discogs.com/master/27914",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1313&band_id=187&bandname=The+Gathering",
                     "msRating": "8.7",
@@ -764,7 +764,7 @@ export default {
                 },
                 {
                     "album": "How to Measure a Planet?",
-                    "albumLink": "https://open.spotify.com/albums/3G5iCTzNK5vziwaYcx7jQV",
+                    "albumLink": "https://open.spotify.com/album/3G5iCTzNK5vziwaYcx7jQV",
                     "discogsLink": "https://www.discogs.com/master/12637",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1314&band_id=187&bandname=The+Gathering",
                     "msRating": "8.6",
@@ -773,7 +773,7 @@ export default {
                 },
                 {
                     "album": "if_then_else",
-                    "albumLink": "https://open.spotify.com/albums/6ldSMLVCxIzdVXuLspsDJo",
+                    "albumLink": "https://open.spotify.com/album/6ldSMLVCxIzdVXuLspsDJo",
                     "discogsLink": "https://www.discogs.com/master/12627",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1316&band_id=187&bandname=The+Gathering",
                     "msRating": "8.3",
@@ -782,7 +782,7 @@ export default {
                 },
                 {
                     "album": "Souvenirs",
-                    "albumLink": "https://open.spotify.com/albums/3syPhP5MaecyRbU08xVMbE",
+                    "albumLink": "https://open.spotify.com/album/3syPhP5MaecyRbU08xVMbE",
                     "discogsLink": "https://www.discogs.com/master/27936",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1320&band_id=187&bandname=The+Gathering",
                     "msRating": "8.4",
@@ -791,7 +791,7 @@ export default {
                 },
                 {
                     "album": "Home",
-                    "albumLink": "https://open.spotify.com/albums/0o6tqq5Op17oZOFwHZA4el",
+                    "albumLink": "https://open.spotify.com/album/0o6tqq5Op17oZOFwHZA4el",
                     "discogsLink": "https://www.discogs.com/master/12651",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4585&band_id=187&bandname=The+Gathering",
                     "msRating": "8.1",
@@ -800,7 +800,7 @@ export default {
                 },
                 {
                     "album": "The West Pole",
-                    "albumLink": "https://open.spotify.com/albums/5HqRSIwU9YRmYn40nLYluL",
+                    "albumLink": "https://open.spotify.com/album/5HqRSIwU9YRmYn40nLYluL",
                     "discogsLink": "https://www.discogs.com/master/211195",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=30373&band_id=187&bandname=The+Gathering",
                     "msRating": "7.6",
@@ -809,7 +809,7 @@ export default {
                 },
                 {
                     "album": "Disclosure",
-                    "albumLink": "https://open.spotify.com/albums/3lDOcJSqTbqYb0Q9kn3GqH",
+                    "albumLink": "https://open.spotify.com/album/3lDOcJSqTbqYb0Q9kn3GqH",
                     "discogsLink": "https://www.discogs.com/master/469055",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=40586&band_id=187&bandname=The+Gathering",
                     "msRating": "7.9",
@@ -818,7 +818,7 @@ export default {
                 },
                 {
                     "album": "Afterwords",
-                    "albumLink": "https://open.spotify.com/albums/5me1fYQbm6b3xxgFBFXaGy",
+                    "albumLink": "https://open.spotify.com/album/5me1fYQbm6b3xxgFBFXaGy",
                     "discogsLink": "https://www.discogs.com/master/611789",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=72328&band_id=187&bandname=The+Gathering",
                     "msRating": "6.4",
@@ -827,7 +827,7 @@ export default {
                 },
                 {
                     "album": "Beautiful Distortion",
-                    "albumLink": "https://open.spotify.com/albums/5JzoOb54wTUl9KvEvXYDNc",
+                    "albumLink": "https://open.spotify.com/album/5JzoOb54wTUl9KvEvXYDNc",
                     "discogsLink": "https://www.discogs.com/master/2677376",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=139863&band_id=187&bandname=The+Gathering",
                     "msRating": "7.2",
@@ -875,7 +875,7 @@ export default {
                 },
                 {
                     "album": "Des Herbstes Trauerhymnen MMXX",
-                    "albumLink": "https://open.spotify.com/albums/7wbLV0ZfNLhFgfaPwhOn12",
+                    "albumLink": "https://open.spotify.com/album/7wbLV0ZfNLhFgfaPwhOn12",
                     "discogsLink": "https://www.discogs.com/master/1730542",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=109390&band_id=2189&bandname=D%C3%A4mmerfarben",
                     "msRating": "8",
@@ -890,7 +890,7 @@ export default {
             "albums": [
                 {
                     "album": "Hungry for Nothing",
-                    "albumLink": "https://open.spotify.com/albums/6lJTHgrPzchcowdriaWp6P",
+                    "albumLink": "https://open.spotify.com/album/6lJTHgrPzchcowdriaWp6P",
                     "discogsLink": "https://www.discogs.com/master/271502",
                     "msLink": "",
                     "msRating": "",
@@ -899,7 +899,7 @@ export default {
                 },
                 {
                     "album": "Manners and Praise",
-                    "albumLink": "https://open.spotify.com/albums/3ciFlYNqTpSXSkGjJQ1jH9",
+                    "albumLink": "https://open.spotify.com/album/3ciFlYNqTpSXSkGjJQ1jH9",
                     "discogsLink": "https://www.discogs.com/master/275584",
                     "msLink": "",
                     "msRating": "",
@@ -908,7 +908,7 @@ export default {
                 },
                 {
                     "album": "Birth Control",
-                    "albumLink": "https://open.spotify.com/albums/3xwym3NEQmnj1BM1cx3G0L",
+                    "albumLink": "https://open.spotify.com/album/3xwym3NEQmnj1BM1cx3G0L",
                     "discogsLink": "https://www.discogs.com/master/882187",
                     "msLink": "",
                     "msRating": "",
@@ -917,7 +917,7 @@ export default {
                 },
                 {
                     "album": "Constantly Off",
-                    "albumLink": "https://open.spotify.com/albums/5J1Clfd0GA2XCGrYOH9MJV",
+                    "albumLink": "https://open.spotify.com/album/5J1Clfd0GA2XCGrYOH9MJV",
                     "discogsLink": "https://www.discogs.com/master/851832",
                     "msLink": "",
                     "msRating": "",
@@ -950,7 +950,7 @@ export default {
                 },
                 {
                     "album": "Jade",
-                    "albumLink": "https://open.spotify.com/albums/4fQJudd4z7DW3fowqGNvP7",
+                    "albumLink": "https://open.spotify.com/album/4fQJudd4z7DW3fowqGNvP7",
                     "discogsLink": "https://www.discogs.com/master/540211",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2574&band_id=351&bandname=Flowing+Tears",
                     "msRating": "8.3",
@@ -959,7 +959,7 @@ export default {
                 },
                 {
                     "album": "Serpentine",
-                    "albumLink": "https://open.spotify.com/albums/0GNt9ijQYG6gADNALOV66S",
+                    "albumLink": "https://open.spotify.com/album/0GNt9ijQYG6gADNALOV66S",
                     "discogsLink": "https://www.discogs.com/master/14296",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2575&band_id=351&bandname=Flowing+Tears",
                     "msRating": "7.9",
@@ -968,7 +968,7 @@ export default {
                 },
                 {
                     "album": "Razorbliss",
-                    "albumLink": "https://open.spotify.com/albums/2GltEubQrjtmtaYzefHjVM",
+                    "albumLink": "https://open.spotify.com/album/2GltEubQrjtmtaYzefHjVM",
                     "discogsLink": "https://www.discogs.com/master/165896",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2576&band_id=351&bandname=Flowing+Tears",
                     "msRating": "7.6",
@@ -1001,7 +1001,7 @@ export default {
                 },
                 {
                     "album": "Painted by Pain",
-                    "albumLink": "https://open.spotify.com/albums/2OqoUiE0OS4fPf9m8LFqXg",
+                    "albumLink": "https://open.spotify.com/album/2OqoUiE0OS4fPf9m8LFqXg",
                     "discogsLink": "https://www.discogs.com/release/4217931",
                     "msLink": "",
                     "msRating": "",
@@ -1010,7 +1010,7 @@ export default {
                 },
                 {
                     "album": "Noumenon",
-                    "albumLink": "https://open.spotify.com/albums/4HyAUHC3T1StQk5e3drqh1",
+                    "albumLink": "https://open.spotify.com/album/4HyAUHC3T1StQk5e3drqh1",
                     "discogsLink": "https://www.discogs.com/release/13657947",
                     "msLink": "",
                     "msRating": "",
@@ -1025,7 +1025,7 @@ export default {
             "albums": [
                 {
                     "album": "Mercury",
-                    "albumLink": "https://open.spotify.com/albums/1lqM5kAgxEe0cApGKrsxnI",
+                    "albumLink": "https://open.spotify.com/album/1lqM5kAgxEe0cApGKrsxnI",
                     "discogsLink": "https://www.discogs.com/master/699968",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1728&band_id=252&bandname=Madder+Mortem",
                     "msRating": "8",
@@ -1034,7 +1034,7 @@ export default {
                 },
                 {
                     "album": "All Flesh Is Grass",
-                    "albumLink": "https://open.spotify.com/albums/4m2uXMWMfKW3pLuPvO8TUx",
+                    "albumLink": "https://open.spotify.com/album/4m2uXMWMfKW3pLuPvO8TUx",
                     "discogsLink": "https://www.discogs.com/master/221120",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1729&band_id=252&bandname=Madder+Mortem",
                     "msRating": "7.9",
@@ -1043,7 +1043,7 @@ export default {
                 },
                 {
                     "album": "Deadlands",
-                    "albumLink": "https://open.spotify.com/albums/0h83Ve7kixvYDcUeyGRXDH",
+                    "albumLink": "https://open.spotify.com/album/0h83Ve7kixvYDcUeyGRXDH",
                     "discogsLink": "https://www.discogs.com/master/212288",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1730&band_id=252&bandname=Madder+Mortem",
                     "msRating": "8.1",
@@ -1052,7 +1052,7 @@ export default {
                 },
                 {
                     "album": "Desiderata",
-                    "albumLink": "https://open.spotify.com/albums/0SwOMymoaIbBIKhYneFFo7",
+                    "albumLink": "https://open.spotify.com/album/0SwOMymoaIbBIKhYneFFo7",
                     "discogsLink": "https://www.discogs.com/master/433256",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4497&band_id=252&bandname=Madder+Mortem",
                     "msRating": "8.2",
@@ -1061,7 +1061,7 @@ export default {
                 },
                 {
                     "album": "Eight Ways",
-                    "albumLink": "https://open.spotify.com/albums/0EoGHBpLjS9BxkYsVTlPkb",
+                    "albumLink": "https://open.spotify.com/album/0EoGHBpLjS9BxkYsVTlPkb",
                     "discogsLink": "https://www.discogs.com/master/221125",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=31512&band_id=252&bandname=Madder+Mortem",
                     "msRating": "8.1",
@@ -1070,7 +1070,7 @@ export default {
                 },
                 {
                     "album": "Red in Tooth and Claw",
-                    "albumLink": "https://open.spotify.com/albums/08bQp2ttIQSg4symESdibq",
+                    "albumLink": "https://open.spotify.com/album/08bQp2ttIQSg4symESdibq",
                     "discogsLink": "https://www.discogs.com/master/1105880",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=89811&band_id=252&bandname=Madder+Mortem",
                     "msRating": "8",
@@ -1079,7 +1079,7 @@ export default {
                 },
                 {
                     "album": "Marrow",
-                    "albumLink": "https://open.spotify.com/albums/7nNraLA8EspBY7feHPi47Y",
+                    "albumLink": "https://open.spotify.com/album/7nNraLA8EspBY7feHPi47Y",
                     "discogsLink": "https://www.discogs.com/master/1429402",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=94812&band_id=252&bandname=Madder+Mortem",
                     "msRating": "8",
@@ -1094,7 +1094,7 @@ export default {
             "albums": [
                 {
                     "album": "De glemte tider",
-                    "albumLink": "https://open.spotify.com/albums/1ZzxU0l28mQ5oIcKgHTDYo",
+                    "albumLink": "https://open.spotify.com/album/1ZzxU0l28mQ5oIcKgHTDYo",
                     "discogsLink": "https://www.discogs.com/master/916374",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=68828&band_id=7632&bandname=Skumring",
                     "msRating": "8.3",
@@ -1265,7 +1265,7 @@ export default {
             "albums": [
                 {
                     "album": "Pale Folklore",
-                    "albumLink": "https://open.spotify.com/albums/2lclTTeXyOfhMVl1Czu1si",
+                    "albumLink": "https://open.spotify.com/album/2lclTTeXyOfhMVl1Czu1si",
                     "discogsLink": "https://www.discogs.com/master/12402",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2120&band_id=296&bandname=Agalloch",
                     "msRating": "8.7",
@@ -1274,7 +1274,7 @@ export default {
                 },
                 {
                     "album": "The Mantle",
-                    "albumLink": "https://open.spotify.com/albums/7hOOJDRbH3we1P0iT2z1Hg",
+                    "albumLink": "https://open.spotify.com/album/7hOOJDRbH3we1P0iT2z1Hg",
                     "discogsLink": "https://www.discogs.com/master/12387",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2122&band_id=296&bandname=Agalloch",
                     "msRating": "9.2",
@@ -1283,7 +1283,7 @@ export default {
                 },
                 {
                     "album": "Ashes Against the Grain",
-                    "albumLink": "https://open.spotify.com/albums/3orD6D0SUsXPOTgftelFtK",
+                    "albumLink": "https://open.spotify.com/album/3orD6D0SUsXPOTgftelFtK",
                     "discogsLink": "https://www.discogs.com/master/12394",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5159&band_id=296&bandname=Agalloch",
                     "msRating": "9.2",
@@ -1292,7 +1292,7 @@ export default {
                 },
                 {
                     "album": "Marrow of the Spirit",
-                    "albumLink": "https://open.spotify.com/albums/69dtvmEbd0xejAVrqOuzDO",
+                    "albumLink": "https://open.spotify.com/album/69dtvmEbd0xejAVrqOuzDO",
                     "discogsLink": "https://www.discogs.com/master/291660",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=26835&band_id=296&bandname=Agalloch",
                     "msRating": "8.6",
@@ -1301,7 +1301,7 @@ export default {
                 },
                 {
                     "album": "The Serpent & the Sphere",
-                    "albumLink": "https://open.spotify.com/albums/5Jsktg0XuRYrH3vVXPJhcG",
+                    "albumLink": "https://open.spotify.com/album/5Jsktg0XuRYrH3vVXPJhcG",
                     "discogsLink": "https://www.discogs.com/master/689009",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=75419&band_id=296&bandname=Agalloch",
                     "msRating": "8",
@@ -1340,7 +1340,7 @@ export default {
             "albums": [
                 {
                     "album": "Secretly",
-                    "albumLink": "https://open.spotify.com/albums/1kgBZ2OlDXV0VK112lWv8k",
+                    "albumLink": "https://open.spotify.com/album/1kgBZ2OlDXV0VK112lWv8k",
                     "discogsLink": "https://www.discogs.com/master/437356",
                     "msLink": "",
                     "msRating": "",
@@ -1376,7 +1376,7 @@ export default {
                 },
                 {
                     "album": "Absorb",
-                    "albumLink": "https://open.spotify.com/albums/08GzIYjg6HXkaJw8kBtAZ7",
+                    "albumLink": "https://open.spotify.com/album/08GzIYjg6HXkaJw8kBtAZ7",
                     "discogsLink": "https://www.discogs.com/release/12555081",
                     "msLink": "",
                     "msRating": "",
@@ -1385,7 +1385,7 @@ export default {
                 },
                 {
                     "album": "Amplify",
-                    "albumLink": "https://open.spotify.com/albums/0AxdJ00GOlxg1djjrA13Hs",
+                    "albumLink": "https://open.spotify.com/album/0AxdJ00GOlxg1djjrA13Hs",
                     "discogsLink": "https://www.discogs.com/release/3710154",
                     "msLink": "",
                     "msRating": "",
@@ -1394,7 +1394,7 @@ export default {
                 },
                 {
                     "album": "Transient",
-                    "albumLink": "https://open.spotify.com/albums/0w0UEFT61wAEmhDOB8pJwP",
+                    "albumLink": "https://open.spotify.com/album/0w0UEFT61wAEmhDOB8pJwP",
                     "discogsLink": "https://www.discogs.com/release/5369467",
                     "msLink": "",
                     "msRating": "",
@@ -1403,7 +1403,7 @@ export default {
                 },
                 {
                     "album": "Black Threads",
-                    "albumLink": "https://open.spotify.com/albums/0WGHFb1oLvH6NSuDNYjX4D",
+                    "albumLink": "https://open.spotify.com/album/0WGHFb1oLvH6NSuDNYjX4D",
                     "discogsLink": "https://www.discogs.com/release/9569020",
                     "msLink": "",
                     "msRating": "",
@@ -1412,7 +1412,7 @@ export default {
                 },
                 {
                     "album": "Skylor",
-                    "albumLink": "https://open.spotify.com/albums/3ig4eMh4B8DTuX3fYiFN4L",
+                    "albumLink": "https://open.spotify.com/album/3ig4eMh4B8DTuX3fYiFN4L",
                     "discogsLink": "https://www.discogs.com/release/22103083",
                     "msLink": "",
                     "msRating": "",
@@ -1436,7 +1436,7 @@ export default {
                 },
                 {
                     "album": "Songs of Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/5QMXXFhLjsp5oSm0LyzTUF",
+                    "albumLink": "https://open.spotify.com/album/5QMXXFhLjsp5oSm0LyzTUF",
                     "discogsLink": "https://www.discogs.com/master/527961",
                     "msLink": "",
                     "msRating": "",
@@ -1445,7 +1445,7 @@ export default {
                 },
                 {
                     "album": "Secrets of the Sun",
-                    "albumLink": "https://open.spotify.com/albums/3r4GfwrDWa7JOsty4XfpD8",
+                    "albumLink": "https://open.spotify.com/album/3r4GfwrDWa7JOsty4XfpD8",
                     "discogsLink": "https://www.discogs.com/master/697889",
                     "msLink": "",
                     "msRating": "",
@@ -1454,7 +1454,7 @@ export default {
                 },
                 {
                     "album": "Nausea",
-                    "albumLink": "https://open.spotify.com/albums/3L6vETQ8AnwyhIIFiLyRDz",
+                    "albumLink": "https://open.spotify.com/album/3L6vETQ8AnwyhIIFiLyRDz",
                     "discogsLink": "https://www.discogs.com/release/3720586",
                     "msLink": "",
                     "msRating": "",
@@ -1463,7 +1463,7 @@ export default {
                 },
                 {
                     "album": "Reborn",
-                    "albumLink": "https://open.spotify.com/albums/3hBhvdOE6LKRJ6xR1quxoz",
+                    "albumLink": "https://open.spotify.com/album/3hBhvdOE6LKRJ6xR1quxoz",
                     "discogsLink": "https://www.discogs.com/release/9923520",
                     "msLink": "",
                     "msRating": "",
@@ -1487,7 +1487,7 @@ export default {
                 },
                 {
                     "album": "Willand",
-                    "albumLink": "https://open.spotify.com/albums/571v1Unx9dEyzCcmlqxGaJ",
+                    "albumLink": "https://open.spotify.com/album/571v1Unx9dEyzCcmlqxGaJ",
                     "discogsLink": "https://www.discogs.com/master/1124368",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=42800&band_id=4520&bandname=Forgotten+Sunrise",
                     "msRating": "8",
@@ -1496,7 +1496,7 @@ export default {
                 },
                 {
                     "album": "Cretinism",
-                    "albumLink": "https://open.spotify.com/albums/5H6j9fVyZrKToRaxVImdPF",
+                    "albumLink": "https://open.spotify.com/album/5H6j9fVyZrKToRaxVImdPF",
                     "discogsLink": "https://www.discogs.com/master/980493",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=86642&band_id=4520&bandname=Forgotten+Sunrise",
                     "msRating": "5",
@@ -1511,7 +1511,7 @@ export default {
             "albums": [
                 {
                     "album": "Ebony Veiled",
-                    "albumLink": "https://open.spotify.com/albums/5bYdmN3cDm4jXcwBgOhhKV",
+                    "albumLink": "https://open.spotify.com/album/5bYdmN3cDm4jXcwBgOhhKV",
                     "discogsLink": "https://www.discogs.com/master/1570951",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=17794&band_id=2397&bandname=Kimaera",
                     "msRating": "8.1",
@@ -1520,7 +1520,7 @@ export default {
                 },
                 {
                     "album": "Solitary Impact",
-                    "albumLink": "https://open.spotify.com/albums/4XQK69DWpzX888GKKrcg8q",
+                    "albumLink": "https://open.spotify.com/album/4XQK69DWpzX888GKKrcg8q",
                     "discogsLink": "https://www.discogs.com/release/4725625",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=33459&band_id=2397&bandname=Kimaera",
                     "msRating": "7.4",
@@ -1529,7 +1529,7 @@ export default {
                 },
                 {
                     "album": "The Harbinger of Doom",
-                    "albumLink": "https://open.spotify.com/albums/60QgtPwMztU8LapNOxhcsj",
+                    "albumLink": "https://open.spotify.com/album/60QgtPwMztU8LapNOxhcsj",
                     "discogsLink": "https://www.discogs.com/master/689632",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63314&band_id=2397&bandname=Kimaera",
                     "msRating": "7.8",
@@ -1538,7 +1538,7 @@ export default {
                 },
                 {
                     "album": "Imperivm",
-                    "albumLink": "https://open.spotify.com/albums/5axaT9O1BmrilxHYpmC1pZ",
+                    "albumLink": "https://open.spotify.com/album/5axaT9O1BmrilxHYpmC1pZ",
                     "discogsLink": "https://www.discogs.com/release/25578625",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=142543&band_id=2397&bandname=Kimaera",
                     "msRating": "7.1",
@@ -1553,7 +1553,7 @@ export default {
             "albums": [
                 {
                     "album": "In Nomine...",
-                    "albumLink": "https://open.spotify.com/albums/0le9TZFqZs05PZ9fWhY0L7",
+                    "albumLink": "https://open.spotify.com/album/0le9TZFqZs05PZ9fWhY0L7",
                     "discogsLink": "https://www.discogs.com/release/6369607",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=129478&band_id=7089&bandname=Stratuz",
                     "msRating": "",
@@ -1562,7 +1562,7 @@ export default {
                 },
                 {
                     "album": "The Last Angel",
-                    "albumLink": "https://open.spotify.com/albums/4RNUFbOxjqt7mmoP7Lx05x",
+                    "albumLink": "https://open.spotify.com/album/4RNUFbOxjqt7mmoP7Lx05x",
                     "discogsLink": "https://www.discogs.com/master/1380215",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63241&band_id=7089&bandname=Stratuz",
                     "msRating": "",
@@ -1571,7 +1571,7 @@ export default {
                 },
                 {
                     "album": "Spirit Seduction",
-                    "albumLink": "https://open.spotify.com/albums/2TX3kMgxxOWNTXmb3drRet",
+                    "albumLink": "https://open.spotify.com/album/2TX3kMgxxOWNTXmb3drRet",
                     "discogsLink": "https://www.discogs.com/master/1380216",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63242&band_id=7089&bandname=Stratuz",
                     "msRating": "",
@@ -1580,7 +1580,7 @@ export default {
                 },
                 {
                     "album": "Osculum Pacis",
-                    "albumLink": "https://open.spotify.com/albums/3QhiTyRl4ztAb4TsNkItik",
+                    "albumLink": "https://open.spotify.com/album/3QhiTyRl4ztAb4TsNkItik",
                     "discogsLink": "https://www.discogs.com/release/25696813",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=142549&band_id=7089&bandname=Stratuz",
                     "msRating": "",
@@ -1595,7 +1595,7 @@ export default {
             "albums": [
                 {
                     "album": "Schizo Level",
-                    "albumLink": "https://open.spotify.com/albums/5meOkipqkw66lJRrOhDv8S",
+                    "albumLink": "https://open.spotify.com/album/5meOkipqkw66lJRrOhDv8S",
                     "discogsLink": "https://www.discogs.com/master/423714",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55133&band_id=6256&bandname=ThanatoSchizo",
                     "msRating": "",
@@ -1604,7 +1604,7 @@ export default {
                 },
                 {
                     "album": "InsomniousNightLift",
-                    "albumLink": "https://open.spotify.com/albums/2PKtRih9l3HM5eXo2V0JcW",
+                    "albumLink": "https://open.spotify.com/album/2PKtRih9l3HM5eXo2V0JcW",
                     "discogsLink": "https://www.discogs.com/master/544764",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55134&band_id=6256&bandname=ThanatoSchizo",
                     "msRating": "",
@@ -1613,7 +1613,7 @@ export default {
                 },
                 {
                     "album": "Turbulence",
-                    "albumLink": "https://open.spotify.com/albums/06kQC74ONjRDw1oWdGyROM",
+                    "albumLink": "https://open.spotify.com/album/06kQC74ONjRDw1oWdGyROM",
                     "discogsLink": "https://www.discogs.com/master/513477",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55135&band_id=6256&bandname=ThanatoSchizo",
                     "msRating": "",
@@ -1622,7 +1622,7 @@ export default {
                 },
                 {
                     "album": "Zoom Code",
-                    "albumLink": "https://open.spotify.com/albums/7tGMsvQMzoYMCkIgCCGhXN",
+                    "albumLink": "https://open.spotify.com/album/7tGMsvQMzoYMCkIgCCGhXN",
                     "discogsLink": "https://www.discogs.com/master/1827509",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55136&band_id=6256&bandname=ThanatoSchizo",
                     "msRating": "",
@@ -1631,7 +1631,7 @@ export default {
                 },
                 {
                     "album": "Origami",
-                    "albumLink": "https://open.spotify.com/albums/5IN28hhwAay3izg57sOeB1",
+                    "albumLink": "https://open.spotify.com/album/5IN28hhwAay3izg57sOeB1",
                     "discogsLink": "https://www.discogs.com/release/2795894",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55132&band_id=6256&bandname=ThanatoSchizo",
                     "msRating": "",
@@ -1646,7 +1646,7 @@ export default {
             "albums": [
                 {
                     "album": "Tears Laid in Earth",
-                    "albumLink": "https://open.spotify.com/albums/6wXKSA8rdDp55Xqfi9iH6M",
+                    "albumLink": "https://open.spotify.com/album/6wXKSA8rdDp55Xqfi9iH6M",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1619&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "8.4",
@@ -1655,7 +1655,7 @@ export default {
                 },
                 {
                     "album": "Painting on Glass",
-                    "albumLink": "https://open.spotify.com/albums/5FkcJRMXrMwTiu2YiM8CFS",
+                    "albumLink": "https://open.spotify.com/album/5FkcJRMXrMwTiu2YiM8CFS",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1621&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "8.2",
@@ -1664,7 +1664,7 @@ export default {
                 },
                 {
                     "album": "In This Room",
-                    "albumLink": "https://open.spotify.com/albums/2lycUsbZkwpxDfaUH13DuF",
+                    "albumLink": "https://open.spotify.com/album/2lycUsbZkwpxDfaUH13DuF",
                     "discogsLink": "https://www.discogs.com/master/2319457",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1623&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "7.7",
@@ -1673,7 +1673,7 @@ export default {
                 },
                 {
                     "album": "Memoirs",
-                    "albumLink": "https://open.spotify.com/albums/3LVm46mPKBHPKiAq5cGqdU",
+                    "albumLink": "https://open.spotify.com/album/3LVm46mPKBHPKiAq5cGqdU",
                     "discogsLink": "https://www.discogs.com/master/12850",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1624&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "7.4",
@@ -1730,7 +1730,7 @@ export default {
             "albums": [
                 {
                     "album": "Último exhalario",
-                    "albumLink": "https://open.spotify.com/albums/2ORpXH5TBm3giTyyEs5uCV",
+                    "albumLink": "https://open.spotify.com/album/2ORpXH5TBm3giTyyEs5uCV",
                     "discogsLink": "https://www.discogs.com/master/1204509",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=106698&band_id=11294&bandname=Mourning+Sun",
                     "msRating": "7.4",
@@ -1745,7 +1745,7 @@ export default {
             "albums": [
                 {
                     "album": "Forlorn",
-                    "albumLink": "https://open.spotify.com/albums/5A8v8DdLhzgwo6YEHVWuSI",
+                    "albumLink": "https://open.spotify.com/album/5A8v8DdLhzgwo6YEHVWuSI",
                     "discogsLink": "https://www.discogs.com/master/2535277",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134959&band_id=15156&bandname=The+Answer+Lies+In+The+Black+Void",
                     "msRating": "6.9",
@@ -1760,7 +1760,7 @@ export default {
             "albums": [
                 {
                     "album": "Hour of the Nightingale",
-                    "albumLink": "https://open.spotify.com/albums/6sFhi9TivgwN6XzcEYcfAy",
+                    "albumLink": "https://open.spotify.com/album/6sFhi9TivgwN6XzcEYcfAy",
                     "discogsLink": "https://www.discogs.com/master/1105388",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=89348&band_id=7192&bandname=Trees+Of+Eternity",
                     "msRating": "8.8",
@@ -1775,7 +1775,7 @@ export default {
             "albums": [
                 {
                     "album": "Tills döden skiljer oss åt",
-                    "albumLink": "https://open.spotify.com/albums/1dVs2eeCBDUgEMajCQMPZt",
+                    "albumLink": "https://open.spotify.com/album/1dVs2eeCBDUgEMajCQMPZt",
                     "discogsLink": "https://www.discogs.com/master/571751",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=61671&band_id=9393&bandname=Acacia",
                     "msRating": "8.4",
@@ -1805,7 +1805,7 @@ export default {
             "albums": [
                 {
                     "album": "Abyssgazer",
-                    "albumLink": "https://open.spotify.com/albums/3t9o4pTWbPahv5504mzRNP",
+                    "albumLink": "https://open.spotify.com/album/3t9o4pTWbPahv5504mzRNP",
                     "discogsLink": "https://www.discogs.com/release/26615303",
                     "msLink": "",
                     "msRating": "",
@@ -1844,7 +1844,7 @@ export default {
             "albums": [
                 {
                     "album": "Doliu",
-                    "albumLink": "https://open.spotify.com/albums/4P7virAcfRlitwHJXLtUYQ",
+                    "albumLink": "https://open.spotify.com/album/4P7virAcfRlitwHJXLtUYQ",
                     "discogsLink": "https://www.discogs.com/master/770539",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=78379&band_id=8474&bandname=Clouds",
                     "msRating": "8.5",
@@ -1853,7 +1853,7 @@ export default {
                 },
                 {
                     "album": "Departe",
-                    "albumLink": "https://open.spotify.com/albums/3q1ZrMhgNU9qo0Jpy99xOS",
+                    "albumLink": "https://open.spotify.com/album/3q1ZrMhgNU9qo0Jpy99xOS",
                     "discogsLink": "https://www.discogs.com/master/1116429",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=89940&band_id=8474&bandname=Clouds",
                     "msRating": "8.2",
@@ -1862,7 +1862,7 @@ export default {
                 },
                 {
                     "album": "Dor",
-                    "albumLink": "https://open.spotify.com/albums/0zRmI6XOmAxebcStzGQlTZ",
+                    "albumLink": "https://open.spotify.com/album/0zRmI6XOmAxebcStzGQlTZ",
                     "discogsLink": "https://www.discogs.com/master/1457160",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96045&band_id=8474&bandname=Clouds",
                     "msRating": "8.1",
@@ -1880,7 +1880,7 @@ export default {
                 },
                 {
                     "album": "Durere",
-                    "albumLink": "https://open.spotify.com/albums/6JRkw6WTkZkldZU4RKtU69",
+                    "albumLink": "https://open.spotify.com/album/6JRkw6WTkZkldZU4RKtU69",
                     "discogsLink": "https://www.discogs.com/master/1720314",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107468&band_id=8474&bandname=Clouds",
                     "msRating": "7.9",
@@ -1889,7 +1889,7 @@ export default {
                 },
                 {
                     "album": "Despărțire",
-                    "albumLink": "https://open.spotify.com/albums/0RujQ7cH19fG6NC0V3XDwQ",
+                    "albumLink": "https://open.spotify.com/album/0RujQ7cH19fG6NC0V3XDwQ",
                     "discogsLink": "https://www.discogs.com/master/2394556",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=135835&band_id=8474&bandname=Clouds",
                     "msRating": "7.9",
@@ -1904,7 +1904,7 @@ export default {
             "albums": [
                 {
                     "album": "The Mystery of Faith",
-                    "albumLink": "https://open.spotify.com/albums/4jfFEL0SZDnvoAbN6S8LoL",
+                    "albumLink": "https://open.spotify.com/album/4jfFEL0SZDnvoAbN6S8LoL",
                     "discogsLink": "https://www.discogs.com/release/6687584",
                     "msLink": "",
                     "msRating": "",
@@ -1913,7 +1913,7 @@ export default {
                 },
                 {
                     "album": "Delirium and Madness (Concerto Grosso Opera №2 in G Minor)",
-                    "albumLink": "https://open.spotify.com/albums/2d3GhbwDgPhnHYVwJJNGsZ",
+                    "albumLink": "https://open.spotify.com/album/2d3GhbwDgPhnHYVwJJNGsZ",
                     "discogsLink": "https://www.discogs.com/release/19797640",
                     "msLink": "",
                     "msRating": "",
@@ -1922,7 +1922,7 @@ export default {
                 },
                 {
                     "album": "Last Millennium",
-                    "albumLink": "https://open.spotify.com/albums/5whqZt1lpydlnAEFZq6R3I",
+                    "albumLink": "https://open.spotify.com/album/5whqZt1lpydlnAEFZq6R3I",
                     "discogsLink": "https://www.discogs.com/release/22775027",
                     "msLink": "",
                     "msRating": "",
@@ -1937,7 +1937,7 @@ export default {
             "albums": [
                 {
                     "album": "1692",
-                    "albumLink": "https://open.spotify.com/albums/6f77eIuTNpJDsyeiZfkPMl",
+                    "albumLink": "https://open.spotify.com/album/6f77eIuTNpJDsyeiZfkPMl",
                     "discogsLink": "https://www.discogs.com/master/1688159",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107900&band_id=11420&bandname=Frayle",
                     "msRating": "7.8",
@@ -1946,7 +1946,7 @@ export default {
                 },
                 {
                     "album": "Skin & Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/0Pmek3Uloo14hYzHMiVjek",
+                    "albumLink": "https://open.spotify.com/album/0Pmek3Uloo14hYzHMiVjek",
                     "discogsLink": "https://www.discogs.com/master/2802188",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=143519&band_id=11420&bandname=Frayle",
                     "msRating": "7.7",
@@ -1961,7 +1961,7 @@ export default {
             "albums": [
                 {
                     "album": "Miles Before I Sleep",
-                    "albumLink": "https://open.spotify.com/albums/7fQmhxECa3pMTtsoCK8H50",
+                    "albumLink": "https://open.spotify.com/album/7fQmhxECa3pMTtsoCK8H50",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=118079&band_id=12697&bandname=Great+Cold+Emptiness",
                     "msRating": "",
@@ -1970,7 +1970,7 @@ export default {
                 },
                 {
                     "album": "Death Gifted a Bouquet",
-                    "albumLink": "https://open.spotify.com/albums/1CoS5apiZvE8fCuDP3WlQH",
+                    "albumLink": "https://open.spotify.com/album/1CoS5apiZvE8fCuDP3WlQH",
                     "discogsLink": "https://www.discogs.com/release/17435899",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=118075&band_id=12697&bandname=Great+Cold+Emptiness",
                     "msRating": "",
@@ -1979,7 +1979,7 @@ export default {
                 },
                 {
                     "album": "Immaculate Hearts Will Triumph",
-                    "albumLink": "https://open.spotify.com/albums/17O0T7XGkbNLfzYWovTwiR",
+                    "albumLink": "https://open.spotify.com/album/17O0T7XGkbNLfzYWovTwiR",
                     "discogsLink": "https://www.discogs.com/master/2993999",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=157435&band_id=12697&bandname=Great+Cold+Emptiness",
                     "msRating": "",
@@ -1994,7 +1994,7 @@ export default {
             "albums": [
                 {
                     "album": "No Stars upon the Bridge",
-                    "albumLink": "https://open.spotify.com/albums/7A4wgmNZFPMI7P0xbnvGzR",
+                    "albumLink": "https://open.spotify.com/album/7A4wgmNZFPMI7P0xbnvGzR",
                     "discogsLink": "https://www.discogs.com/master/1256299",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=91925&band_id=9906&bandname=Hallatar",
                     "msRating": "8.3",
@@ -2024,7 +2024,7 @@ export default {
             "albums": [
                 {
                     "album": "Yö istui viereeni",
-                    "albumLink": "https://open.spotify.com/albums/5iyuYPKpM8eWDdJNQohQWF",
+                    "albumLink": "https://open.spotify.com/album/5iyuYPKpM8eWDdJNQohQWF",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -2054,7 +2054,7 @@ export default {
             "albums": [
                 {
                     "album": "Repose",
-                    "albumLink": "https://open.spotify.com/albums/3BDQo5pXiwdyHdieQSPjIY",
+                    "albumLink": "https://open.spotify.com/album/3BDQo5pXiwdyHdieQSPjIY",
                     "discogsLink": "https://www.discogs.com/master/1675839",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=57739&band_id=6527&bandname=Omit",
                     "msRating": "8.1",
@@ -2087,7 +2087,7 @@ export default {
             "albums": [
                 {
                     "album": "Rainbow Destruction Process",
-                    "albumLink": "https://open.spotify.com/albums/3OHUnBjFuoBCOspISDbP9Z",
+                    "albumLink": "https://open.spotify.com/album/3OHUnBjFuoBCOspISDbP9Z",
                     "discogsLink": "https://www.discogs.com/release/9762676",
                     "msLink": "",
                     "msRating": "",
@@ -2102,7 +2102,7 @@ export default {
             "albums": [
                 {
                     "album": "Theia",
-                    "albumLink": "https://open.spotify.com/albums/5kHVLBDIX9dz4FM2BV3N2C",
+                    "albumLink": "https://open.spotify.com/album/5kHVLBDIX9dz4FM2BV3N2C",
                     "discogsLink": "https://www.discogs.com/release/9026321",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=89964&band_id=9790&bandname=Self-Hatred",
                     "msRating": "7.3",
@@ -2111,7 +2111,7 @@ export default {
                 },
                 {
                     "album": "Hlubiny",
-                    "albumLink": "https://open.spotify.com/albums/2opUjhp11dLE5igchQAqoc",
+                    "albumLink": "https://open.spotify.com/album/2opUjhp11dLE5igchQAqoc",
                     "discogsLink": "https://www.discogs.com/release/12021460",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=94485&band_id=9790&bandname=Self-Hatred",
                     "msRating": "6.9",
@@ -2150,7 +2150,7 @@ export default {
             "albums": [
                 {
                     "album": "Sequestered Sympathy",
-                    "albumLink": "https://open.spotify.com/albums/1NQ1e7gxJoVJDhSyCZEF95",
+                    "albumLink": "https://open.spotify.com/album/1NQ1e7gxJoVJDhSyCZEF95",
                     "discogsLink": "https://www.discogs.com/master/1660536",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=106356&band_id=11246&bandname=Exulansis",
                     "msRating": "7.9",
@@ -19880,7 +19880,7 @@ export default {
             "albums": [
                 {
                     "album": "A Clarion Call",
-                    "albumLink": "https://open.spotify.com/albums/3P4616VCR3lM9Abf9I2yZN",
+                    "albumLink": "https://open.spotify.com/album/3P4616VCR3lM9Abf9I2yZN",
                     "discogsLink": "https://www.discogs.com/master/226909",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=37483&band_id=3882&bandname=Asunder",
                     "msRating": "",
@@ -19997,7 +19997,7 @@ export default {
                 },
                 {
                     "album": "While the Rest of the World Sleep...",
-                    "albumLink": "https://open.spotify.com/albums/2MHgGs2I5FYPGaGsuoN7Va",
+                    "albumLink": "https://open.spotify.com/album/2MHgGs2I5FYPGaGsuoN7Va",
                     "discogsLink": "https://www.discogs.com/release/2227452",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117108&band_id=12550&bandname=Aura+Hiemis",
                     "msRating": "",
@@ -20006,7 +20006,7 @@ export default {
                 },
                 {
                     "album": "fiVe",
-                    "albumLink": "https://open.spotify.com/albums/7z8whCnUoZi9oczwQut5Nc",
+                    "albumLink": "https://open.spotify.com/album/7z8whCnUoZi9oczwQut5Nc",
                     "discogsLink": "https://www.discogs.com/release/4451938",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117107&band_id=12550&bandname=Aura+Hiemis",
                     "msRating": "",
@@ -20015,7 +20015,7 @@ export default {
                 },
                 {
                     "album": "Silentium Manium",
-                    "albumLink": "https://open.spotify.com/albums/5Of7wYjfXNSJne4MZXipPb",
+                    "albumLink": "https://open.spotify.com/album/5Of7wYjfXNSJne4MZXipPb",
                     "discogsLink": "https://www.discogs.com/release/11110753",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117105&band_id=12550&bandname=Aura+Hiemis",
                     "msRating": "",
@@ -20024,7 +20024,7 @@ export default {
                 },
                 {
                     "album": "Wenn der Regen fällt",
-                    "albumLink": "https://open.spotify.com/albums/3r1M0abH0ae6LaNjCN0tun",
+                    "albumLink": "https://open.spotify.com/album/3r1M0abH0ae6LaNjCN0tun",
                     "discogsLink": "https://www.discogs.com/release/24537041",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117103&band_id=12550&bandname=Aura+Hiemis",
                     "msRating": "",
@@ -20033,7 +20033,7 @@ export default {
                 },
                 {
                     "album": "Visceral Laments",
-                    "albumLink": "https://open.spotify.com/albums/0AP2kYf5an4saMAD8GsV16",
+                    "albumLink": "https://open.spotify.com/album/0AP2kYf5an4saMAD8GsV16",
                     "discogsLink": "https://www.discogs.com/release/11110753",
                     "msLink": "",
                     "msRating": "",
@@ -20048,7 +20048,7 @@ export default {
             "albums": [
                 {
                     "album": "Funeral Procession",
-                    "albumLink": "https://open.spotify.com/albums/74RIt0JBrd2ySeQcMLH6Wx",
+                    "albumLink": "https://open.spotify.com/album/74RIt0JBrd2ySeQcMLH6Wx",
                     "discogsLink": "https://www.discogs.com/master/507677",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=42521&band_id=4939&bandname=Consummatum+Est",
                     "msRating": "7.2",
@@ -20057,7 +20057,7 @@ export default {
                 },
                 {
                     "album": "Hypnagogia",
-                    "albumLink": "https://open.spotify.com/albums/0FgD2GD6wwyXvNTbbX7rzI",
+                    "albumLink": "https://open.spotify.com/album/0FgD2GD6wwyXvNTbbX7rzI",
                     "discogsLink": "https://www.discogs.com/release/3126364",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=42384&band_id=4939&bandname=Consummatum+Est",
                     "msRating": "8",
@@ -20129,7 +20129,7 @@ export default {
             "albums": [
                 {
                     "album": "The Agonic Fall of Mourners",
-                    "albumLink": "https://open.spotify.com/albums/1KoNzfjjbQ3MofYRtDkKOG",
+                    "albumLink": "https://open.spotify.com/album/1KoNzfjjbQ3MofYRtDkKOG",
                     "discogsLink": "https://www.discogs.com/release/19001902",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=129020&band_id=14417&bandname=Lament+Christ",
                     "msRating": "",
@@ -20144,7 +20144,7 @@ export default {
             "albums": [
                 {
                     "album": "Despond",
-                    "albumLink": "https://open.spotify.com/albums/2feG1VqYXTxIkyXEu412ig",
+                    "albumLink": "https://open.spotify.com/album/2feG1VqYXTxIkyXEu412ig",
                     "discogsLink": "https://www.discogs.com/master/445467",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=56275&band_id=6350&bandname=Loss",
                     "msRating": "7.7",
@@ -20153,7 +20153,7 @@ export default {
                 },
                 {
                     "album": "Horizonless",
-                    "albumLink": "https://open.spotify.com/albums/4Ej4vZJWBrdIHC7yY1qJjS",
+                    "albumLink": "https://open.spotify.com/album/4Ej4vZJWBrdIHC7yY1qJjS",
                     "discogsLink": "https://www.discogs.com/master/1180851",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=91162&band_id=6350&bandname=Loss",
                     "msRating": "8",
@@ -20192,7 +20192,7 @@ export default {
             "albums": [
                 {
                     "album": "A Dirge for Your Suicide",
-                    "albumLink": "https://open.spotify.com/albums/7pGEGQ8SPvLKWFOesIIQ30",
+                    "albumLink": "https://open.spotify.com/album/7pGEGQ8SPvLKWFOesIIQ30",
                     "discogsLink": "https://www.discogs.com/release/4750048",
                     "msLink": "",
                     "msRating": "",
@@ -20207,7 +20207,7 @@ export default {
             "albums": [
                 {
                     "album": "Frail Visions",
-                    "albumLink": "https://open.spotify.com/albums/1NVcnUx5sNxLJQyVh9RIzq",
+                    "albumLink": "https://open.spotify.com/album/1NVcnUx5sNxLJQyVh9RIzq",
                     "discogsLink": "https://www.discogs.com/release/869481",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=6629&band_id=1829&bandname=Remembrance",
                     "msRating": "7.8",
@@ -20216,7 +20216,7 @@ export default {
                 },
                 {
                     "album": "Silencing the Moments...",
-                    "albumLink": "https://open.spotify.com/albums/201ajsE2F9B9IwQGcfdinR",
+                    "albumLink": "https://open.spotify.com/album/201ajsE2F9B9IwQGcfdinR",
                     "discogsLink": "https://www.discogs.com/release/1379806",
                     "msLink": "",
                     "msRating": "",
@@ -20225,7 +20225,7 @@ export default {
                 },
                 {
                     "album": "Fall, Obsidian Night",
-                    "albumLink": "https://open.spotify.com/albums/70MKDth27EC4mafpXlNpZY",
+                    "albumLink": "https://open.spotify.com/album/70MKDth27EC4mafpXlNpZY",
                     "discogsLink": "https://www.discogs.com/release/2305705",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=39368&band_id=1829&bandname=Remembrance",
                     "msRating": "8.4",
@@ -20240,7 +20240,7 @@ export default {
             "albums": [
                 {
                     "album": "Shades of...",
-                    "albumLink": "https://open.spotify.com/albums/4s0QohW4i5rL3ZfYMUFbQk",
+                    "albumLink": "https://open.spotify.com/album/4s0QohW4i5rL3ZfYMUFbQk",
                     "discogsLink": "https://www.discogs.com/master/11044",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2379&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.4",
@@ -20249,7 +20249,7 @@ export default {
                 },
                 {
                     "album": "Angels of Distress",
-                    "albumLink": "https://open.spotify.com/albums/5eHLW4hwMsIjP9QyXx5ntw",
+                    "albumLink": "https://open.spotify.com/album/5eHLW4hwMsIjP9QyXx5ntw",
                     "discogsLink": "https://www.discogs.com/master/235205",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2380&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.7",
@@ -20258,7 +20258,7 @@ export default {
                 },
                 {
                     "album": "Illusion's Play",
-                    "albumLink": "https://open.spotify.com/albums/6QbxDIN3CbEMZQeQKNREVX",
+                    "albumLink": "https://open.spotify.com/album/6QbxDIN3CbEMZQeQKNREVX",
                     "discogsLink": "https://www.discogs.com/master/11050",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2768&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.6",
@@ -20267,7 +20267,7 @@ export default {
                 },
                 {
                     "album": "Monotony Fields",
-                    "albumLink": "https://open.spotify.com/albums/1Jld5qR1CIfyvG4GYcrexK",
+                    "albumLink": "https://open.spotify.com/album/1Jld5qR1CIfyvG4GYcrexK",
                     "discogsLink": "https://www.discogs.com/master/849021",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=81932&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8.6",
@@ -20276,7 +20276,7 @@ export default {
                 },
                 {
                     "album": "Return to the Void",
-                    "albumLink": "https://open.spotify.com/albums/59w4hQFZKTrDWymuXDPQdn",
+                    "albumLink": "https://open.spotify.com/album/59w4hQFZKTrDWymuXDPQdn",
                     "discogsLink": "https://www.discogs.com/master/2524510",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136930&band_id=327&bandname=Shape+Of+Despair",
                     "msRating": "8",
@@ -20315,7 +20315,7 @@ export default {
                 },
                 {
                     "album": "Criteria ov 666",
-                    "albumLink": "https://open.spotify.com/albums/15Eu9gVsImZOFZZAKJAOQy",
+                    "albumLink": "https://open.spotify.com/album/15Eu9gVsImZOFZZAKJAOQy",
                     "discogsLink": "https://www.discogs.com/master/259693",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2311&band_id=317&bandname=Void+Of+Silence",
                     "msRating": "8",
@@ -20324,7 +20324,7 @@ export default {
                 },
                 {
                     "album": "Human Antithesis",
-                    "albumLink": "https://open.spotify.com/albums/2wvMmyJmmnNV98kxqir8N5",
+                    "albumLink": "https://open.spotify.com/album/2wvMmyJmmnNV98kxqir8N5",
                     "discogsLink": "https://www.discogs.com/master/187575",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2673&band_id=317&bandname=Void+Of+Silence",
                     "msRating": "8.5",
@@ -20342,7 +20342,7 @@ export default {
                 },
                 {
                     "album": "The Sky Over",
-                    "albumLink": "https://open.spotify.com/albums/0MXfoRCYeBawlLPbs4wsnA",
+                    "albumLink": "https://open.spotify.com/album/0MXfoRCYeBawlLPbs4wsnA",
                     "discogsLink": "https://www.discogs.com/master/1377348",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=94385&band_id=317&bandname=Void+Of+Silence",
                     "msRating": "7.9",
@@ -20375,7 +20375,7 @@ export default {
                 },
                 {
                     "album": "The Forestroamer",
-                    "albumLink": "https://open.spotify.com/albums/29d0hpBybsSdGcBt9fB5gD",
+                    "albumLink": "https://open.spotify.com/album/29d0hpBybsSdGcBt9fB5gD",
                     "discogsLink": "https://www.discogs.com/master/1426039",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=95641&band_id=8191&bandname=Woebegone+Obscured",
                     "msRating": "8.3",
@@ -20405,7 +20405,7 @@ export default {
             "albums": [
                 {
                     "album": "Tragedies",
-                    "albumLink": "https://open.spotify.com/albums/64t4A7yM1pTkVt0YfEr5Lp",
+                    "albumLink": "https://open.spotify.com/album/64t4A7yM1pTkVt0YfEr5Lp",
                     "discogsLink": "https://www.discogs.com/master/811636",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19841&band_id=659&bandname=Funeral",
                     "msRating": "8.1",
@@ -20414,7 +20414,7 @@ export default {
                 },
                 {
                     "album": "In Fields of Pestilent Grief",
-                    "albumLink": "https://open.spotify.com/albums/6DG7xVpMNTunmiUiHRYrr2",
+                    "albumLink": "https://open.spotify.com/album/6DG7xVpMNTunmiUiHRYrr2",
                     "discogsLink": "https://www.discogs.com/master/863323",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19842&band_id=659&bandname=Funeral",
                     "msRating": "7.8",
@@ -20423,7 +20423,7 @@ export default {
                 },
                 {
                     "album": "From These Wounds",
-                    "albumLink": "https://open.spotify.com/albums/6T4dxlJHFvuHhT283htVfD",
+                    "albumLink": "https://open.spotify.com/album/6T4dxlJHFvuHhT283htVfD",
                     "discogsLink": "https://www.discogs.com/master/398123",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=15766&band_id=659&bandname=Funeral",
                     "msRating": "8.5",
@@ -20432,7 +20432,7 @@ export default {
                 },
                 {
                     "album": "As the Light Does the Shadow",
-                    "albumLink": "https://open.spotify.com/albums/795coHYaEe1QLEcuWTyxnJ",
+                    "albumLink": "https://open.spotify.com/album/795coHYaEe1QLEcuWTyxnJ",
                     "discogsLink": "https://www.discogs.com/master/462623",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=21708&band_id=659&bandname=Funeral",
                     "msRating": "7.2",
@@ -20441,7 +20441,7 @@ export default {
                 },
                 {
                     "album": "Oratorium",
-                    "albumLink": "https://open.spotify.com/albums/3KfCdmjvqgSFIgjzVVQKjv",
+                    "albumLink": "https://open.spotify.com/album/3KfCdmjvqgSFIgjzVVQKjv",
                     "discogsLink": "https://www.discogs.com/master/500296",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=66539&band_id=659&bandname=Funeral",
                     "msRating": "8",
@@ -20450,7 +20450,7 @@ export default {
                 },
                 {
                     "album": "Praesentialis in Aeternum",
-                    "albumLink": "https://open.spotify.com/albums/5kOJmkGovYkMjKENtieFM1",
+                    "albumLink": "https://open.spotify.com/album/5kOJmkGovYkMjKENtieFM1",
                     "discogsLink": "https://www.discogs.com/master/2416561",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=137615&band_id=659&bandname=Funeral",
                     "msRating": "7.6",
@@ -20492,7 +20492,7 @@ export default {
                 },
                 {
                     "album": "Stereotrip",
-                    "albumLink": "https://open.spotify.com/albums/2g7yqC0SRkFtz41kg3pZWo",
+                    "albumLink": "https://open.spotify.com/album/2g7yqC0SRkFtz41kg3pZWo",
                     "discogsLink": "https://www.discogs.com/release/11331922",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=89380&band_id=5151&bandname=Gallileous",
                     "msRating": "7",
@@ -20501,7 +20501,7 @@ export default {
                 },
                 {
                     "album": "Moonsoon",
-                    "albumLink": "https://open.spotify.com/albums/2lYcrsu3G9w8cJFGHanY0G",
+                    "albumLink": "https://open.spotify.com/album/2lYcrsu3G9w8cJFGHanY0G",
                     "discogsLink": "https://www.discogs.com/release/14182119",
                     "msLink": "",
                     "msRating": "",
@@ -20510,7 +20510,7 @@ export default {
                 },
                 {
                     "album": "Fosforos",
-                    "albumLink": "https://open.spotify.com/albums/3m2Ye40iLkWX2PhGkqTLLw",
+                    "albumLink": "https://open.spotify.com/album/3m2Ye40iLkWX2PhGkqTLLw",
                     "discogsLink": "https://www.discogs.com/release/20835946",
                     "msLink": "",
                     "msRating": "",
@@ -20534,7 +20534,7 @@ export default {
                 },
                 {
                     "album": "Languor into Echoes, Beyond",
-                    "albumLink": "https://open.spotify.com/albums/7lCkvlXctUophcl62oCMQa",
+                    "albumLink": "https://open.spotify.com/album/7lCkvlXctUophcl62oCMQa",
                     "discogsLink": "https://www.discogs.com/master/2715764",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=37485&band_id=4509&bandname=Chaos+Moon",
                     "msRating": "8.2",
@@ -20690,7 +20690,7 @@ export default {
                 },
                 {
                     "album": "Inanimus",
-                    "albumLink": "https://open.spotify.com/albums/1jIT6Wd76wuNK5KQThjBfe",
+                    "albumLink": "https://open.spotify.com/album/1jIT6Wd76wuNK5KQThjBfe",
                     "discogsLink": "https://www.discogs.com/release/3177183",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=54304&band_id=5417&bandname=Aabsynthum",
                     "msRating": "",
@@ -20753,7 +20753,7 @@ export default {
             "albums": [
                 {
                     "album": "Alone",
-                    "albumLink": "https://open.spotify.com/albums/0EoEjqmFwfOWrd0eMNJzl8",
+                    "albumLink": "https://open.spotify.com/album/0EoEjqmFwfOWrd0eMNJzl8",
                     "discogsLink": "https://www.discogs.com/release/8489039",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=108521&band_id=11471&bandname=Epistle",
                     "msRating": "",
@@ -20777,7 +20777,7 @@ export default {
             "albums": [
                 {
                     "album": "Coronation of the Black Sun",
-                    "albumLink": "https://open.spotify.com/albums/3BHAkmI8eYRhvjMSNmKDC6",
+                    "albumLink": "https://open.spotify.com/album/3BHAkmI8eYRhvjMSNmKDC6",
                     "discogsLink": "https://www.discogs.com/release/1899659",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=35836&band_id=3955&bandname=Profetus",
                     "msRating": "8",
@@ -20786,7 +20786,7 @@ export default {
                 },
                 {
                     "album": "...to Open the Passages in Dusk",
-                    "albumLink": "https://open.spotify.com/albums/2Nup42Ot4gDwMcgLIVtViV",
+                    "albumLink": "https://open.spotify.com/album/2Nup42Ot4gDwMcgLIVtViV",
                     "discogsLink": "https://www.discogs.com/master/426991",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=52988&band_id=3955&bandname=Profetus",
                     "msRating": "8.1",
@@ -20795,7 +20795,7 @@ export default {
                 },
                 {
                     "album": "The Sadness of Time Passing",
-                    "albumLink": "https://open.spotify.com/albums/37BgqLMnIydYcwwh3pRWg8",
+                    "albumLink": "https://open.spotify.com/album/37BgqLMnIydYcwwh3pRWg8",
                     "discogsLink": "https://www.discogs.com/master/1622873",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=102823&band_id=3955&bandname=Profetus",
                     "msRating": "8",
@@ -20810,7 +20810,7 @@ export default {
             "albums": [
                 {
                     "album": "A Step into the Waters of Forgetfulness",
-                    "albumLink": "https://open.spotify.com/albums/1OYPVRB2zQAd4LKDJMMOPe",
+                    "albumLink": "https://open.spotify.com/album/1OYPVRB2zQAd4LKDJMMOPe",
                     "discogsLink": "https://www.discogs.com/release/5335778",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93455&band_id=10011&bandname=Woe+Unto+Me",
                     "msRating": "6.7",
@@ -20819,7 +20819,7 @@ export default {
                 },
                 {
                     "album": "Among the Lightened Skies the Voidness Flashed",
-                    "albumLink": "https://open.spotify.com/albums/0EcN0tlwmZWbx2d1stvxgE",
+                    "albumLink": "https://open.spotify.com/album/0EcN0tlwmZWbx2d1stvxgE",
                     "discogsLink": "https://www.discogs.com/release/10899418",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93456&band_id=10011&bandname=Woe+Unto+Me",
                     "msRating": "7.4",
@@ -20828,7 +20828,7 @@ export default {
                 },
                 {
                     "album": "Along the Meandering Ordeals, Reshape the Pivot of Harmony",
-                    "albumLink": "https://open.spotify.com/albums/6JH7YMYxodFmHpyxmEN7td",
+                    "albumLink": "https://open.spotify.com/album/6JH7YMYxodFmHpyxmEN7td",
                     "discogsLink": "https://www.discogs.com/master/3048845",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=158207&band_id=10011&bandname=Woe+Unto+Me",
                     "msRating": "6.8",
@@ -20858,7 +20858,7 @@ export default {
             "albums": [
                 {
                     "album": "Drowning Horse",
-                    "albumLink": "https://open.spotify.com/albums/1pwBfnJkTMPpTuwhvy5c6r",
+                    "albumLink": "https://open.spotify.com/album/1pwBfnJkTMPpTuwhvy5c6r",
                     "discogsLink": "https://www.discogs.com/master/749702",
                     "msLink": "",
                     "msRating": "",
@@ -20867,7 +20867,7 @@ export default {
                 },
                 {
                     "album": "Sheltering Sky",
-                    "albumLink": "https://open.spotify.com/albums/1KMruu6gjFk4UMTLe4BXPZ",
+                    "albumLink": "https://open.spotify.com/album/1KMruu6gjFk4UMTLe4BXPZ",
                     "discogsLink": "https://www.discogs.com/master/1580598",
                     "msLink": "",
                     "msRating": "",
@@ -20882,7 +20882,7 @@ export default {
             "albums": [
                 {
                     "album": "In Articulo Mortis",
-                    "albumLink": "https://open.spotify.com/albums/69sXmTI44t73YyWw55uv6K",
+                    "albumLink": "https://open.spotify.com/album/69sXmTI44t73YyWw55uv6K",
                     "discogsLink": "https://www.discogs.com/master/972341",
                     "msLink": "",
                     "msRating": "",
@@ -20891,7 +20891,7 @@ export default {
                 },
                 {
                     "album": "Sacer",
-                    "albumLink": "https://open.spotify.com/albums/3gBKdje1VKYv1Qyc4vMY1s",
+                    "albumLink": "https://open.spotify.com/album/3gBKdje1VKYv1Qyc4vMY1s",
                     "discogsLink": "https://www.discogs.com/master/1332143",
                     "msLink": "",
                     "msRating": "",
@@ -20945,7 +20945,7 @@ export default {
             "albums": [
                 {
                     "album": "Repose",
-                    "albumLink": "https://open.spotify.com/albums/3BDQo5pXiwdyHdieQSPjIY",
+                    "albumLink": "https://open.spotify.com/album/3BDQo5pXiwdyHdieQSPjIY",
                     "discogsLink": "https://www.discogs.com/master/1675839",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=57739&band_id=6527&bandname=Omit",
                     "msRating": "8.1",
@@ -21011,7 +21011,7 @@ export default {
             "albums": [
                 {
                     "album": "The Slow Death",
-                    "albumLink": "https://open.spotify.com/albums/2aJbOEuxagLz156Mu3aQFI",
+                    "albumLink": "https://open.spotify.com/album/2aJbOEuxagLz156Mu3aQFI",
                     "discogsLink": "https://www.discogs.com/master/103664",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=79852&band_id=8570&bandname=The+Slow+Death",
                     "msRating": "7.7",
@@ -21038,7 +21038,7 @@ export default {
                 },
                 {
                     "album": "Siege",
-                    "albumLink": "https://open.spotify.com/albums/08EuWKMFJWtWY8yIQxj572",
+                    "albumLink": "https://open.spotify.com/album/08EuWKMFJWtWY8yIQxj572",
                     "discogsLink": "https://www.discogs.com/master/2302111",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=132393&band_id=8570&bandname=The+Slow+Death",
                     "msRating": "7.1",
@@ -21092,7 +21092,7 @@ export default {
             "albums": [
                 {
                     "album": "Where Distant Spirits Remain",
-                    "albumLink": "https://open.spotify.com/albums/5Un1TR1entBYq556YFJJAJ",
+                    "albumLink": "https://open.spotify.com/album/5Un1TR1entBYq556YFJJAJ",
                     "discogsLink": "https://www.discogs.com/master/459910",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=56768&band_id=6385&bandname=Falloch",
                     "msRating": "8.2",
@@ -21101,7 +21101,7 @@ export default {
                 },
                 {
                     "album": "This Island, Our Funeral",
-                    "albumLink": "https://open.spotify.com/albums/3pXuMMnNIA9VFTH4IQeLaV",
+                    "albumLink": "https://open.spotify.com/album/3pXuMMnNIA9VFTH4IQeLaV",
                     "discogsLink": "https://www.discogs.com/master/787809",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=77551&band_id=6385&bandname=Falloch",
                     "msRating": "7.4",
@@ -21110,7 +21110,7 @@ export default {
                 },
                 {
                     "album": "Prospice",
-                    "albumLink": "https://open.spotify.com/albums/0QehQjhTJB160CM8ORbkPW",
+                    "albumLink": "https://open.spotify.com/album/0QehQjhTJB160CM8ORbkPW",
                     "discogsLink": "https://www.discogs.com/release/10644403",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=92371&band_id=6385&bandname=Falloch",
                     "msRating": "7.6",
@@ -21158,7 +21158,7 @@ export default {
                 },
                 {
                     "album": "Cult of Herodias",
-                    "albumLink": "https://open.spotify.com/albums/0AqQQE8n0IwgXIWWwhmYpy",
+                    "albumLink": "https://open.spotify.com/album/0AqQQE8n0IwgXIWWwhmYpy",
                     "discogsLink": "https://www.discogs.com/release/8580357",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=76224&band_id=7139&bandname=Cult+Of+Herodias",
                     "msRating": "7",
@@ -21167,7 +21167,7 @@ export default {
                 },
                 {
                     "album": "Greyvein",
-                    "albumLink": "https://open.spotify.com/albums/6LNozbIU1FMjZTOht884L4",
+                    "albumLink": "https://open.spotify.com/album/6LNozbIU1FMjZTOht884L4",
                     "discogsLink": "https://www.discogs.com/release/6615461",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=79887&band_id=7139&bandname=Cult+Of+Herodias",
                     "msRating": "7.2",
@@ -21182,7 +21182,7 @@ export default {
             "albums": [
                 {
                     "album": "Obsequies",
-                    "albumLink": "https://open.spotify.com/albums/5T1ODDEHlxq44NTNbt3qsk",
+                    "albumLink": "https://open.spotify.com/album/5T1ODDEHlxq44NTNbt3qsk",
                     "discogsLink": "https://www.discogs.com/master/2042107",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=122551&band_id=13410&bandname=Eurynome",
                     "msRating": "",
@@ -21212,7 +21212,7 @@ export default {
             "albums": [
                 {
                     "album": "Tyhjyyden näkyjä",
-                    "albumLink": "https://open.spotify.com/albums/6BkBiqEoOtnuNYqqY3FErZ",
+                    "albumLink": "https://open.spotify.com/album/6BkBiqEoOtnuNYqqY3FErZ",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -21221,7 +21221,7 @@ export default {
                 },
                 {
                     "album": "Kaikkeuden ytimeen",
-                    "albumLink": "https://open.spotify.com/albums/19bZ1yqTbvZPS47ANaa20J",
+                    "albumLink": "https://open.spotify.com/album/19bZ1yqTbvZPS47ANaa20J",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -21236,7 +21236,7 @@ export default {
             "albums": [
                 {
                     "album": "The Fading Light",
-                    "albumLink": "https://open.spotify.com/albums/5qrIMKDnwuu8MolZWH9oV9",
+                    "albumLink": "https://open.spotify.com/album/5qrIMKDnwuu8MolZWH9oV9",
                     "discogsLink": "https://www.discogs.com/release/5445721",
                     "msLink": "",
                     "msRating": "",
@@ -21317,7 +21317,7 @@ export default {
             "albums": [
                 {
                     "album": "Drama",
-                    "albumLink": "https://open.spotify.com/albums/6NyCv24JMZvyE8BagrcG5f",
+                    "albumLink": "https://open.spotify.com/album/6NyCv24JMZvyE8BagrcG5f",
                     "discogsLink": "https://www.discogs.com/master/1110660",
                     "msLink": "",
                     "msRating": "",
@@ -21341,7 +21341,7 @@ export default {
                 },
                 {
                     "album": "Lifeless Grey",
-                    "albumLink": "https://open.spotify.com/albums/2qFMCKr6XayLQpND825BFW",
+                    "albumLink": "https://open.spotify.com/album/2qFMCKr6XayLQpND825BFW",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -21356,7 +21356,7 @@ export default {
             "albums": [
                 {
                     "album": "Starless Aeon",
-                    "albumLink": "https://open.spotify.com/albums/2pz5KTdjdjYecLBgFSzjh8",
+                    "albumLink": "https://open.spotify.com/album/2pz5KTdjdjYecLBgFSzjh8",
                     "discogsLink": "https://www.discogs.com/master/861350",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=77819&band_id=8336&bandname=Funerary",
                     "msRating": "7",
@@ -21371,7 +21371,7 @@ export default {
             "albums": [
                 {
                     "album": "Miles Before I Sleep",
-                    "albumLink": "https://open.spotify.com/albums/7fQmhxECa3pMTtsoCK8H50",
+                    "albumLink": "https://open.spotify.com/album/7fQmhxECa3pMTtsoCK8H50",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=118079&band_id=12697&bandname=Great+Cold+Emptiness",
                     "msRating": "",
@@ -21380,7 +21380,7 @@ export default {
                 },
                 {
                     "album": "Death Gifted a Bouquet",
-                    "albumLink": "https://open.spotify.com/albums/1CoS5apiZvE8fCuDP3WlQH",
+                    "albumLink": "https://open.spotify.com/album/1CoS5apiZvE8fCuDP3WlQH",
                     "discogsLink": "https://www.discogs.com/release/17435899",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=118075&band_id=12697&bandname=Great+Cold+Emptiness",
                     "msRating": "",
@@ -21389,7 +21389,7 @@ export default {
                 },
                 {
                     "album": "Immaculate Hearts Will Triumph",
-                    "albumLink": "https://open.spotify.com/albums/17O0T7XGkbNLfzYWovTwiR",
+                    "albumLink": "https://open.spotify.com/album/17O0T7XGkbNLfzYWovTwiR",
                     "discogsLink": "https://www.discogs.com/master/2993999",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=157435&band_id=12697&bandname=Great+Cold+Emptiness",
                     "msRating": "",
@@ -21470,7 +21470,7 @@ export default {
             "albums": [
                 {
                     "album": "Emily",
-                    "albumLink": "https://open.spotify.com/albums/37jPk9YL72ASSxyZFcYSnw",
+                    "albumLink": "https://open.spotify.com/album/37jPk9YL72ASSxyZFcYSnw",
                     "discogsLink": "https://www.discogs.com/master/1841553",
                     "msLink": "",
                     "msRating": "",
@@ -21515,7 +21515,7 @@ export default {
             "albums": [
                 {
                     "album": "Материя",
-                    "albumLink": "https://open.spotify.com/albums/3ldh2nfI2xpE3pjMypGgHw",
+                    "albumLink": "https://open.spotify.com/album/3ldh2nfI2xpE3pjMypGgHw",
                     "discogsLink": "https://www.discogs.com/master/1343467",
                     "msLink": "",
                     "msRating": "",
@@ -21524,7 +21524,7 @@ export default {
                 },
                 {
                     "album": "Универс",
-                    "albumLink": "https://open.spotify.com/albums/64GiNhJV9RSsmNSYP6TsaC",
+                    "albumLink": "https://open.spotify.com/album/64GiNhJV9RSsmNSYP6TsaC",
                     "discogsLink": "https://www.discogs.com/master/1619251",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=94694&band_id=10169&bandname=Shishkin+Les",
                     "msRating": "8.1",
@@ -21563,7 +21563,7 @@ export default {
             "albums": [
                 {
                     "album": "I",
-                    "albumLink": "https://open.spotify.com/albums/1H1vcFeQrKMaSGbgeaLio3",
+                    "albumLink": "https://open.spotify.com/album/1H1vcFeQrKMaSGbgeaLio3",
                     "discogsLink": "https://www.discogs.com/master/690544",
                     "msLink": "",
                     "msRating": "",
@@ -21590,7 +21590,7 @@ export default {
                 },
                 {
                     "album": "IV: The Silence of the Perpetual Choir in Heaven",
-                    "albumLink": "https://open.spotify.com/albums/1H1vcFeQrKMaSGbgeaLio3",
+                    "albumLink": "https://open.spotify.com/album/1H1vcFeQrKMaSGbgeaLio3",
                     "discogsLink": "https://www.discogs.com/master/1565016",
                     "msLink": "",
                     "msRating": "",
@@ -21635,7 +21635,7 @@ export default {
             "albums": [
                 {
                     "album": "Unseen & Unfound",
-                    "albumLink": "https://open.spotify.com/albums/4UVy6CaQLyWeA37qchqn7Q",
+                    "albumLink": "https://open.spotify.com/album/4UVy6CaQLyWeA37qchqn7Q",
                     "discogsLink": "https://www.discogs.com/release/23051324",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=162817&band_id=20542&bandname=Wraithstorm",
                     "msRating": "",
@@ -21650,7 +21650,7 @@ export default {
             "albums": [
                 {
                     "album": "Remains",
-                    "albumLink": "https://open.spotify.com/albums/60BlUNQcLSxp68KFPmVz2v",
+                    "albumLink": "https://open.spotify.com/album/60BlUNQcLSxp68KFPmVz2v",
                     "discogsLink": "https://www.discogs.com/master/2202907",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=128649&band_id=12380&bandname=Hellish+Form",
                     "msRating": "",
@@ -21659,7 +21659,7 @@ export default {
                 },
                 {
                     "album": "Deathless",
-                    "albumLink": "https://open.spotify.com/albums/6nxvVT1w0kiwpqhk4bUKxc",
+                    "albumLink": "https://open.spotify.com/album/6nxvVT1w0kiwpqhk4bUKxc",
                     "discogsLink": "https://www.discogs.com/release/26600489",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=162540&band_id=12380&bandname=Hellish+Form",
                     "msRating": "",
@@ -21674,7 +21674,7 @@ export default {
             "albums": [
                 {
                     "album": "Yö istui viereeni",
-                    "albumLink": "https://open.spotify.com/albums/5iyuYPKpM8eWDdJNQohQWF",
+                    "albumLink": "https://open.spotify.com/album/5iyuYPKpM8eWDdJNQohQWF",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -21689,7 +21689,7 @@ export default {
             "albums": [
                 {
                     "album": "Dissolution of the Threefold Self",
-                    "albumLink": "https://open.spotify.com/albums/5qGAeO8j3d1zsMuNEWNT2g",
+                    "albumLink": "https://open.spotify.com/album/5qGAeO8j3d1zsMuNEWNT2g",
                     "discogsLink": "https://www.discogs.com/release/16113812",
                     "msLink": "",
                     "msRating": "",
@@ -21698,7 +21698,7 @@ export default {
                 },
                 {
                     "album": "Voyage of Sentient Decay",
-                    "albumLink": "https://open.spotify.com/albums/3bnNNH19aKzBiIzzSAV1BP",
+                    "albumLink": "https://open.spotify.com/album/3bnNNH19aKzBiIzzSAV1BP",
                     "discogsLink": "https://www.discogs.com/master/3029237",
                     "msLink": "",
                     "msRating": "",
@@ -21772,7 +21772,7 @@ export default {
             "albums": [
                 {
                     "album": "Dark Truth",
-                    "albumLink": "https://open.spotify.com/albums/6OXEfO6dUnOD8nsUWRGQfV",
+                    "albumLink": "https://open.spotify.com/album/6OXEfO6dUnOD8nsUWRGQfV",
                     "discogsLink": "https://www.discogs.com/release/3581176",
                     "msLink": "",
                     "msRating": "",
@@ -21877,7 +21877,7 @@ export default {
                 },
                 {
                     "album": "In Motion...",
-                    "albumLink": "https://open.spotify.com/albums/5GTtL877Nm28tDLU83xaE1",
+                    "albumLink": "https://open.spotify.com/album/5GTtL877Nm28tDLU83xaE1",
                     "discogsLink": "https://www.discogs.com/master/1648082",
                     "msLink": "",
                     "msRating": "",
@@ -21886,7 +21886,7 @@ export default {
                 },
                 {
                     "album": "Occult",
-                    "albumLink": "https://open.spotify.com/albums/4iZn0XDUoJjNqMeOGL3qN8",
+                    "albumLink": "https://open.spotify.com/album/4iZn0XDUoJjNqMeOGL3qN8",
                     "discogsLink": "https://www.discogs.com/release/7233942",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=77949&band_id=3982&bandname=Interitus+Dei",
                     "msRating": "7",
@@ -21910,7 +21910,7 @@ export default {
                 },
                 {
                     "album": "Old Man's Hands",
-                    "albumLink": "https://open.spotify.com/albums/33bnkNCFnSFWOgc9gaPkDC",
+                    "albumLink": "https://open.spotify.com/album/33bnkNCFnSFWOgc9gaPkDC",
                     "discogsLink": "https://www.discogs.com/release/4137519",
                     "msLink": "",
                     "msRating": "",
@@ -21919,7 +21919,7 @@ export default {
                 },
                 {
                     "album": "A Story from Limbo",
-                    "albumLink": "https://open.spotify.com/albums/7xEhNNJ7A4JiWXGzBpB4TR",
+                    "albumLink": "https://open.spotify.com/album/7xEhNNJ7A4JiWXGzBpB4TR",
                     "discogsLink": "https://www.discogs.com/release/6449003",
                     "msLink": "",
                     "msRating": "",
@@ -22000,7 +22000,7 @@ export default {
             "albums": [
                 {
                     "album": "Keep the Lonely Trees",
-                    "albumLink": "https://open.spotify.com/albums/10Q55a2qy7dU06NgAyRFJ2",
+                    "albumLink": "https://open.spotify.com/album/10Q55a2qy7dU06NgAyRFJ2",
                     "discogsLink": "https://www.discogs.com/master/511054",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=124694&band_id=13768&bandname=Nightsky+Bequest",
                     "msRating": "",
@@ -22009,7 +22009,7 @@ export default {
                 },
                 {
                     "album": "Of Sea, Wind and Farewell",
-                    "albumLink": "https://open.spotify.com/albums/7dZqqRfgae3l7D9ejzrbKO",
+                    "albumLink": "https://open.spotify.com/album/7dZqqRfgae3l7D9ejzrbKO",
                     "discogsLink": "https://www.discogs.com/master/553913",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=124696&band_id=13768&bandname=Nightsky+Bequest",
                     "msRating": "",
@@ -22024,7 +22024,7 @@ export default {
             "albums": [
                 {
                     "album": "The Spring",
-                    "albumLink": "https://open.spotify.com/albums/7s4rY16HONQCV7aOsZZo0V",
+                    "albumLink": "https://open.spotify.com/album/7s4rY16HONQCV7aOsZZo0V",
                     "discogsLink": "https://www.discogs.com/master/346036",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=45681&band_id=4135&bandname=Paragon+Of+Beauty",
                     "msRating": "8.6",
@@ -22033,7 +22033,7 @@ export default {
                 },
                 {
                     "album": "Seraphine... Far Gone Gleam",
-                    "albumLink": "https://open.spotify.com/albums/7zCUxXsNlJ5TIxXbexG2Ey",
+                    "albumLink": "https://open.spotify.com/album/7zCUxXsNlJ5TIxXbexG2Ey",
                     "discogsLink": "https://www.discogs.com/master/1813996",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=33892&band_id=4135&bandname=Paragon+Of+Beauty",
                     "msRating": "8.6",
@@ -22042,7 +22042,7 @@ export default {
                 },
                 {
                     "album": "Comfort Me, Infinity",
-                    "albumLink": "https://open.spotify.com/albums/34LaCVmBKT7YW0yGELIpYZ",
+                    "albumLink": "https://open.spotify.com/album/34LaCVmBKT7YW0yGELIpYZ",
                     "discogsLink": "https://www.discogs.com/master/456556",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=45682&band_id=4135&bandname=Paragon+Of+Beauty",
                     "msRating": "9.2",
@@ -22057,7 +22057,7 @@ export default {
             "albums": [
                 {
                     "album": "Elektrula",
-                    "albumLink": "https://open.spotify.com/albums/3MBMj6MEwtThvNAJz330kk",
+                    "albumLink": "https://open.spotify.com/album/3MBMj6MEwtThvNAJz330kk",
                     "discogsLink": "https://www.discogs.com/master/811010",
                     "msLink": "",
                     "msRating": "",
@@ -22066,7 +22066,7 @@ export default {
                 },
                 {
                     "album": "Tête-à-Tête",
-                    "albumLink": "https://open.spotify.com/albums/0KHmj7MXirZ7mibpSJveif",
+                    "albumLink": "https://open.spotify.com/album/0KHmj7MXirZ7mibpSJveif",
                     "discogsLink": "https://www.discogs.com/release/440918",
                     "msLink": "",
                     "msRating": "",
@@ -22075,7 +22075,7 @@ export default {
                 },
                 {
                     "album": "Somnambul",
-                    "albumLink": "https://open.spotify.com/albums/26cNcFcCqOkEVHwcklrTsO",
+                    "albumLink": "https://open.spotify.com/album/26cNcFcCqOkEVHwcklrTsO",
                     "discogsLink": "https://www.discogs.com/release/4538045",
                     "msLink": "",
                     "msRating": "",
@@ -22105,7 +22105,7 @@ export default {
             "albums": [
                 {
                     "album": "Remembrance",
-                    "albumLink": "https://open.spotify.com/albums/0m6fy4ccf2i9JHCuBmMc3l",
+                    "albumLink": "https://open.spotify.com/album/0m6fy4ccf2i9JHCuBmMc3l",
                     "discogsLink": "https://www.discogs.com/master/1510361",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=28199&band_id=3468&bandname=Silent+Cry",
                     "msRating": "",
@@ -22114,7 +22114,7 @@ export default {
                 },
                 {
                     "album": "Goddess of Tears",
-                    "albumLink": "https://open.spotify.com/albums/3WZYzI9N8dfeClIoh5qCH6",
+                    "albumLink": "https://open.spotify.com/album/3WZYzI9N8dfeClIoh5qCH6",
                     "discogsLink": "https://www.discogs.com/master/828230",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=28200&band_id=3468&bandname=Silent+Cry",
                     "msRating": "",
@@ -22141,7 +22141,7 @@ export default {
                 },
                 {
                     "album": "Hypnosis",
-                    "albumLink": "https://open.spotify.com/albums/1SZoDHzFsOP0dwkrnkmMai",
+                    "albumLink": "https://open.spotify.com/album/1SZoDHzFsOP0dwkrnkmMai",
                     "discogsLink": "https://www.discogs.com/release/11136753",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136437&band_id=3468&bandname=Silent+Cry",
                     "msRating": "",
@@ -22150,7 +22150,7 @@ export default {
                 },
                 {
                     "album": "Terra",
-                    "albumLink": "https://open.spotify.com/albums/5ZTm0CKDsyrZvzhHBL2csY",
+                    "albumLink": "https://open.spotify.com/album/5ZTm0CKDsyrZvzhHBL2csY",
                     "discogsLink": "https://www.discogs.com/release/25416046",
                     "msLink": "",
                     "msRating": "",
@@ -22165,7 +22165,7 @@ export default {
             "albums": [
                 {
                     "album": "Necrospirituals",
-                    "albumLink": "https://open.spotify.com/albums/3itijmWtFbZJqWzq1cEZ3k",
+                    "albumLink": "https://open.spotify.com/album/3itijmWtFbZJqWzq1cEZ3k",
                     "discogsLink": "https://www.discogs.com/master/164519",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=115541&band_id=12298&bandname=Stillborn",
                     "msRating": "8",
@@ -22174,7 +22174,7 @@ export default {
                 },
                 {
                     "album": "The Permanent Solution",
-                    "albumLink": "https://open.spotify.com/albums/6ygAcin0rh4kGmtvdIfPVQ",
+                    "albumLink": "https://open.spotify.com/album/6ygAcin0rh4kGmtvdIfPVQ",
                     "discogsLink": "https://www.discogs.com/master/190270",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=115539&band_id=12298&bandname=Stillborn",
                     "msRating": "8",
@@ -22183,7 +22183,7 @@ export default {
                 },
                 {
                     "album": "State of Disconnection",
-                    "albumLink": "https://open.spotify.com/albums/2MlJFdvulzBtpAHAgUYs9E",
+                    "albumLink": "https://open.spotify.com/album/2MlJFdvulzBtpAHAgUYs9E",
                     "discogsLink": "https://www.discogs.com/master/215936",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=115538&band_id=12298&bandname=Stillborn",
                     "msRating": "8",
@@ -22192,7 +22192,7 @@ export default {
                 },
                 {
                     "album": "Nocturnals",
-                    "albumLink": "https://open.spotify.com/albums/62H36swGntIZxzQ5zong29",
+                    "albumLink": "https://open.spotify.com/album/62H36swGntIZxzQ5zong29",
                     "discogsLink": "https://www.discogs.com/master/1259892",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=115537&band_id=12298&bandname=Stillborn",
                     "msRating": "8",
@@ -22207,7 +22207,7 @@ export default {
             "albums": [
                 {
                     "album": "Mist of Avalon",
-                    "albumLink": "https://open.spotify.com/albums/25djIMDbe1mBP3y0DhlvrZ",
+                    "albumLink": "https://open.spotify.com/album/25djIMDbe1mBP3y0DhlvrZ",
                     "discogsLink": "https://www.discogs.com/master/816445",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=150056&band_id=18131&bandname=The+Mist+Of+Avalon",
                     "msRating": "",
@@ -22216,7 +22216,7 @@ export default {
                 },
                 {
                     "album": "Here and After",
-                    "albumLink": "https://open.spotify.com/albums/5rcedh1ljizDwzn53uiFXo",
+                    "albumLink": "https://open.spotify.com/album/5rcedh1ljizDwzn53uiFXo",
                     "discogsLink": "https://www.discogs.com/master/816431",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=150055&band_id=18131&bandname=The+Mist+Of+Avalon",
                     "msRating": "",
@@ -22225,7 +22225,7 @@ export default {
                 },
                 {
                     "album": "Dinya",
-                    "albumLink": "https://open.spotify.com/albums/1ukDLTnmDtLU2j9nbvC7lN",
+                    "albumLink": "https://open.spotify.com/album/1ukDLTnmDtLU2j9nbvC7lN",
                     "discogsLink": "https://www.discogs.com/master/1982833",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=150054&band_id=18131&bandname=The+Mist+Of+Avalon",
                     "msRating": "",
@@ -22297,7 +22297,7 @@ export default {
             "albums": [
                 {
                     "album": "Migrations",
-                    "albumLink": "https://open.spotify.com/albums/6ItVnwDG0lmrDPKU2mEFyr",
+                    "albumLink": "https://open.spotify.com/album/6ItVnwDG0lmrDPKU2mEFyr",
                     "discogsLink": "https://www.discogs.com/master/628237",
                     "msLink": "",
                     "msRating": "",
@@ -22321,7 +22321,7 @@ export default {
             "albums": [
                 {
                     "album": "Brightly Blackhearted",
-                    "albumLink": "https://open.spotify.com/albums/3DJit298bvGVBQrVNBg8S3",
+                    "albumLink": "https://open.spotify.com/album/3DJit298bvGVBQrVNBg8S3",
                     "discogsLink": "https://www.discogs.com/master/167967",
                     "msLink": "",
                     "msRating": "",
@@ -22330,7 +22330,7 @@ export default {
                 },
                 {
                     "album": "Interactive Playground",
-                    "albumLink": "https://open.spotify.com/albums/72HvW00TW6c9kboyZ3Q9RQ",
+                    "albumLink": "https://open.spotify.com/album/72HvW00TW6c9kboyZ3Q9RQ",
                     "discogsLink": "https://www.discogs.com/master/401703",
                     "msLink": "",
                     "msRating": "",
@@ -22345,7 +22345,7 @@ export default {
             "albums": [
                 {
                     "album": "Where Lovers Mourn",
-                    "albumLink": "https://open.spotify.com/albums/76op8ADpJWrb0yytY8pVdk",
+                    "albumLink": "https://open.spotify.com/album/76op8ADpJWrb0yytY8pVdk",
                     "discogsLink": "https://www.discogs.com/master/11063",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3192&band_id=414&bandname=Draconian",
                     "msRating": "8.7",
@@ -22354,7 +22354,7 @@ export default {
                 },
                 {
                     "album": "Arcane Rain Fell",
-                    "albumLink": "https://open.spotify.com/albums/572or6ClfZjOVYs6FW835G",
+                    "albumLink": "https://open.spotify.com/album/572or6ClfZjOVYs6FW835G",
                     "discogsLink": "https://www.discogs.com/master/11065",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3193&band_id=414&bandname=Draconian",
                     "msRating": "9",
@@ -22363,7 +22363,7 @@ export default {
                 },
                 {
                     "album": "The Burning Halo",
-                    "albumLink": "https://open.spotify.com/albums/0cYEaMkDueGUW1cRzbNa0r",
+                    "albumLink": "https://open.spotify.com/album/0cYEaMkDueGUW1cRzbNa0r",
                     "discogsLink": "https://www.discogs.com/master/11070",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5091&band_id=414&bandname=Draconian",
                     "msRating": "8.5",
@@ -22372,7 +22372,7 @@ export default {
                 },
                 {
                     "album": "Turning Season Within",
-                    "albumLink": "https://open.spotify.com/albums/5gTk59WxeV2rbHTtnQVuPn",
+                    "albumLink": "https://open.spotify.com/album/5gTk59WxeV2rbHTtnQVuPn",
                     "discogsLink": "https://www.discogs.com/master/11072",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19253&band_id=414&bandname=Draconian",
                     "msRating": "8.5",
@@ -22381,7 +22381,7 @@ export default {
                 },
                 {
                     "album": "A Rose for the Apocalypse",
-                    "albumLink": "https://open.spotify.com/albums/2YeUHWSg9buIG0z0ABHd9c",
+                    "albumLink": "https://open.spotify.com/album/2YeUHWSg9buIG0z0ABHd9c",
                     "discogsLink": "https://www.discogs.com/master/353723",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=38663&band_id=414&bandname=Draconian",
                     "msRating": "8.2",
@@ -22390,7 +22390,7 @@ export default {
                 },
                 {
                     "album": "Sovran",
-                    "albumLink": "https://open.spotify.com/albums/2qHw1dSeotZhiAByDAOpCD",
+                    "albumLink": "https://open.spotify.com/album/2qHw1dSeotZhiAByDAOpCD",
                     "discogsLink": "https://www.discogs.com/master/906497",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=84191&band_id=414&bandname=Draconian",
                     "msRating": "8.6",
@@ -22399,7 +22399,7 @@ export default {
                 },
                 {
                     "album": "Under a Godless Veil",
-                    "albumLink": "https://open.spotify.com/albums/4piC4Fef3riuaqWsywyKri",
+                    "albumLink": "https://open.spotify.com/album/4piC4Fef3riuaqWsywyKri",
                     "discogsLink": "https://www.discogs.com/master/1826868",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=111236&band_id=414&bandname=Draconian",
                     "msRating": "8.6",
@@ -22447,7 +22447,7 @@ export default {
                 },
                 {
                     "album": "Requiem: Songs for...",
-                    "albumLink": "https://open.spotify.com/albums/08bcnA3wuzf9GDVaRQQBOA",
+                    "albumLink": "https://open.spotify.com/album/08bcnA3wuzf9GDVaRQQBOA",
                     "discogsLink": "https://www.discogs.com/release/4183603",
                     "msLink": "",
                     "msRating": "",
@@ -22456,7 +22456,7 @@ export default {
                 },
                 {
                     "album": "IV",
-                    "albumLink": "https://open.spotify.com/albums/7HiApJW9riGs1WJVLkNHTr",
+                    "albumLink": "https://open.spotify.com/album/7HiApJW9riGs1WJVLkNHTr",
                     "discogsLink": "https://www.discogs.com/release/4346964",
                     "msLink": "",
                     "msRating": "",
@@ -22528,7 +22528,7 @@ export default {
             "albums": [
                 {
                     "album": "The Glowering Facades of Night",
-                    "albumLink": "https://open.spotify.com/albums/2igdn72vLwj8DSyC8z1L8K",
+                    "albumLink": "https://open.spotify.com/album/2igdn72vLwj8DSyC8z1L8K",
                     "discogsLink": "https://www.discogs.com/master/656260",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136543&band_id=15451&bandname=Mysterium",
                     "msRating": "",
@@ -22537,7 +22537,7 @@ export default {
                 },
                 {
                     "album": "Soulwards",
-                    "albumLink": "https://open.spotify.com/albums/14fvywEUD7vK3dxY5sv42q",
+                    "albumLink": "https://open.spotify.com/album/14fvywEUD7vK3dxY5sv42q",
                     "discogsLink": "https://www.discogs.com/master/223150",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136544&band_id=15451&bandname=Mysterium",
                     "msRating": "",
@@ -22609,7 +22609,7 @@ export default {
                 },
                 {
                     "album": "Regenerated",
-                    "albumLink": "https://open.spotify.com/albums/7C1DgTqY4at2UXK9EFYDTF",
+                    "albumLink": "https://open.spotify.com/album/7C1DgTqY4at2UXK9EFYDTF",
                     "discogsLink": "https://www.discogs.com/release/1793539",
                     "msLink": "",
                     "msRating": "",
@@ -22618,7 +22618,7 @@ export default {
                 },
                 {
                     "album": "New Sensation",
-                    "albumLink": "https://open.spotify.com/albums/1wM1C1QO73JGTiD4lHZK4e",
+                    "albumLink": "https://open.spotify.com/album/1wM1C1QO73JGTiD4lHZK4e",
                     "discogsLink": "https://www.discogs.com/master/503908",
                     "msLink": "",
                     "msRating": "",
@@ -22744,7 +22744,7 @@ export default {
             "albums": [
                 {
                     "album": "Sleepless Remorse",
-                    "albumLink": "https://open.spotify.com/albums/6BDTf9OJFVS90Ohz6hekpN",
+                    "albumLink": "https://open.spotify.com/album/6BDTf9OJFVS90Ohz6hekpN",
                     "discogsLink": "https://www.discogs.com/release/3110675",
                     "msLink": "",
                     "msRating": "",
@@ -22768,7 +22768,7 @@ export default {
             "albums": [
                 {
                     "album": "Mindless You Sleep",
-                    "albumLink": "https://open.spotify.com/albums/6el0UgpinoIlc0To2LrlQv",
+                    "albumLink": "https://open.spotify.com/album/6el0UgpinoIlc0To2LrlQv",
                     "discogsLink": "https://www.discogs.com/release/4528522",
                     "msLink": "",
                     "msRating": "",
@@ -22777,7 +22777,7 @@ export default {
                 },
                 {
                     "album": "Where the Moonlight Is My Sun",
-                    "albumLink": "https://open.spotify.com/albums/2u2bxO8y913yvXSlo4Pas6",
+                    "albumLink": "https://open.spotify.com/album/2u2bxO8y913yvXSlo4Pas6",
                     "discogsLink": "https://www.discogs.com/release/13082386",
                     "msLink": "",
                     "msRating": "",
@@ -22792,7 +22792,7 @@ export default {
             "albums": [
                 {
                     "album": "Faustian Dream",
-                    "albumLink": "https://open.spotify.com/albums/2irxSY5jPO0RwabWJJBuJx",
+                    "albumLink": "https://open.spotify.com/album/2irxSY5jPO0RwabWJJBuJx",
                     "discogsLink": "https://www.discogs.com/master/483043",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=50830&band_id=5871&bandname=Black+Crucifixion",
                     "msRating": "",
@@ -22801,7 +22801,7 @@ export default {
                 },
                 {
                     "album": "Hope of Retaliation",
-                    "albumLink": "https://open.spotify.com/albums/5gNs5PiwbariNZap0H9QBs",
+                    "albumLink": "https://open.spotify.com/album/5gNs5PiwbariNZap0H9QBs",
                     "discogsLink": "https://www.discogs.com/master/512231",
                     "msLink": "",
                     "msRating": "",
@@ -22810,7 +22810,7 @@ export default {
                 },
                 {
                     "album": "Coronation of King Darkness",
-                    "albumLink": "https://open.spotify.com/albums/3PIS0NPajWJ1RBoOniPamf",
+                    "albumLink": "https://open.spotify.com/album/3PIS0NPajWJ1RBoOniPamf",
                     "discogsLink": "https://www.discogs.com/master/715834",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=68477&band_id=5871&bandname=Black+Crucifixion",
                     "msRating": "",
@@ -22819,7 +22819,7 @@ export default {
                 },
                 {
                     "album": "Lightless Violent Chaos",
-                    "albumLink": "https://open.spotify.com/albums/1HMGuoXgf1Wf0ni92q1TdA",
+                    "albumLink": "https://open.spotify.com/album/1HMGuoXgf1Wf0ni92q1TdA",
                     "discogsLink": "https://www.discogs.com/master/1384235",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=98639&band_id=5871&bandname=Black+Crucifixion",
                     "msRating": "",
@@ -22834,7 +22834,7 @@ export default {
             "albums": [
                 {
                     "album": "La clef des songes",
-                    "albumLink": "https://open.spotify.com/albums/4A2CWEwQkFEk2DEZBezpxc",
+                    "albumLink": "https://open.spotify.com/album/4A2CWEwQkFEk2DEZBezpxc",
                     "discogsLink": "https://www.discogs.com/release/1873281",
                     "msLink": "",
                     "msRating": "",
@@ -22867,7 +22867,7 @@ export default {
                 },
                 {
                     "album": "Jade",
-                    "albumLink": "https://open.spotify.com/albums/4fQJudd4z7DW3fowqGNvP7",
+                    "albumLink": "https://open.spotify.com/album/4fQJudd4z7DW3fowqGNvP7",
                     "discogsLink": "https://www.discogs.com/master/540211",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2574&band_id=351&bandname=Flowing+Tears",
                     "msRating": "8.3",
@@ -22876,7 +22876,7 @@ export default {
                 },
                 {
                     "album": "Serpentine",
-                    "albumLink": "https://open.spotify.com/albums/0GNt9ijQYG6gADNALOV66S",
+                    "albumLink": "https://open.spotify.com/album/0GNt9ijQYG6gADNALOV66S",
                     "discogsLink": "https://www.discogs.com/master/14296",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2575&band_id=351&bandname=Flowing+Tears",
                     "msRating": "7.9",
@@ -22885,7 +22885,7 @@ export default {
                 },
                 {
                     "album": "Razorbliss",
-                    "albumLink": "https://open.spotify.com/albums/2GltEubQrjtmtaYzefHjVM",
+                    "albumLink": "https://open.spotify.com/album/2GltEubQrjtmtaYzefHjVM",
                     "discogsLink": "https://www.discogs.com/master/165896",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2576&band_id=351&bandname=Flowing+Tears",
                     "msRating": "7.6",
@@ -22909,7 +22909,7 @@ export default {
             "albums": [
                 {
                     "album": "Tragedies",
-                    "albumLink": "https://open.spotify.com/albums/64t4A7yM1pTkVt0YfEr5Lp",
+                    "albumLink": "https://open.spotify.com/album/64t4A7yM1pTkVt0YfEr5Lp",
                     "discogsLink": "https://www.discogs.com/master/811636",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19841&band_id=659&bandname=Funeral",
                     "msRating": "8.1",
@@ -22918,7 +22918,7 @@ export default {
                 },
                 {
                     "album": "In Fields of Pestilent Grief",
-                    "albumLink": "https://open.spotify.com/albums/6DG7xVpMNTunmiUiHRYrr2",
+                    "albumLink": "https://open.spotify.com/album/6DG7xVpMNTunmiUiHRYrr2",
                     "discogsLink": "https://www.discogs.com/master/863323",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19842&band_id=659&bandname=Funeral",
                     "msRating": "7.8",
@@ -22927,7 +22927,7 @@ export default {
                 },
                 {
                     "album": "From These Wounds",
-                    "albumLink": "https://open.spotify.com/albums/6T4dxlJHFvuHhT283htVfD",
+                    "albumLink": "https://open.spotify.com/album/6T4dxlJHFvuHhT283htVfD",
                     "discogsLink": "https://www.discogs.com/master/398123",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=15766&band_id=659&bandname=Funeral",
                     "msRating": "8.5",
@@ -22936,7 +22936,7 @@ export default {
                 },
                 {
                     "album": "As the Light Does the Shadow",
-                    "albumLink": "https://open.spotify.com/albums/795coHYaEe1QLEcuWTyxnJ",
+                    "albumLink": "https://open.spotify.com/album/795coHYaEe1QLEcuWTyxnJ",
                     "discogsLink": "https://www.discogs.com/master/462623",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=21708&band_id=659&bandname=Funeral",
                     "msRating": "7.2",
@@ -22945,7 +22945,7 @@ export default {
                 },
                 {
                     "album": "Oratorium",
-                    "albumLink": "https://open.spotify.com/albums/3KfCdmjvqgSFIgjzVVQKjv",
+                    "albumLink": "https://open.spotify.com/album/3KfCdmjvqgSFIgjzVVQKjv",
                     "discogsLink": "https://www.discogs.com/master/500296",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=66539&band_id=659&bandname=Funeral",
                     "msRating": "8",
@@ -22954,7 +22954,7 @@ export default {
                 },
                 {
                     "album": "Praesentialis in Aeternum",
-                    "albumLink": "https://open.spotify.com/albums/5kOJmkGovYkMjKENtieFM1",
+                    "albumLink": "https://open.spotify.com/album/5kOJmkGovYkMjKENtieFM1",
                     "discogsLink": "https://www.discogs.com/master/2416561",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=137615&band_id=659&bandname=Funeral",
                     "msRating": "7.6",
@@ -22969,7 +22969,7 @@ export default {
             "albums": [
                 {
                     "album": "In Absentia Christi",
-                    "albumLink": "https://open.spotify.com/albums/7G2MuhJF0KbdfgzRNtfFyJ",
+                    "albumLink": "https://open.spotify.com/album/7G2MuhJF0KbdfgzRNtfFyJ",
                     "discogsLink": "https://www.discogs.com/master/112071",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=58444&band_id=6612&bandname=Monumentum",
                     "msRating": "8.2",
@@ -22978,7 +22978,7 @@ export default {
                 },
                 {
                     "album": "Ad Nauseam",
-                    "albumLink": "https://open.spotify.com/albums/13J91xBdegBHEhwQXMzw8C",
+                    "albumLink": "https://open.spotify.com/album/13J91xBdegBHEhwQXMzw8C",
                     "discogsLink": "https://www.discogs.com/master/1105290",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=58446&band_id=6612&bandname=Monumentum",
                     "msRating": "6.8",
@@ -22993,7 +22993,7 @@ export default {
             "albums": [
                 {
                     "album": "Theatre of Tragedy",
-                    "albumLink": "https://open.spotify.com/albums/6fx8tvIqo3tLKPYY7nG5S3",
+                    "albumLink": "https://open.spotify.com/album/6fx8tvIqo3tLKPYY7nG5S3",
                     "discogsLink": "https://www.discogs.com/master/10565",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=424&band_id=66&bandname=Theatre+Of+Tragedy",
                     "msRating": "8.5",
@@ -23002,7 +23002,7 @@ export default {
                 },
                 {
                     "album": "Velvet Darkness They Fear",
-                    "albumLink": "https://open.spotify.com/albums/7CDFKrUkHML9jGj8STbcZL",
+                    "albumLink": "https://open.spotify.com/album/7CDFKrUkHML9jGj8STbcZL",
                     "discogsLink": "https://www.discogs.com/master/10575",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=425&band_id=66&bandname=Theatre+Of+Tragedy",
                     "msRating": "8.7",
@@ -23011,7 +23011,7 @@ export default {
                 },
                 {
                     "album": "Aégis",
-                    "albumLink": "https://open.spotify.com/albums/2nPrqxgMHaDfqW7VjuQYGE",
+                    "albumLink": "https://open.spotify.com/album/2nPrqxgMHaDfqW7VjuQYGE",
                     "discogsLink": "https://www.discogs.com/master/10589",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=427&band_id=66&bandname=Theatre+Of+Tragedy",
                     "msRating": "8.8",
@@ -23020,7 +23020,7 @@ export default {
                 },
                 {
                     "album": "Musique",
-                    "albumLink": "https://open.spotify.com/albums/0R8yEHeBkQN4h7cEfWVQP5",
+                    "albumLink": "https://open.spotify.com/album/0R8yEHeBkQN4h7cEfWVQP5",
                     "discogsLink": "https://www.discogs.com/master/10625",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=428&band_id=66&bandname=Theatre+Of+Tragedy",
                     "msRating": "6.4",
@@ -23029,7 +23029,7 @@ export default {
                 },
                 {
                     "album": "Assembly",
-                    "albumLink": "https://open.spotify.com/albums/6p5ROzQhj2gASOQ9A38lNb",
+                    "albumLink": "https://open.spotify.com/album/6p5ROzQhj2gASOQ9A38lNb",
                     "discogsLink": "https://www.discogs.com/master/10635",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=431&band_id=66&bandname=Theatre+Of+Tragedy",
                     "msRating": "6.4",
@@ -23038,7 +23038,7 @@ export default {
                 },
                 {
                     "album": "Storm",
-                    "albumLink": "https://open.spotify.com/albums/0yrAOBhEzvZfQ4Rz6zGFZZ",
+                    "albumLink": "https://open.spotify.com/album/0yrAOBhEzvZfQ4Rz6zGFZZ",
                     "discogsLink": "https://www.discogs.com/master/10601",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4346&band_id=66&bandname=Theatre+Of+Tragedy",
                     "msRating": "7.3",
@@ -23047,7 +23047,7 @@ export default {
                 },
                 {
                     "album": "Forever Is the World",
-                    "albumLink": "https://open.spotify.com/albums/7M4h2amie33J7wySJwzk1p",
+                    "albumLink": "https://open.spotify.com/album/7M4h2amie33J7wySJwzk1p",
                     "discogsLink": "https://www.discogs.com/master/199037",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=27536&band_id=66&bandname=Theatre+Of+Tragedy",
                     "msRating": "7.6",
@@ -23062,7 +23062,7 @@ export default {
             "albums": [
                 {
                     "album": "Lumo",
-                    "albumLink": "https://open.spotify.com/albums/5YMJBSCPV12gfc4nwg2Bc9",
+                    "albumLink": "https://open.spotify.com/album/5YMJBSCPV12gfc4nwg2Bc9",
                     "discogsLink": "https://www.discogs.com/master/640940",
                     "msLink": "",
                     "msRating": "",
@@ -23086,7 +23086,7 @@ export default {
             "albums": [
                 {
                     "album": "Die Kemenaten scharlachroter Lichter",
-                    "albumLink": "https://open.spotify.com/albums/2JJJbGmO5nYYL4nEV5zQAj",
+                    "albumLink": "https://open.spotify.com/album/2JJJbGmO5nYYL4nEV5zQAj",
                     "discogsLink": "https://www.discogs.com/master/112172",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46240&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -23095,7 +23095,7 @@ export default {
                 },
                 {
                     "album": "Das Tagebuch der Hanna Anikin",
-                    "albumLink": "https://open.spotify.com/albums/6tmT0aAxDlrcU391eeFmaq",
+                    "albumLink": "https://open.spotify.com/album/6tmT0aAxDlrcU391eeFmaq",
                     "discogsLink": "https://www.discogs.com/master/494122",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46241&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -23104,7 +23104,7 @@ export default {
                 },
                 {
                     "album": "Das Schachbrett des Trommelbuben Zacharias",
-                    "albumLink": "https://open.spotify.com/albums/4nRQft3EsJpWj42b8Efmoe",
+                    "albumLink": "https://open.spotify.com/album/4nRQft3EsJpWj42b8Efmoe",
                     "discogsLink": "https://www.discogs.com/master/372021",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46242&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -23122,7 +23122,7 @@ export default {
                 },
                 {
                     "album": "Ein Toter fährt gern Ringelspiel",
-                    "albumLink": "https://open.spotify.com/albums/1hQZXZrQW3kcM5iy7GGQPu",
+                    "albumLink": "https://open.spotify.com/album/1hQZXZrQW3kcM5iy7GGQPu",
                     "discogsLink": "https://www.discogs.com/master/576887",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46445&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -23131,7 +23131,7 @@ export default {
                 },
                 {
                     "album": "Kokon (Ein schaurig-schönes Schachtelstück)",
-                    "albumLink": "https://open.spotify.com/albums/66l0l2T1tZUehaxysMNMvG",
+                    "albumLink": "https://open.spotify.com/album/66l0l2T1tZUehaxysMNMvG",
                     "discogsLink": "https://www.discogs.com/master/2843095",
                     "msLink": "",
                     "msRating": "",
@@ -23140,7 +23140,7 @@ export default {
                 },
                 {
                     "album": "Des Winters finsterer Gesell",
-                    "albumLink": "https://open.spotify.com/albums/65HFfn7phk7WkyOeKCAh8m",
+                    "albumLink": "https://open.spotify.com/album/65HFfn7phk7WkyOeKCAh8m",
                     "discogsLink": "https://www.discogs.com/release/4402298",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=59605&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -23164,7 +23164,7 @@ export default {
                 },
                 {
                     "album": "Loading Complete",
-                    "albumLink": "https://open.spotify.com/albums/1loyJ17isz0fIvPNVd0U3F",
+                    "albumLink": "https://open.spotify.com/album/1loyJ17isz0fIvPNVd0U3F",
                     "discogsLink": "https://www.discogs.com/release/419646",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=6073&band_id=1381&bandname=Dark-N",
                     "msRating": "",
@@ -23197,7 +23197,7 @@ export default {
                 },
                 {
                     "album": "Songs for a Dying World",
-                    "albumLink": "https://open.spotify.com/albums/7nT0rlKo0jc06FJoK9MacA",
+                    "albumLink": "https://open.spotify.com/album/7nT0rlKo0jc06FJoK9MacA",
                     "discogsLink": "https://www.discogs.com/master/494928",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51952&band_id=5965&bandname=End+Of+Green",
                     "msRating": "",
@@ -23206,7 +23206,7 @@ export default {
                 },
                 {
                     "album": "Last Night on Earth",
-                    "albumLink": "https://open.spotify.com/albums/3CIjX9ttxp2DokJwdyDazv",
+                    "albumLink": "https://open.spotify.com/album/3CIjX9ttxp2DokJwdyDazv",
                     "discogsLink": "https://www.discogs.com/master/626940",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51954&band_id=5965&bandname=End+Of+Green",
                     "msRating": "",
@@ -23215,7 +23215,7 @@ export default {
                 },
                 {
                     "album": "Dead End Dreaming",
-                    "albumLink": "https://open.spotify.com/albums/7fJ6FDgWIWSEEjLqM7ziIO",
+                    "albumLink": "https://open.spotify.com/album/7fJ6FDgWIWSEEjLqM7ziIO",
                     "discogsLink": "https://www.discogs.com/master/392226",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51955&band_id=5965&bandname=End+Of+Green",
                     "msRating": "",
@@ -23224,7 +23224,7 @@ export default {
                 },
                 {
                     "album": "The Sick's Sense",
-                    "albumLink": "https://open.spotify.com/albums/28q46Beb7bysrcJYuQvE6B",
+                    "albumLink": "https://open.spotify.com/album/28q46Beb7bysrcJYuQvE6B",
                     "discogsLink": "https://www.discogs.com/master/322013",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51956&band_id=5965&bandname=End+Of+Green",
                     "msRating": "",
@@ -23233,7 +23233,7 @@ export default {
                 },
                 {
                     "album": "High Hopes in Low Places",
-                    "albumLink": "https://open.spotify.com/albums/2pe8Ry2IIXmK7PGgLmyU1k",
+                    "albumLink": "https://open.spotify.com/album/2pe8Ry2IIXmK7PGgLmyU1k",
                     "discogsLink": "https://www.discogs.com/master/480953",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51959&band_id=5965&bandname=End+Of+Green",
                     "msRating": "",
@@ -23242,7 +23242,7 @@ export default {
                 },
                 {
                     "album": "The Painstream",
-                    "albumLink": "https://open.spotify.com/albums/6vxThg3xzd4KGHddl469vm",
+                    "albumLink": "https://open.spotify.com/album/6vxThg3xzd4KGHddl469vm",
                     "discogsLink": "https://www.discogs.com/master/605149",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=71581&band_id=5965&bandname=End+Of+Green",
                     "msRating": "",
@@ -23251,7 +23251,7 @@ export default {
                 },
                 {
                     "album": "Void Estate",
-                    "albumLink": "https://open.spotify.com/albums/4Ml4zkHMY2tIaONUaNsVXJ",
+                    "albumLink": "https://open.spotify.com/album/4Ml4zkHMY2tIaONUaNsVXJ",
                     "discogsLink": "https://www.discogs.com/master/1225615",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=91860&band_id=5965&bandname=End+Of+Green",
                     "msRating": "",
@@ -23290,7 +23290,7 @@ export default {
             "albums": [
                 {
                     "album": "From the Moldavian Ecclesiastic Throne",
-                    "albumLink": "https://open.spotify.com/albums/0f0VfALLhRpA9AGOUsjjYE",
+                    "albumLink": "https://open.spotify.com/album/0f0VfALLhRpA9AGOUsjjYE",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -23299,7 +23299,7 @@ export default {
                 },
                 {
                     "album": "Sublime",
-                    "albumLink": "https://open.spotify.com/albums/4OaKVPSpA3XiDXGZJB7sFw",
+                    "albumLink": "https://open.spotify.com/album/4OaKVPSpA3XiDXGZJB7sFw",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -23317,7 +23317,7 @@ export default {
                 },
                 {
                     "album": "Forefathers: A Spiritual Heritage",
-                    "albumLink": "https://open.spotify.com/albums/1oMnIf1k81svullM8wAdYY",
+                    "albumLink": "https://open.spotify.com/album/1oMnIf1k81svullM8wAdYY",
                     "discogsLink": "https://www.discogs.com/release/6709708",
                     "msLink": "",
                     "msRating": "",
@@ -23365,7 +23365,7 @@ export default {
                 },
                 {
                     "album": "Memorandum",
-                    "albumLink": "https://open.spotify.com/albums/7IwBduRZJOCN1vyn660LVF",
+                    "albumLink": "https://open.spotify.com/album/7IwBduRZJOCN1vyn660LVF",
                     "discogsLink": "https://www.discogs.com/master/219977",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1000&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.6",
@@ -23374,7 +23374,7 @@ export default {
                 },
                 {
                     "album": "Burning: A Wish",
-                    "albumLink": "https://open.spotify.com/albums/2lq4zTRXeYD2XXPw4TOKNj",
+                    "albumLink": "https://open.spotify.com/album/2lq4zTRXeYD2XXPw4TOKNj",
                     "discogsLink": "https://www.discogs.com/master/37025",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1001&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.6",
@@ -23383,7 +23383,7 @@ export default {
                 },
                 {
                     "album": "Fall, I Will Follow",
-                    "albumLink": "https://open.spotify.com/albums/6DMk2oU1czzw9lgVW5FcTA",
+                    "albumLink": "https://open.spotify.com/album/6DMk2oU1czzw9lgVW5FcTA",
                     "discogsLink": "https://www.discogs.com/master/219980",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1002&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.9",
@@ -23392,7 +23392,7 @@ export default {
                 },
                 {
                     "album": "Ave End",
-                    "albumLink": "https://open.spotify.com/albums/2A2Zk3oSPBKlPefKZIy0zu",
+                    "albumLink": "https://open.spotify.com/album/2A2Zk3oSPBKlPefKZIy0zu",
                     "discogsLink": "https://www.discogs.com/master/253810",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2168&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.1",
@@ -23401,7 +23401,7 @@ export default {
                 },
                 {
                     "album": "Filthy Notes for Frozen Hearts",
-                    "albumLink": "https://open.spotify.com/albums/3Lhrrgc8qdwV5jbvX2fczL",
+                    "albumLink": "https://open.spotify.com/album/3Lhrrgc8qdwV5jbvX2fczL",
                     "discogsLink": "https://www.discogs.com/master/194696",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5242&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.8",
@@ -23410,7 +23410,7 @@ export default {
                 },
                 {
                     "album": "Songs for the Last View",
-                    "albumLink": "https://open.spotify.com/albums/5jpBsKskrUdELF3JDmoJrp",
+                    "albumLink": "https://open.spotify.com/album/5jpBsKskrUdELF3JDmoJrp",
                     "discogsLink": "https://www.discogs.com/master/350580",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19137&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.1",
@@ -23419,7 +23419,7 @@ export default {
                 },
                 {
                     "album": "The Grandiose Nowhere",
-                    "albumLink": "https://open.spotify.com/albums/2auIoLCvBIpJJ2XDbGbLn8",
+                    "albumLink": "https://open.spotify.com/album/2auIoLCvBIpJJ2XDbGbLn8",
                     "discogsLink": "https://www.discogs.com/master/260369",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=37626&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.8",
@@ -23428,7 +23428,7 @@ export default {
                 },
                 {
                     "album": "Antiadore",
-                    "albumLink": "https://open.spotify.com/albums/6jQZBmIaysLbRJJILnshCo",
+                    "albumLink": "https://open.spotify.com/album/6jQZBmIaysLbRJJILnshCo",
                     "discogsLink": "https://www.discogs.com/master/593110",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63231&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.2",
@@ -23437,7 +23437,7 @@ export default {
                 },
                 {
                     "album": "Hope Is Here",
-                    "albumLink": "https://open.spotify.com/albums/4iw5wqkoYKArUuYD2Z9Bmc",
+                    "albumLink": "https://open.spotify.com/album/4iw5wqkoYKArUuYD2Z9Bmc",
                     "discogsLink": "https://www.discogs.com/master/1044105",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=88884&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.5",
@@ -23446,7 +23446,7 @@ export default {
                 },
                 {
                     "album": "Bleeding the Stars",
-                    "albumLink": "https://open.spotify.com/albums/3DPMq9ET2sSyFkTBPLXvjT",
+                    "albumLink": "https://open.spotify.com/album/3DPMq9ET2sSyFkTBPLXvjT",
                     "discogsLink": "https://www.discogs.com/master/1582308",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=97714&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.1",
@@ -23455,7 +23455,7 @@ export default {
                 },
                 {
                     "album": "How to Shroud Yourself with Night",
-                    "albumLink": "https://open.spotify.com/albums/64acOLJDFCr9mA2sTbp5Cx",
+                    "albumLink": "https://open.spotify.com/album/64acOLJDFCr9mA2sTbp5Cx",
                     "discogsLink": "https://www.discogs.com/master/2761580",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=144727&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.5",
@@ -23470,7 +23470,7 @@ export default {
             "albums": [
                 {
                     "album": "The Call of the Wood",
-                    "albumLink": "https://open.spotify.com/albums/6VKUIph5jOinhe1wlPxVPN",
+                    "albumLink": "https://open.spotify.com/album/6VKUIph5jOinhe1wlPxVPN",
                     "discogsLink": "https://www.discogs.com/master/99590",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4353&band_id=397&bandname=Opera+IX",
                     "msRating": "8.1",
@@ -23479,7 +23479,7 @@ export default {
                 },
                 {
                     "album": "Sacro culto",
-                    "albumLink": "https://open.spotify.com/albums/3gywJVWFxcwGTpY4wV9YdV",
+                    "albumLink": "https://open.spotify.com/album/3gywJVWFxcwGTpY4wV9YdV",
                     "discogsLink": "https://www.discogs.com/master/434371",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2987&band_id=397&bandname=Opera+IX",
                     "msRating": "8.4",
@@ -23488,7 +23488,7 @@ export default {
                 },
                 {
                     "album": "The Black Opera: Symphoniae Mysteriorum in Laudem Tenebrarum",
-                    "albumLink": "https://open.spotify.com/albums/1fBDyGNaiYTL00aZNa4wa2",
+                    "albumLink": "https://open.spotify.com/album/1fBDyGNaiYTL00aZNa4wa2",
                     "discogsLink": "https://www.discogs.com/master/179736",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3816&band_id=397&bandname=Opera+IX",
                     "msRating": "8.6",
@@ -23506,7 +23506,7 @@ export default {
                 },
                 {
                     "album": "Anphisbena",
-                    "albumLink": "https://open.spotify.com/albums/2Bjqgah9xtfp6WzkEkc9YU",
+                    "albumLink": "https://open.spotify.com/album/2Bjqgah9xtfp6WzkEkc9YU",
                     "discogsLink": "https://www.discogs.com/master/99589",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2989&band_id=397&bandname=Opera+IX",
                     "msRating": "7.4",
@@ -23524,7 +23524,7 @@ export default {
                 },
                 {
                     "album": "Back to Sepulcro",
-                    "albumLink": "https://open.spotify.com/albums/28W7UoMzIdEoONjRnsBHaD",
+                    "albumLink": "https://open.spotify.com/album/28W7UoMzIdEoONjRnsBHaD",
                     "discogsLink": "https://www.discogs.com/master/1552937",
                     "msLink": "",
                     "msRating": "",
@@ -23533,7 +23533,7 @@ export default {
                 },
                 {
                     "album": "The Gospel",
-                    "albumLink": "https://open.spotify.com/albums/31Zd55fLSPyYJwfw36WWC4",
+                    "albumLink": "https://open.spotify.com/album/31Zd55fLSPyYJwfw36WWC4",
                     "discogsLink": "https://www.discogs.com/master/1461703",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=95465&band_id=397&bandname=Opera+IX",
                     "msRating": "7.8",
@@ -23635,7 +23635,7 @@ export default {
                 },
                 {
                     "album": "Whitsongs",
-                    "albumLink": "https://open.spotify.com/albums/7Gbpr7q4yon4olh6A6r7TW",
+                    "albumLink": "https://open.spotify.com/album/7Gbpr7q4yon4olh6A6r7TW",
                     "discogsLink": "https://www.discogs.com/release/733900",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=32127&band_id=1516&bandname=Soulgrind",
                     "msRating": "7.7",
@@ -23644,7 +23644,7 @@ export default {
                 },
                 {
                     "album": "Kalma",
-                    "albumLink": "https://open.spotify.com/albums/7wN96PbmXigOVazJU7Ym6s",
+                    "albumLink": "https://open.spotify.com/album/7wN96PbmXigOVazJU7Ym6s",
                     "discogsLink": "https://www.discogs.com/master/600000",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=20461&band_id=1516&bandname=Soulgrind",
                     "msRating": "7.6",
@@ -23653,7 +23653,7 @@ export default {
                 },
                 {
                     "album": "Elixir Mystica",
-                    "albumLink": "https://open.spotify.com/albums/2Mk2YaGUdxqwx5bAPPCyQh",
+                    "albumLink": "https://open.spotify.com/album/2Mk2YaGUdxqwx5bAPPCyQh",
                     "discogsLink": "https://www.discogs.com/release/1232078",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=20460&band_id=1516&bandname=Soulgrind",
                     "msRating": "8",
@@ -23662,7 +23662,7 @@ export default {
                 },
                 {
                     "album": "Into the Dark Vales of Death",
-                    "albumLink": "https://open.spotify.com/albums/0daE2rgeQhhbw7ZHJfCOzz",
+                    "albumLink": "https://open.spotify.com/album/0daE2rgeQhhbw7ZHJfCOzz",
                     "discogsLink": "https://www.discogs.com/master/600001",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=6420&band_id=1516&bandname=Soulgrind",
                     "msRating": "7.6",
@@ -23671,7 +23671,7 @@ export default {
                 },
                 {
                     "album": "The Origins of the Paganblood",
-                    "albumLink": "https://open.spotify.com/albums/60l1NpGttGtmxRrw0d5S7x",
+                    "albumLink": "https://open.spotify.com/album/60l1NpGttGtmxRrw0d5S7x",
                     "discogsLink": "https://www.discogs.com/master/370214",
                     "msLink": "",
                     "msRating": "",
@@ -23680,7 +23680,7 @@ export default {
                 },
                 {
                     "album": "Pakana",
-                    "albumLink": "https://open.spotify.com/albums/4AM01c1xznVsHsbTro0IJP",
+                    "albumLink": "https://open.spotify.com/album/4AM01c1xznVsHsbTro0IJP",
                     "discogsLink": "https://www.discogs.com/master/1589407",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=20457&band_id=1516&bandname=Soulgrind",
                     "msRating": "8.5",
@@ -23704,7 +23704,7 @@ export default {
             "albums": [
                 {
                     "album": "Sumerian Cry",
-                    "albumLink": "https://open.spotify.com/albums/12j4zMWKjBwG6dyJL02ixC",
+                    "albumLink": "https://open.spotify.com/album/12j4zMWKjBwG6dyJL02ixC",
                     "discogsLink": "https://www.discogs.com/master/27731",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1807&band_id=264&bandname=Tiamat",
                     "msRating": "6.6",
@@ -23713,7 +23713,7 @@ export default {
                 },
                 {
                     "album": "The Astral Sleep",
-                    "albumLink": "https://open.spotify.com/albums/7xNCnRxUsbI5zOIF7f0w84",
+                    "albumLink": "https://open.spotify.com/album/7xNCnRxUsbI5zOIF7f0w84",
                     "discogsLink": "https://www.discogs.com/master/27725",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2001&band_id=264&bandname=Tiamat",
                     "msRating": "7.7",
@@ -23722,7 +23722,7 @@ export default {
                 },
                 {
                     "album": "Clouds",
-                    "albumLink": "https://open.spotify.com/albums/1lHUJjiYwt59VYSWYrcTgo",
+                    "albumLink": "https://open.spotify.com/album/1lHUJjiYwt59VYSWYrcTgo",
                     "discogsLink": "https://www.discogs.com/master/27712",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1808&band_id=264&bandname=Tiamat",
                     "msRating": "8.3",
@@ -23731,7 +23731,7 @@ export default {
                 },
                 {
                     "album": "Wildhoney",
-                    "albumLink": "https://open.spotify.com/albums/3cZKRfWxeGvhUKsH4VFhFf",
+                    "albumLink": "https://open.spotify.com/album/3cZKRfWxeGvhUKsH4VFhFf",
                     "discogsLink": "https://www.discogs.com/master/27704",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1810&band_id=264&bandname=Tiamat",
                     "msRating": "8.9",
@@ -23740,7 +23740,7 @@ export default {
                 },
                 {
                     "album": "A Deeper Kind of Slumber",
-                    "albumLink": "https://open.spotify.com/albums/6bzx2e98d5v60qKUvQdTQj",
+                    "albumLink": "https://open.spotify.com/album/6bzx2e98d5v60qKUvQdTQj",
                     "discogsLink": "https://www.discogs.com/master/27719",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1814&band_id=264&bandname=Tiamat",
                     "msRating": "8.1",
@@ -23749,7 +23749,7 @@ export default {
                 },
                 {
                     "album": "Skeleton Skeletron",
-                    "albumLink": "https://open.spotify.com/albums/44hS1lomY7jm2aPPyTai5s",
+                    "albumLink": "https://open.spotify.com/album/44hS1lomY7jm2aPPyTai5s",
                     "discogsLink": "https://www.discogs.com/master/27738",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1816&band_id=264&bandname=Tiamat",
                     "msRating": "7.5",
@@ -23758,7 +23758,7 @@ export default {
                 },
                 {
                     "album": "Judas Christ",
-                    "albumLink": "https://open.spotify.com/albums/3aKRXET6McKgpDJOgvBBpL",
+                    "albumLink": "https://open.spotify.com/album/3aKRXET6McKgpDJOgvBBpL",
                     "discogsLink": "https://www.discogs.com/master/27748",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1819&band_id=264&bandname=Tiamat",
                     "msRating": "7.6",
@@ -23767,7 +23767,7 @@ export default {
                 },
                 {
                     "album": "Prey",
-                    "albumLink": "https://open.spotify.com/albums/2uWC6c6gOdts1H4RUEz073",
+                    "albumLink": "https://open.spotify.com/album/2uWC6c6gOdts1H4RUEz073",
                     "discogsLink": "https://www.discogs.com/master/27741",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1821&band_id=264&bandname=Tiamat",
                     "msRating": "8",
@@ -23785,7 +23785,7 @@ export default {
                 },
                 {
                     "album": "The Scarred People",
-                    "albumLink": "https://open.spotify.com/albums/1Ai5vOkmZsDm3wJSJh7eLm",
+                    "albumLink": "https://open.spotify.com/album/1Ai5vOkmZsDm3wJSJh7eLm",
                     "discogsLink": "https://www.discogs.com/master/487219",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=62002&band_id=264&bandname=Tiamat",
                     "msRating": "7.8",
@@ -23800,7 +23800,7 @@ export default {
             "albums": [
                 {
                     "album": "Id",
-                    "albumLink": "https://open.spotify.com/albums/5rHL0eX1mODDbUXbGrbkd6",
+                    "albumLink": "https://open.spotify.com/album/5rHL0eX1mODDbUXbGrbkd6",
                     "discogsLink": "https://www.discogs.com/master/1257220",
                     "msLink": "",
                     "msRating": "",
@@ -23833,7 +23833,7 @@ export default {
                 },
                 {
                     "album": "Vital #1",
-                    "albumLink": "https://open.spotify.com/albums/5fUVGWWlFH2L0LTh6TFPU6",
+                    "albumLink": "https://open.spotify.com/album/5fUVGWWlFH2L0LTh6TFPU6",
                     "discogsLink": "https://www.discogs.com/master/1361394",
                     "msLink": "",
                     "msRating": "",
@@ -23851,7 +23851,7 @@ export default {
                 },
                 {
                     "album": "Refuse to Shine",
-                    "albumLink": "https://open.spotify.com/albums/7qpNMCPGaKumIo7fgFO5tF",
+                    "albumLink": "https://open.spotify.com/album/7qpNMCPGaKumIo7fgFO5tF",
                     "discogsLink": "https://www.discogs.com/release/4603094",
                     "msLink": "",
                     "msRating": "",
@@ -23860,7 +23860,7 @@ export default {
                 },
                 {
                     "album": "If the Universe Is the Answer​.​.​.",
-                    "albumLink": "https://open.spotify.com/albums/5NLWi4tyfrK47LQM50zH0X",
+                    "albumLink": "https://open.spotify.com/album/5NLWi4tyfrK47LQM50zH0X",
                     "discogsLink": "https://www.discogs.com/master/2338219",
                     "msLink": "",
                     "msRating": "",
@@ -23908,7 +23908,7 @@ export default {
                 },
                 {
                     "album": "Two Sides...",
-                    "albumLink": "https://open.spotify.com/albums/4XHeZMWDPL16I2qcBF4N99",
+                    "albumLink": "https://open.spotify.com/album/4XHeZMWDPL16I2qcBF4N99",
                     "discogsLink": "https://www.discogs.com/master/652190",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5936&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -23935,7 +23935,7 @@ export default {
                 },
                 {
                     "album": "Angel & Pain",
-                    "albumLink": "https://open.spotify.com/albums/4lkH7ZXIT85e7LTNY5bFTs",
+                    "albumLink": "https://open.spotify.com/album/4lkH7ZXIT85e7LTNY5bFTs",
                     "discogsLink": "https://www.discogs.com/master/1807364",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47570&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -23944,7 +23944,7 @@ export default {
                 },
                 {
                     "album": "Age of Silence",
-                    "albumLink": "https://open.spotify.com/albums/1opAN76bVTkbplLrcGP0q2",
+                    "albumLink": "https://open.spotify.com/album/1opAN76bVTkbplLrcGP0q2",
                     "discogsLink": "https://www.discogs.com/master/1370806",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96072&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -23959,7 +23959,7 @@ export default {
             "albums": [
                 {
                     "album": "Sweet X-Rated Nothings",
-                    "albumLink": "https://open.spotify.com/albums/3nYWRVjx1fjGy61q46ulur",
+                    "albumLink": "https://open.spotify.com/album/3nYWRVjx1fjGy61q46ulur",
                     "discogsLink": "https://www.discogs.com/master/109063",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=85227&band_id=9210&bandname=Pyogenesis",
                     "msRating": "7.7",
@@ -23968,7 +23968,7 @@ export default {
                 },
                 {
                     "album": "Twinaleblood",
-                    "albumLink": "https://open.spotify.com/albums/0AMG1fNyPTpqKXdkEARBUX",
+                    "albumLink": "https://open.spotify.com/album/0AMG1fNyPTpqKXdkEARBUX",
                     "discogsLink": "https://www.discogs.com/master/109060",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=85229&band_id=9210&bandname=Pyogenesis",
                     "msRating": "8.3",
@@ -23977,7 +23977,7 @@ export default {
                 },
                 {
                     "album": "Unpop",
-                    "albumLink": "https://open.spotify.com/albums/2asrNBkCB6BCm66VkgRrzr",
+                    "albumLink": "https://open.spotify.com/album/2asrNBkCB6BCm66VkgRrzr",
                     "discogsLink": "https://www.discogs.com/master/159145",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=85236&band_id=9210&bandname=Pyogenesis",
                     "msRating": "6.7",
@@ -23986,7 +23986,7 @@ export default {
                 },
                 {
                     "album": "Mono... or Will It Ever Be the Way It Used to Be",
-                    "albumLink": "https://open.spotify.com/albums/2qkSdT8u4mSsH89B1QXSfh",
+                    "albumLink": "https://open.spotify.com/album/2qkSdT8u4mSsH89B1QXSfh",
                     "discogsLink": "https://www.discogs.com/master/109064",
                     "msLink": "",
                     "msRating": "",
@@ -23995,7 +23995,7 @@ export default {
                 },
                 {
                     "album": "She Makes Me Wish I Had a Gun",
-                    "albumLink": "https://open.spotify.com/albums/7zN1LM9mfoWOZYFue8pxfQ",
+                    "albumLink": "https://open.spotify.com/album/7zN1LM9mfoWOZYFue8pxfQ",
                     "discogsLink": "https://www.discogs.com/master/202395",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=85242&band_id=9210&bandname=Pyogenesis",
                     "msRating": "5.2",
@@ -24004,7 +24004,7 @@ export default {
                 },
                 {
                     "album": "A Century in the Curse of Time",
-                    "albumLink": "https://open.spotify.com/albums/4Mcbz401xfUaNwrLleQxrP",
+                    "albumLink": "https://open.spotify.com/album/4Mcbz401xfUaNwrLleQxrP",
                     "discogsLink": "https://www.discogs.com/master/872111",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=85243&band_id=9210&bandname=Pyogenesis",
                     "msRating": "8.1",
@@ -24013,7 +24013,7 @@ export default {
                 },
                 {
                     "album": "A Kingdom to Disappear",
-                    "albumLink": "https://open.spotify.com/albums/2OPy7QBpBGYB6fW17SRDkH",
+                    "albumLink": "https://open.spotify.com/album/2OPy7QBpBGYB6fW17SRDkH",
                     "discogsLink": "https://www.discogs.com/master/1140318",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=90460&band_id=9210&bandname=Pyogenesis",
                     "msRating": "7.8",
@@ -24022,7 +24022,7 @@ export default {
                 },
                 {
                     "album": "A Silent Soul Screams Loud",
-                    "albumLink": "https://open.spotify.com/albums/01FB4WhYAKeRDwFBLMLg19",
+                    "albumLink": "https://open.spotify.com/album/01FB4WhYAKeRDwFBLMLg19",
                     "discogsLink": "https://www.discogs.com/master/1679852",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=103975&band_id=9210&bandname=Pyogenesis",
                     "msRating": "6.8",
@@ -24037,7 +24037,7 @@ export default {
             "albums": [
                 {
                     "album": "Alter Alma",
-                    "albumLink": "https://open.spotify.com/albums/0O5EplzXTA4hrNrYpBEQtN",
+                    "albumLink": "https://open.spotify.com/album/0O5EplzXTA4hrNrYpBEQtN",
                     "discogsLink": "https://www.discogs.com/master/251864",
                     "msLink": "",
                     "msRating": "",
@@ -24067,7 +24067,7 @@ export default {
             "albums": [
                 {
                     "album": "The Journey's End",
-                    "albumLink": "https://open.spotify.com/albums/4o9Q3Kkcea6c6HVDIKXbJ3",
+                    "albumLink": "https://open.spotify.com/album/4o9Q3Kkcea6c6HVDIKXbJ3",
                     "discogsLink": "https://www.discogs.com/master/1206952",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=12630&band_id=1332&bandname=Aglarond",
                     "msRating": "",
@@ -24076,7 +24076,7 @@ export default {
                 },
                 {
                     "album": "Embraced by Darkness",
-                    "albumLink": "https://open.spotify.com/albums/6xVyPy4vfzyxmWI2MtYwco",
+                    "albumLink": "https://open.spotify.com/album/6xVyPy4vfzyxmWI2MtYwco",
                     "discogsLink": "https://www.discogs.com/master/453968",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=31280&band_id=1332&bandname=Aglarond",
                     "msRating": "",
@@ -24085,7 +24085,7 @@ export default {
                 },
                 {
                     "album": "The Last Season",
-                    "albumLink": "https://open.spotify.com/albums/0rSsAMeahqeJn0FLc8jop9",
+                    "albumLink": "https://open.spotify.com/album/0rSsAMeahqeJn0FLc8jop9",
                     "discogsLink": "https://www.discogs.com/release/10619196",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=90683&band_id=1332&bandname=Aglarond",
                     "msRating": "",
@@ -24130,7 +24130,7 @@ export default {
             "albums": [
                 {
                     "album": "Chronicles of Dysphoria",
-                    "albumLink": "https://open.spotify.com/albums/4SZ1boMgeoX5POAJTnRsZs",
+                    "albumLink": "https://open.spotify.com/album/4SZ1boMgeoX5POAJTnRsZs",
                     "discogsLink": "https://www.discogs.com/master/589839",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=27159&band_id=3368&bandname=Chalice",
                     "msRating": "8.1",
@@ -24139,7 +24139,7 @@ export default {
                 },
                 {
                     "album": "An Illusion to the Temporary Real",
-                    "albumLink": "https://open.spotify.com/albums/7Mo4KQGN9V24iDkrBRzMqf",
+                    "albumLink": "https://open.spotify.com/album/7Mo4KQGN9V24iDkrBRzMqf",
                     "discogsLink": "https://www.discogs.com/master/2892862",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=27160&band_id=3368&bandname=Chalice",
                     "msRating": "8.1",
@@ -24148,7 +24148,7 @@ export default {
                 },
                 {
                     "album": "Augmented",
-                    "albumLink": "https://open.spotify.com/albums/7K2BeQndtujkIfAPbg1UKG",
+                    "albumLink": "https://open.spotify.com/album/7K2BeQndtujkIfAPbg1UKG",
                     "discogsLink": "https://www.discogs.com/master/758960",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=27161&band_id=3368&bandname=Chalice",
                     "msRating": "8.1",
@@ -24178,7 +24178,7 @@ export default {
             "albums": [
                 {
                     "album": "Craven",
-                    "albumLink": "https://open.spotify.com/albums/5sLpkgEtNJmlGtDVT07Js6",
+                    "albumLink": "https://open.spotify.com/album/5sLpkgEtNJmlGtDVT07Js6",
                     "discogsLink": "https://www.discogs.com/release/2193893",
                     "msLink": "",
                     "msRating": "",
@@ -24187,7 +24187,7 @@ export default {
                 },
                 {
                     "album": "Crescendo",
-                    "albumLink": "https://open.spotify.com/albums/2jnTIohiX9p6kUaysv7ZvB",
+                    "albumLink": "https://open.spotify.com/album/2jnTIohiX9p6kUaysv7ZvB",
                     "discogsLink": "https://www.discogs.com/master/478997",
                     "msLink": "",
                     "msRating": "",
@@ -24202,7 +24202,7 @@ export default {
             "albums": [
                 {
                     "album": "Reditum",
-                    "albumLink": "https://open.spotify.com/albums/3s8kVzsIV8wejFPmXX55bT",
+                    "albumLink": "https://open.spotify.com/album/3s8kVzsIV8wejFPmXX55bT",
                     "discogsLink": "https://www.discogs.com/release/10979035",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93495&band_id=10027&bandname=Dogma",
                     "msRating": "",
@@ -24211,7 +24211,7 @@ export default {
                 },
                 {
                     "album": "Mallevs Maleficarvm",
-                    "albumLink": "https://open.spotify.com/albums/2MEjgVjPnyJfm2BIjZo9Fo",
+                    "albumLink": "https://open.spotify.com/album/2MEjgVjPnyJfm2BIjZo9Fo",
                     "discogsLink": "https://www.discogs.com/release/15859764",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=119315&band_id=10027&bandname=Dogma",
                     "msRating": "",
@@ -24226,7 +24226,7 @@ export default {
             "albums": [
                 {
                     "album": "Of Ghostly Echoes",
-                    "albumLink": "https://open.spotify.com/albums/1T2fam3pLY7u8b3QJSJqMg",
+                    "albumLink": "https://open.spotify.com/album/1T2fam3pLY7u8b3QJSJqMg",
                     "discogsLink": "https://www.discogs.com/release/9743610",
                     "msLink": "",
                     "msRating": "",
@@ -24256,7 +24256,7 @@ export default {
             "albums": [
                 {
                     "album": "Fragments",
-                    "albumLink": "https://open.spotify.com/albums/4dou1xRNMoHmCXkMjp5qyl",
+                    "albumLink": "https://open.spotify.com/album/4dou1xRNMoHmCXkMjp5qyl",
                     "discogsLink": "https://www.discogs.com/master/463883",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=20518&band_id=2691&bandname=Sacrosanctum",
                     "msRating": "",
@@ -24271,7 +24271,7 @@ export default {
             "albums": [
                 {
                     "album": "Into the Mind's Labyrinth",
-                    "albumLink": "https://open.spotify.com/albums/0SS0z3nIEYUULIOlpqWGcx",
+                    "albumLink": "https://open.spotify.com/album/0SS0z3nIEYUULIOlpqWGcx",
                     "discogsLink": "https://www.discogs.com/release/3603844",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=126543&band_id=14055&bandname=Scarlet+Peace",
                     "msRating": "8",
@@ -24280,7 +24280,7 @@ export default {
                 },
                 {
                     "album": "Tempus Fugit",
-                    "albumLink": "https://open.spotify.com/albums/0amS2aI6MgBVEn3pP8MYvg",
+                    "albumLink": "https://open.spotify.com/album/0amS2aI6MgBVEn3pP8MYvg",
                     "discogsLink": "https://www.discogs.com/release/12836102",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=126544&band_id=14055&bandname=Scarlet+Peace",
                     "msRating": "5",
@@ -24385,7 +24385,7 @@ export default {
             "albums": [
                 {
                     "album": "Embrace",
-                    "albumLink": "https://open.spotify.com/albums/4VdYaWxDHLfaH6mktnCW00",
+                    "albumLink": "https://open.spotify.com/album/4VdYaWxDHLfaH6mktnCW00",
                     "discogsLink": "https://www.discogs.com/master/1809234",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=147445&band_id=17671&bandname=Voyage",
                     "msRating": "",
@@ -24400,7 +24400,7 @@ export default {
             "albums": [
                 {
                     "album": "End of an Era",
-                    "albumLink": "https://open.spotify.com/albums/6t9v0AFA9rW4yZb2S1nXQt",
+                    "albumLink": "https://open.spotify.com/album/6t9v0AFA9rW4yZb2S1nXQt",
                     "discogsLink": "https://www.discogs.com/release/3666383",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55039&band_id=6245&bandname=Weeping+Silence",
                     "msRating": "8.4",
@@ -24409,7 +24409,7 @@ export default {
                 },
                 {
                     "album": "Theatre of Life",
-                    "albumLink": "https://open.spotify.com/albums/4E0wSiv3IGdUzT5Aqc3PNY",
+                    "albumLink": "https://open.spotify.com/album/4E0wSiv3IGdUzT5Aqc3PNY",
                     "discogsLink": "https://www.discogs.com/release/3705811",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55041&band_id=6245&bandname=Weeping+Silence",
                     "msRating": "8.1",
@@ -24418,7 +24418,7 @@ export default {
                 },
                 {
                     "album": "For the Unsung",
-                    "albumLink": "https://open.spotify.com/albums/5XSWZIod1CkR0qUEGUGYsh",
+                    "albumLink": "https://open.spotify.com/album/5XSWZIod1CkR0qUEGUGYsh",
                     "discogsLink": "https://www.discogs.com/master/983367",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=60138&band_id=6245&bandname=Weeping+Silence",
                     "msRating": "8.4",
@@ -24427,7 +24427,7 @@ export default {
                 },
                 {
                     "album": "Opus IV Oblivion",
-                    "albumLink": "https://open.spotify.com/albums/1et0qJ4Ode93ArCvUvskio",
+                    "albumLink": "https://open.spotify.com/album/1et0qJ4Ode93ArCvUvskio",
                     "discogsLink": "https://www.discogs.com/release/8784602",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=84335&band_id=6245&bandname=Weeping+Silence",
                     "msRating": "8.4",
@@ -24496,7 +24496,7 @@ export default {
             "albums": [
                 {
                     "album": "Toward Nothingness",
-                    "albumLink": "https://open.spotify.com/albums/3nv3kN264RPHnJM8w10KBL",
+                    "albumLink": "https://open.spotify.com/album/3nv3kN264RPHnJM8w10KBL",
                     "discogsLink": "https://www.discogs.com/release/8371523",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=32072&band_id=3258&bandname=A+Sorrowful+Dream",
                     "msRating": "9",
@@ -24505,7 +24505,7 @@ export default {
                 },
                 {
                     "album": "Passion",
-                    "albumLink": "https://open.spotify.com/albums/1xsRnY6GpgkSSSyfwH7YzU",
+                    "albumLink": "https://open.spotify.com/album/1xsRnY6GpgkSSSyfwH7YzU",
                     "discogsLink": "https://www.discogs.com/release/8350778",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96561&band_id=3258&bandname=A+Sorrowful+Dream",
                     "msRating": "7.5",
@@ -24562,7 +24562,7 @@ export default {
                 },
                 {
                     "album": "Before an Audience of Stars",
-                    "albumLink": "https://open.spotify.com/albums/6F0aZnfwnkQtQrUQiQQH9N",
+                    "albumLink": "https://open.spotify.com/album/6F0aZnfwnkQtQrUQiQQH9N",
                     "discogsLink": "https://www.discogs.com/master/98013",
                     "msLink": "",
                     "msRating": "",
@@ -24616,7 +24616,7 @@ export default {
                 },
                 {
                     "album": "Amplexus Melancholiae",
-                    "albumLink": "https://open.spotify.com/albums/4jlNp54NrMwponskfdE18V",
+                    "albumLink": "https://open.spotify.com/album/4jlNp54NrMwponskfdE18V",
                     "discogsLink": "https://www.discogs.com/release/4486361",
                     "msLink": "",
                     "msRating": "",
@@ -24631,7 +24631,7 @@ export default {
             "albums": [
                 {
                     "album": "Through the Eyes of Regret",
-                    "albumLink": "https://open.spotify.com/albums/6a7VAWM6bszQpFE6bXDdTu",
+                    "albumLink": "https://open.spotify.com/album/6a7VAWM6bszQpFE6bXDdTu",
                     "discogsLink": "https://www.discogs.com/master/1105214",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2866&band_id=382&bandname=Elegeion",
                     "msRating": "8.2",
@@ -24640,7 +24640,7 @@ export default {
                 },
                 {
                     "album": "The Last Moment",
-                    "albumLink": "https://open.spotify.com/albums/056zAxvymdN3WhkCSQNcOc",
+                    "albumLink": "https://open.spotify.com/album/056zAxvymdN3WhkCSQNcOc",
                     "discogsLink": "https://www.discogs.com/release/1097661",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4077&band_id=382&bandname=Elegeion",
                     "msRating": "7.8",
@@ -24649,7 +24649,7 @@ export default {
                 },
                 {
                     "album": "Plight of the Heretic",
-                    "albumLink": "https://open.spotify.com/albums/1TBF1aDbD5PvQB0noeIEtu",
+                    "albumLink": "https://open.spotify.com/album/1TBF1aDbD5PvQB0noeIEtu",
                     "discogsLink": "https://www.discogs.com/master/2684369",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=143604&band_id=382&bandname=Elegeion",
                     "msRating": "6",
@@ -24736,7 +24736,7 @@ export default {
             "albums": [
                 {
                     "album": "Tears of Mortal Solitude",
-                    "albumLink": "https://open.spotify.com/albums/57cVw9DFTTEHJK9WElDLeF",
+                    "albumLink": "https://open.spotify.com/album/57cVw9DFTTEHJK9WElDLeF",
                     "discogsLink": "https://www.discogs.com/master/392667",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2745&band_id=365&bandname=Forest+Stream",
                     "msRating": "8.6",
@@ -24745,7 +24745,7 @@ export default {
                 },
                 {
                     "album": "The Crown of Winter",
-                    "albumLink": "https://open.spotify.com/albums/5znlCqhgcwRngKarCLjzH9",
+                    "albumLink": "https://open.spotify.com/album/5znlCqhgcwRngKarCLjzH9",
                     "discogsLink": "https://www.discogs.com/release/1972941",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=18845&band_id=365&bandname=Forest+Stream",
                     "msRating": "8.5",
@@ -24778,7 +24778,7 @@ export default {
                 },
                 {
                     "album": "Oblivion",
-                    "albumLink": "https://open.spotify.com/albums/1LrgNIWrQKKT9inLmiXrCS",
+                    "albumLink": "https://open.spotify.com/album/1LrgNIWrQKKT9inLmiXrCS",
                     "discogsLink": "https://www.discogs.com/master/1759669",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=12108&band_id=2072&bandname=Galadriel",
                     "msRating": "7.8",
@@ -24787,7 +24787,7 @@ export default {
                 },
                 {
                     "album": "From Ashes & Dust",
-                    "albumLink": "https://open.spotify.com/albums/2LVPQFG5CbXmEV5Re07Plj",
+                    "albumLink": "https://open.spotify.com/album/2LVPQFG5CbXmEV5Re07Plj",
                     "discogsLink": "https://www.discogs.com/master/909345",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=12109&band_id=2072&bandname=Galadriel",
                     "msRating": "7.8",
@@ -24796,7 +24796,7 @@ export default {
                 },
                 {
                     "album": "World Under World",
-                    "albumLink": "https://open.spotify.com/albums/33eBdaQj2IugvFJNhQX7VE",
+                    "albumLink": "https://open.spotify.com/album/33eBdaQj2IugvFJNhQX7VE",
                     "discogsLink": "https://www.discogs.com/release/3277355",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=12110&band_id=2072&bandname=Galadriel",
                     "msRating": "8.1",
@@ -24805,7 +24805,7 @@ export default {
                 },
                 {
                     "album": "Renascence of Ancient Spirit",
-                    "albumLink": "https://open.spotify.com/albums/3iUZDgscVUVPyxUYi6ZclQ",
+                    "albumLink": "https://open.spotify.com/album/3iUZDgscVUVPyxUYi6ZclQ",
                     "discogsLink": "https://www.discogs.com/release/3277372",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=14939&band_id=2072&bandname=Galadriel",
                     "msRating": "8.1",
@@ -24814,7 +24814,7 @@ export default {
                 },
                 {
                     "album": "The 7th Queen Enthroned",
-                    "albumLink": "https://open.spotify.com/albums/5vjBLdny3ApxcUQfeDe2h9",
+                    "albumLink": "https://open.spotify.com/album/5vjBLdny3ApxcUQfeDe2h9",
                     "discogsLink": "https://www.discogs.com/master/644531",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=61638&band_id=2072&bandname=Galadriel",
                     "msRating": "7.9",
@@ -24847,7 +24847,7 @@ export default {
                 },
                 {
                     "album": "Mechanism Masochism",
-                    "albumLink": "https://open.spotify.com/albums/4CVzr4V7N7n8JT4xnTrrN3",
+                    "albumLink": "https://open.spotify.com/album/4CVzr4V7N7n8JT4xnTrrN3",
                     "discogsLink": "https://www.discogs.com/master/258233",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134835&band_id=13197&bandname=Gardens+Of+Gehenna",
                     "msRating": "",
@@ -24916,7 +24916,7 @@ export default {
             "albums": [
                 {
                     "album": "In Spheres Without Time",
-                    "albumLink": "https://open.spotify.com/albums/3PRAb6t1YGSShKU928xpqw",
+                    "albumLink": "https://open.spotify.com/album/3PRAb6t1YGSShKU928xpqw",
                     "discogsLink": "https://www.discogs.com/master/12689",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=140096&band_id=16114&bandname=Myriads",
                     "msRating": "9",
@@ -24925,7 +24925,7 @@ export default {
                 },
                 {
                     "album": "Introspection",
-                    "albumLink": "https://open.spotify.com/albums/3TY3HgZfP4g4lufgRTEj8T",
+                    "albumLink": "https://open.spotify.com/album/3TY3HgZfP4g4lufgRTEj8T",
                     "discogsLink": "https://www.discogs.com/master/313687",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=140097&band_id=16114&bandname=Myriads",
                     "msRating": "7",
@@ -24955,7 +24955,7 @@ export default {
             "albums": [
                 {
                     "album": "Lake of Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/4j6YOlgp8gPbg7eZuTGq1D",
+                    "albumLink": "https://open.spotify.com/album/4j6YOlgp8gPbg7eZuTGq1D",
                     "discogsLink": "https://www.discogs.com/master/231931",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1359&band_id=194&bandname=The+Sins+Of+Thy+Beloved",
                     "msRating": "8.7",
@@ -24964,7 +24964,7 @@ export default {
                 },
                 {
                     "album": "Perpetual Desolation",
-                    "albumLink": "https://open.spotify.com/albums/5j6TJMg4v7gNAvw24v7cyq",
+                    "albumLink": "https://open.spotify.com/album/5j6TJMg4v7gNAvw24v7cyq",
                     "discogsLink": "https://www.discogs.com/master/12743",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1360&band_id=194&bandname=The+Sins+Of+Thy+Beloved",
                     "msRating": "8.3",
@@ -24979,7 +24979,7 @@ export default {
             "albums": [
                 {
                     "album": "Sombre Romantic",
-                    "albumLink": "https://open.spotify.com/albums/01F8GrZihTOm8Q8LnzrtdS",
+                    "albumLink": "https://open.spotify.com/album/01F8GrZihTOm8Q8LnzrtdS",
                     "discogsLink": "https://www.discogs.com/master/11147",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2250&band_id=309&bandname=Virgin+Black",
                     "msRating": "8.6",
@@ -24988,7 +24988,7 @@ export default {
                 },
                 {
                     "album": "Elegant... and Dying",
-                    "albumLink": "https://open.spotify.com/albums/00CRWo1A6lMj4BNoLogev1",
+                    "albumLink": "https://open.spotify.com/album/00CRWo1A6lMj4BNoLogev1",
                     "discogsLink": "https://www.discogs.com/master/11155",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2249&band_id=309&bandname=Virgin+Black",
                     "msRating": "8.5",
@@ -25030,7 +25030,7 @@ export default {
             "albums": [
                 {
                     "album": "\"Fiaba lacrimevole\" - Like a Red Bleeding Rose in a Glacial Desert...",
-                    "albumLink": "https://open.spotify.com/albums/40R54Ia9DxzB7ACgzj7mI2",
+                    "albumLink": "https://open.spotify.com/album/40R54Ia9DxzB7ACgzj7mI2",
                     "discogsLink": "https://www.discogs.com/release/4697086",
                     "msLink": "",
                     "msRating": "",
@@ -25048,7 +25048,7 @@ export default {
                 },
                 {
                     "album": "Miele dal salice",
-                    "albumLink": "https://open.spotify.com/albums/2MRpUeTq1CptD7vfrbmDgz",
+                    "albumLink": "https://open.spotify.com/album/2MRpUeTq1CptD7vfrbmDgz",
                     "discogsLink": "https://www.discogs.com/master/249599",
                     "msLink": "",
                     "msRating": "",
@@ -25057,7 +25057,7 @@ export default {
                 },
                 {
                     "album": "Giostra di vapore",
-                    "albumLink": "https://open.spotify.com/albums/4NmNneZttE19waGRbernOK",
+                    "albumLink": "https://open.spotify.com/album/4NmNneZttE19waGRbernOK",
                     "discogsLink": "https://www.discogs.com/release/5167088",
                     "msLink": "",
                     "msRating": "",
@@ -25066,7 +25066,7 @@ export default {
                 },
                 {
                     "album": "Quinta Essentia",
-                    "albumLink": "https://open.spotify.com/albums/3dM3LwiotQMR1I7zSdycYA",
+                    "albumLink": "https://open.spotify.com/album/3dM3LwiotQMR1I7zSdycYA",
                     "discogsLink": "https://www.discogs.com/master/1852038",
                     "msLink": "",
                     "msRating": "",
@@ -25075,7 +25075,7 @@ export default {
                 },
                 {
                     "album": "Via Entis",
-                    "albumLink": "https://open.spotify.com/albums/6RqFdgDn2rvbZV3oYiLmej",
+                    "albumLink": "https://open.spotify.com/album/6RqFdgDn2rvbZV3oYiLmej",
                     "discogsLink": "https://www.discogs.com/release/26259605",
                     "msLink": "",
                     "msRating": "",
@@ -25090,7 +25090,7 @@ export default {
             "albums": [
                 {
                     "album": "Infinita Plango Vulnera",
-                    "albumLink": "https://open.spotify.com/albums/4xEkXAb3efO4YZ2enR8zCC",
+                    "albumLink": "https://open.spotify.com/album/4xEkXAb3efO4YZ2enR8zCC",
                     "discogsLink": "https://www.discogs.com/master/885384",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1466&band_id=211&bandname=Silentium",
                     "msRating": "8",
@@ -25099,7 +25099,7 @@ export default {
                 },
                 {
                     "album": "Altum",
-                    "albumLink": "https://open.spotify.com/albums/4fUydcmV57t3GlZELFY4Sv",
+                    "albumLink": "https://open.spotify.com/album/4fUydcmV57t3GlZELFY4Sv",
                     "discogsLink": "https://www.discogs.com/master/235619",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1468&band_id=211&bandname=Silentium",
                     "msRating": "8.1",
@@ -25108,7 +25108,7 @@ export default {
                 },
                 {
                     "album": "Sufferion - Hamartia of Prudence",
-                    "albumLink": "https://open.spotify.com/albums/3AWSFc54TXFkOIG43uvDIx",
+                    "albumLink": "https://open.spotify.com/album/3AWSFc54TXFkOIG43uvDIx",
                     "discogsLink": "https://www.discogs.com/master/191386",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1469&band_id=211&bandname=Silentium",
                     "msRating": "7.7",
@@ -25117,7 +25117,7 @@ export default {
                 },
                 {
                     "album": "Seducia",
-                    "albumLink": "https://open.spotify.com/albums/0wREftVJib84MnpEb1UPGl",
+                    "albumLink": "https://open.spotify.com/album/0wREftVJib84MnpEb1UPGl",
                     "discogsLink": "https://www.discogs.com/master/235612",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4478&band_id=211&bandname=Silentium",
                     "msRating": "7.5",
@@ -25126,7 +25126,7 @@ export default {
                 },
                 {
                     "album": "Amortean",
-                    "albumLink": "https://open.spotify.com/albums/11XgQbZ2NYOTdzXNRL7XVc",
+                    "albumLink": "https://open.spotify.com/album/11XgQbZ2NYOTdzXNRL7XVc",
                     "discogsLink": "https://www.discogs.com/master/504316",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=25602&band_id=211&bandname=Silentium",
                     "msRating": "6.9",
@@ -25135,7 +25135,7 @@ export default {
                 },
                 {
                     "album": "Motiva",
-                    "albumLink": "https://open.spotify.com/albums/4zarYABSRq9GONo3ud4tzz",
+                    "albumLink": "https://open.spotify.com/album/4zarYABSRq9GONo3ud4tzz",
                     "discogsLink": "https://www.discogs.com/release/15832187",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=118319&band_id=211&bandname=Silentium",
                     "msRating": "6.5",
@@ -25246,7 +25246,7 @@ export default {
                 },
                 {
                     "album": "Tales of the Woods... Thus Was Written",
-                    "albumLink": "https://open.spotify.com/albums/5zKKh4z5wqAZ8qb0ymIv1m",
+                    "albumLink": "https://open.spotify.com/album/5zKKh4z5wqAZ8qb0ymIv1m",
                     "discogsLink": "https://www.discogs.com/release/750710",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=44751&band_id=5175&bandname=Thalarion",
                     "msRating": "8",
@@ -25255,7 +25255,7 @@ export default {
                 },
                 {
                     "album": "Four Elements Mysterium",
-                    "albumLink": "https://open.spotify.com/albums/3xdIufbw3vBU1Xhs6KZIf0",
+                    "albumLink": "https://open.spotify.com/album/3xdIufbw3vBU1Xhs6KZIf0",
                     "discogsLink": "https://www.discogs.com/master/392302",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=44752&band_id=5175&bandname=Thalarion",
                     "msRating": "8.4",
@@ -25282,7 +25282,7 @@ export default {
                 },
                 {
                     "album": "Dying on the Scorched Plains",
-                    "albumLink": "https://open.spotify.com/albums/5whMLfQF4GIheYRtw0VbK8",
+                    "albumLink": "https://open.spotify.com/album/5whMLfQF4GIheYRtw0VbK8",
                     "discogsLink": "https://www.discogs.com/release/21373237",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=137505&band_id=5175&bandname=Thalarion",
                     "msRating": "6",
@@ -25315,7 +25315,7 @@ export default {
                 },
                 {
                     "album": "The Inheritance of Sin and Shame",
-                    "albumLink": "https://open.spotify.com/albums/7jq5rFbt02nenKme4QUYuL",
+                    "albumLink": "https://open.spotify.com/album/7jq5rFbt02nenKme4QUYuL",
                     "discogsLink": "https://www.discogs.com/master/233712",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=12686&band_id=1241&bandname=Ashes+You+Leave",
                     "msRating": "7.9",
@@ -25324,7 +25324,7 @@ export default {
                 },
                 {
                     "album": "Fire",
-                    "albumLink": "https://open.spotify.com/albums/0rjmbPGqwIzmS1O9MwCbmC",
+                    "albumLink": "https://open.spotify.com/album/0rjmbPGqwIzmS1O9MwCbmC",
                     "discogsLink": "https://www.discogs.com/master/392015",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=12687&band_id=1241&bandname=Ashes+You+Leave",
                     "msRating": "7",
@@ -25333,7 +25333,7 @@ export default {
                 },
                 {
                     "album": "Songs of the Lost",
-                    "albumLink": "https://open.spotify.com/albums/45iQwCpwRxfTD7bKjEVR5z",
+                    "albumLink": "https://open.spotify.com/album/45iQwCpwRxfTD7bKjEVR5z",
                     "discogsLink": "https://www.discogs.com/master/879497",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=20299&band_id=1241&bandname=Ashes+You+Leave",
                     "msRating": "8.2",
@@ -25342,7 +25342,7 @@ export default {
                 },
                 {
                     "album": "The Cure for Happiness",
-                    "albumLink": "https://open.spotify.com/albums/5Xb4OBtwSmYEuxDeTQ5GTw",
+                    "albumLink": "https://open.spotify.com/album/5Xb4OBtwSmYEuxDeTQ5GTw",
                     "discogsLink": "https://www.discogs.com/release/7288007",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=61476&band_id=1241&bandname=Ashes+You+Leave",
                     "msRating": "7.6",
@@ -25357,7 +25357,7 @@ export default {
             "albums": [
                 {
                     "album": "DämmerElbenTragödie",
-                    "albumLink": "https://open.spotify.com/albums/1YUYziKtYthXAg2vUC3juT",
+                    "albumLink": "https://open.spotify.com/album/1YUYziKtYthXAg2vUC3juT",
                     "discogsLink": "https://www.discogs.com/master/354433",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=30131&band_id=3678&bandname=Autumnblaze",
                     "msRating": "7.4",
@@ -25366,7 +25366,7 @@ export default {
                 },
                 {
                     "album": "Bleak",
-                    "albumLink": "https://open.spotify.com/albums/0nOeai7cN1Mifhic7QO105",
+                    "albumLink": "https://open.spotify.com/album/0nOeai7cN1Mifhic7QO105",
                     "discogsLink": "https://www.discogs.com/master/134441",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=30132&band_id=3678&bandname=Autumnblaze",
                     "msRating": "7.9",
@@ -25375,7 +25375,7 @@ export default {
                 },
                 {
                     "album": "Mute Boy Sad Girl",
-                    "albumLink": "https://open.spotify.com/albums/2efQnGER4ITCwkt9SYd0He",
+                    "albumLink": "https://open.spotify.com/album/2efQnGER4ITCwkt9SYd0He",
                     "discogsLink": "https://www.discogs.com/master/241522",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=30133&band_id=3678&bandname=Autumnblaze",
                     "msRating": "7.9",
@@ -25384,7 +25384,7 @@ export default {
                 },
                 {
                     "album": "The Mute Sessions",
-                    "albumLink": "https://open.spotify.com/albums/7ACyAzT6OYlM4peJSlysCB",
+                    "albumLink": "https://open.spotify.com/album/7ACyAzT6OYlM4peJSlysCB",
                     "discogsLink": "https://www.discogs.com/release/515035",
                     "msLink": "",
                     "msRating": "",
@@ -25393,7 +25393,7 @@ export default {
                 },
                 {
                     "album": "Words Are Not What They Seem",
-                    "albumLink": "https://open.spotify.com/albums/71Un9OHcz3BqlBo29elpz2",
+                    "albumLink": "https://open.spotify.com/album/71Un9OHcz3BqlBo29elpz2",
                     "discogsLink": "https://www.discogs.com/master/241523",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=30136&band_id=3678&bandname=Autumnblaze",
                     "msRating": "8.5",
@@ -25402,7 +25402,7 @@ export default {
                 },
                 {
                     "album": "Perdition Diaries",
-                    "albumLink": "https://open.spotify.com/albums/0Da64BXn8YgKFr3YQ3SPKC",
+                    "albumLink": "https://open.spotify.com/album/0Da64BXn8YgKFr3YQ3SPKC",
                     "discogsLink": "https://www.discogs.com/release/1817768",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=33068&band_id=3678&bandname=Autumnblaze",
                     "msRating": "7.9",
@@ -25411,7 +25411,7 @@ export default {
                 },
                 {
                     "album": "Every Sun Is Fragile",
-                    "albumLink": "https://open.spotify.com/albums/3WVejn5Fhy0Of88z6tgSj6",
+                    "albumLink": "https://open.spotify.com/album/3WVejn5Fhy0Of88z6tgSj6",
                     "discogsLink": "https://www.discogs.com/release/5451019",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51134&band_id=3678&bandname=Autumnblaze",
                     "msRating": "7.7",
@@ -25420,7 +25420,7 @@ export default {
                 },
                 {
                     "album": "Welkin Shores Burning",
-                    "albumLink": "https://open.spotify.com/albums/0GxoK5W9Q7rsSszXHHckF7",
+                    "albumLink": "https://open.spotify.com/album/0GxoK5W9Q7rsSszXHHckF7",
                     "discogsLink": "https://www.discogs.com/master/1905648",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=119762&band_id=3678&bandname=Autumnblaze",
                     "msRating": "6.7",
@@ -25435,7 +25435,7 @@ export default {
             "albums": [
                 {
                     "album": "Wasteland",
-                    "albumLink": "https://open.spotify.com/albums/27iJ1TW1ujaRV5Lfsfz5BC",
+                    "albumLink": "https://open.spotify.com/album/27iJ1TW1ujaRV5Lfsfz5BC",
                     "discogsLink": "https://www.discogs.com/master/624592",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=21077&band_id=2719&bandname=Atargatis",
                     "msRating": "8.4",
@@ -25444,7 +25444,7 @@ export default {
                 },
                 {
                     "album": "Nova",
-                    "albumLink": "https://open.spotify.com/albums/4vJbaSlFgQ9Mr0iQFW1egB",
+                    "albumLink": "https://open.spotify.com/album/4vJbaSlFgQ9Mr0iQFW1egB",
                     "discogsLink": "https://www.discogs.com/master/446891",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=21076&band_id=2719&bandname=Atargatis",
                     "msRating": "7.5",
@@ -25459,7 +25459,7 @@ export default {
             "albums": [
                 {
                     "album": "Proles Florum",
-                    "albumLink": "https://open.spotify.com/albums/2lZcqlqfctc65iI4rvA9v8",
+                    "albumLink": "https://open.spotify.com/album/2lZcqlqfctc65iI4rvA9v8",
                     "discogsLink": "https://www.discogs.com/master/987262",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=41803&band_id=3680&bandname=Catharsis",
                     "msRating": "6.5",
@@ -25468,7 +25468,7 @@ export default {
                 },
                 {
                     "album": "Dea",
-                    "albumLink": "https://open.spotify.com/albums/7f9jZ3wdxRYGZti8VRE6rR",
+                    "albumLink": "https://open.spotify.com/album/7f9jZ3wdxRYGZti8VRE6rR",
                     "discogsLink": "https://www.discogs.com/master/583193",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=35863&band_id=3680&bandname=Catharsis",
                     "msRating": "7.8",
@@ -25486,7 +25486,7 @@ export default {
                 },
                 {
                     "album": "Имаго",
-                    "albumLink": "https://open.spotify.com/albums/0BwloDKLmKONy8dRr85pMo",
+                    "albumLink": "https://open.spotify.com/album/0BwloDKLmKONy8dRr85pMo",
                     "discogsLink": "https://www.discogs.com/master/1020759",
                     "msLink": "",
                     "msRating": "",
@@ -25495,7 +25495,7 @@ export default {
                 },
                 {
                     "album": "Крылья",
-                    "albumLink": "https://open.spotify.com/albums/7k3diNyVtPd3l1mtlvAOfl",
+                    "albumLink": "https://open.spotify.com/album/7k3diNyVtPd3l1mtlvAOfl",
                     "discogsLink": "https://www.discogs.com/master/565666",
                     "msLink": "",
                     "msRating": "",
@@ -25513,7 +25513,7 @@ export default {
                 },
                 {
                     "album": "Индиго",
-                    "albumLink": "https://open.spotify.com/albums/7lUUOGNHR7KOfJszaZ1KtJ",
+                    "albumLink": "https://open.spotify.com/album/7lUUOGNHR7KOfJszaZ1KtJ",
                     "discogsLink": "https://www.discogs.com/master/765267",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=82496&band_id=3680&bandname=Catharsis",
                     "msRating": "7.1",
@@ -25522,7 +25522,7 @@ export default {
                 },
                 {
                     "album": "Зеркало судьбы",
-                    "albumLink": "https://open.spotify.com/albums/33Cz9iMeUywH7CGqtmKois",
+                    "albumLink": "https://open.spotify.com/album/33Cz9iMeUywH7CGqtmKois",
                     "discogsLink": "https://www.discogs.com/master/1663763",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=104650&band_id=3680&bandname=Catharsis",
                     "msRating": "8.3",
@@ -25531,7 +25531,7 @@ export default {
                 },
                 {
                     "album": "Книга времён. Будущее прошлого",
-                    "albumLink": "https://open.spotify.com/albums/7i4Rddz16zFmqYmNE8P6EQ",
+                    "albumLink": "https://open.spotify.com/album/7i4Rddz16zFmqYmNE8P6EQ",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -25555,7 +25555,7 @@ export default {
                 },
                 {
                     "album": "Cygnus Oddyssey",
-                    "albumLink": "https://open.spotify.com/albums/6P54JLv0l338tOJhxYQ9G4",
+                    "albumLink": "https://open.spotify.com/album/6P54JLv0l338tOJhxYQ9G4",
                     "discogsLink": "https://www.discogs.com/release/9190042",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=159729&band_id=19970&bandname=Demimonde",
                     "msRating": "",
@@ -25579,7 +25579,7 @@ export default {
                 },
                 {
                     "album": "Silence of Sound",
-                    "albumLink": "https://open.spotify.com/albums/6YNzSewtroKC0ExakdIH4S",
+                    "albumLink": "https://open.spotify.com/album/6YNzSewtroKC0ExakdIH4S",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -25588,7 +25588,7 @@ export default {
                 },
                 {
                     "album": "Insomnia Redux",
-                    "albumLink": "https://open.spotify.com/albums/7577H4oEapUwnKV7TJm9Up",
+                    "albumLink": "https://open.spotify.com/album/7577H4oEapUwnKV7TJm9Up",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -25621,7 +25621,7 @@ export default {
                 },
                 {
                     "album": "Let Your Life Pass You By",
-                    "albumLink": "https://open.spotify.com/albums/1sQz8iDBog7hw840IzhMBb",
+                    "albumLink": "https://open.spotify.com/album/1sQz8iDBog7hw840IzhMBb",
                     "discogsLink": "https://www.discogs.com/release/6786096",
                     "msLink": "",
                     "msRating": "",
@@ -25636,7 +25636,7 @@ export default {
             "albums": [
                 {
                     "album": "Secretly",
-                    "albumLink": "https://open.spotify.com/albums/1kgBZ2OlDXV0VK112lWv8k",
+                    "albumLink": "https://open.spotify.com/album/1kgBZ2OlDXV0VK112lWv8k",
                     "discogsLink": "https://www.discogs.com/master/437356",
                     "msLink": "",
                     "msRating": "",
@@ -25672,7 +25672,7 @@ export default {
                 },
                 {
                     "album": "Absorb",
-                    "albumLink": "https://open.spotify.com/albums/08GzIYjg6HXkaJw8kBtAZ7",
+                    "albumLink": "https://open.spotify.com/album/08GzIYjg6HXkaJw8kBtAZ7",
                     "discogsLink": "https://www.discogs.com/release/12555081",
                     "msLink": "",
                     "msRating": "",
@@ -25681,7 +25681,7 @@ export default {
                 },
                 {
                     "album": "Amplify",
-                    "albumLink": "https://open.spotify.com/albums/0AxdJ00GOlxg1djjrA13Hs",
+                    "albumLink": "https://open.spotify.com/album/0AxdJ00GOlxg1djjrA13Hs",
                     "discogsLink": "https://www.discogs.com/release/3710154",
                     "msLink": "",
                     "msRating": "",
@@ -25690,7 +25690,7 @@ export default {
                 },
                 {
                     "album": "Transient",
-                    "albumLink": "https://open.spotify.com/albums/0w0UEFT61wAEmhDOB8pJwP",
+                    "albumLink": "https://open.spotify.com/album/0w0UEFT61wAEmhDOB8pJwP",
                     "discogsLink": "https://www.discogs.com/release/5369467",
                     "msLink": "",
                     "msRating": "",
@@ -25699,7 +25699,7 @@ export default {
                 },
                 {
                     "album": "Black Threads",
-                    "albumLink": "https://open.spotify.com/albums/0WGHFb1oLvH6NSuDNYjX4D",
+                    "albumLink": "https://open.spotify.com/album/0WGHFb1oLvH6NSuDNYjX4D",
                     "discogsLink": "https://www.discogs.com/release/9569020",
                     "msLink": "",
                     "msRating": "",
@@ -25708,7 +25708,7 @@ export default {
                 },
                 {
                     "album": "Skylor",
-                    "albumLink": "https://open.spotify.com/albums/3ig4eMh4B8DTuX3fYiFN4L",
+                    "albumLink": "https://open.spotify.com/album/3ig4eMh4B8DTuX3fYiFN4L",
                     "discogsLink": "https://www.discogs.com/release/22103083",
                     "msLink": "",
                     "msRating": "",
@@ -25771,7 +25771,7 @@ export default {
             "albums": [
                 {
                     "album": "Believe in Death... Now Forever",
-                    "albumLink": "https://open.spotify.com/albums/4nc8RzeTVLzzHsfjwCBEef",
+                    "albumLink": "https://open.spotify.com/album/4nc8RzeTVLzzHsfjwCBEef",
                     "discogsLink": "https://www.discogs.com/release/5252629",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=128108&band_id=14285&bandname=Gothic+Sky",
                     "msRating": "",
@@ -25780,7 +25780,7 @@ export default {
                 },
                 {
                     "album": "Witchcraft of Krehterwehs",
-                    "albumLink": "https://open.spotify.com/albums/6fukqtvtzSmyHZeWeU1cHY",
+                    "albumLink": "https://open.spotify.com/album/6fukqtvtzSmyHZeWeU1cHY",
                     "discogsLink": "https://www.discogs.com/release/5313329",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=128107&band_id=14285&bandname=Gothic+Sky",
                     "msRating": "",
@@ -25789,7 +25789,7 @@ export default {
                 },
                 {
                     "album": "Реальности чёрного рыцаря",
-                    "albumLink": "https://open.spotify.com/albums/1LuZwrwHeDJxFqBp3UcOaE",
+                    "albumLink": "https://open.spotify.com/album/1LuZwrwHeDJxFqBp3UcOaE",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=128106&band_id=14285&bandname=Gothic+Sky",
                     "msRating": "",
@@ -25798,7 +25798,7 @@ export default {
                 },
                 {
                     "album": "Лабиринт скитаний",
-                    "albumLink": "https://open.spotify.com/albums/50y1hhmwkPgXNhcsdGdkQt",
+                    "albumLink": "https://open.spotify.com/album/50y1hhmwkPgXNhcsdGdkQt",
                     "discogsLink": "https://www.discogs.com/master/1138059",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=128105&band_id=14285&bandname=Gothic+Sky",
                     "msRating": "",
@@ -25807,7 +25807,7 @@ export default {
                 },
                 {
                     "album": "Тени прошлого",
-                    "albumLink": "https://open.spotify.com/albums/61WJ7u8JKqZdzecEqbeJxO",
+                    "albumLink": "https://open.spotify.com/album/61WJ7u8JKqZdzecEqbeJxO",
                     "discogsLink": "https://www.discogs.com/release/18139585",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=128103&band_id=14285&bandname=Gothic+Sky",
                     "msRating": "",
@@ -25816,7 +25816,7 @@ export default {
                 },
                 {
                     "album": "In Search of a Lost Soul",
-                    "albumLink": "https://open.spotify.com/albums/3gM0ZP0IPrXjdoObo0Ft3c",
+                    "albumLink": "https://open.spotify.com/album/3gM0ZP0IPrXjdoObo0Ft3c",
                     "discogsLink": "https://www.discogs.com/release/12935678",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=128020&band_id=14285&bandname=Gothic+Sky",
                     "msRating": "8.3",
@@ -25870,7 +25870,7 @@ export default {
             "albums": [
                 {
                     "album": "Sounds of Beautiful Experience",
-                    "albumLink": "https://open.spotify.com/albums/3NsvKNUXnCncS0f4DuoND8",
+                    "albumLink": "https://open.spotify.com/album/3NsvKNUXnCncS0f4DuoND8",
                     "discogsLink": "https://www.discogs.com/master/259152",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1603&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "7.4",
@@ -25879,7 +25879,7 @@ export default {
                 },
                 {
                     "album": "Orama",
-                    "albumLink": "https://open.spotify.com/albums/7C94dWIBvRcvEgsMRILCim",
+                    "albumLink": "https://open.spotify.com/album/7C94dWIBvRcvEgsMRILCim",
                     "discogsLink": "https://www.discogs.com/master/523931",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1604&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "8.4",
@@ -25888,7 +25888,7 @@ export default {
                 },
                 {
                     "album": "Crystal Tears",
-                    "albumLink": "https://open.spotify.com/albums/0W1uLjokBCq0kEGXCzhAeo",
+                    "albumLink": "https://open.spotify.com/album/0W1uLjokBCq0kEGXCzhAeo",
                     "discogsLink": "https://www.discogs.com/master/273039",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1605&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "8.2",
@@ -25897,7 +25897,7 @@ export default {
                 },
                 {
                     "album": "Future Narcotic",
-                    "albumLink": "https://open.spotify.com/albums/7dMHBkhl0jbOYG805ij4XZ",
+                    "albumLink": "https://open.spotify.com/album/7dMHBkhl0jbOYG805ij4XZ",
                     "discogsLink": "https://www.discogs.com/master/149208",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1606&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "7.6",
@@ -25906,7 +25906,7 @@ export default {
                 },
                 {
                     "album": "Angeldust",
-                    "albumLink": "https://open.spotify.com/albums/5HBrQqgqn12BCswih0fdyz",
+                    "albumLink": "https://open.spotify.com/album/5HBrQqgqn12BCswih0fdyz",
                     "discogsLink": "https://www.discogs.com/master/216690",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1607&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "7.3",
@@ -25915,7 +25915,7 @@ export default {
                 },
                 {
                     "album": "Egocentric",
-                    "albumLink": "https://open.spotify.com/albums/57G2nObap4UJhWb2XKyTRP",
+                    "albumLink": "https://open.spotify.com/album/57G2nObap4UJhWb2XKyTRP",
                     "discogsLink": "https://www.discogs.com/master/1361824",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1625&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "7.3",
@@ -25924,7 +25924,7 @@ export default {
                 },
                 {
                     "album": "Eternal Silence",
-                    "albumLink": "https://open.spotify.com/albums/51NtZmffpppsjFCKWQ6Wqg",
+                    "albumLink": "https://open.spotify.com/album/51NtZmffpppsjFCKWQ6Wqg",
                     "discogsLink": "https://www.discogs.com/release/7809758",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=86243&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "7.8",
@@ -25933,7 +25933,7 @@ export default {
                 },
                 {
                     "album": "Aegean Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/3yVsCT0oGZLw4cj9WF7m1O",
+                    "albumLink": "https://open.spotify.com/album/3yVsCT0oGZLw4cj9WF7m1O",
                     "discogsLink": "https://www.discogs.com/master/1328095",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93405&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "8.1",
@@ -25942,7 +25942,7 @@ export default {
                 },
                 {
                     "album": "Threnos",
-                    "albumLink": "https://open.spotify.com/albums/4YiC6kurY4jmOZJ2APPzcx",
+                    "albumLink": "https://open.spotify.com/album/4YiC6kurY4jmOZJ2APPzcx",
                     "discogsLink": "https://www.discogs.com/master/1681061",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=106245&band_id=234&bandname=On+Thorns+I+Lay",
                     "msRating": "8.3",
@@ -25972,7 +25972,7 @@ export default {
             "albums": [
                 {
                     "album": "Seven Steps to Infinity",
-                    "albumLink": "https://open.spotify.com/albums/0NzPI1dSAUrKWdfBQ4fyC6",
+                    "albumLink": "https://open.spotify.com/album/0NzPI1dSAUrKWdfBQ4fyC6",
                     "discogsLink": "https://www.discogs.com/release/2381497",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=27450&band_id=3400&bandname=Autumn+Rain+Melancholy",
                     "msRating": "",
@@ -26071,7 +26071,7 @@ export default {
             "albums": [
                 {
                     "album": "Tales from a Disturbed Soul",
-                    "albumLink": "https://open.spotify.com/albums/7qxPNrtleV9e8xrSqIBmmA",
+                    "albumLink": "https://open.spotify.com/album/7qxPNrtleV9e8xrSqIBmmA",
                     "discogsLink": "https://www.discogs.com/release/13159794",
                     "msLink": "",
                     "msRating": "",
@@ -26095,7 +26095,7 @@ export default {
                 },
                 {
                     "album": "Transcendental Trip",
-                    "albumLink": "https://open.spotify.com/albums/6Xm9nHJ81GmdIiOIphEgnP",
+                    "albumLink": "https://open.spotify.com/album/6Xm9nHJ81GmdIiOIphEgnP",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=95572&band_id=10242&bandname=Crimson+Sky",
                     "msRating": "",
@@ -26119,7 +26119,7 @@ export default {
                 },
                 {
                     "album": "Uroboros",
-                    "albumLink": "https://open.spotify.com/albums/6Hp6isucsTgB0nAxCfUYYT",
+                    "albumLink": "https://open.spotify.com/album/6Hp6isucsTgB0nAxCfUYYT",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -26149,7 +26149,7 @@ export default {
             "albums": [
                 {
                     "album": "Desde el fin",
-                    "albumLink": "https://open.spotify.com/albums/4We2NoNXKueLrvQ7oZWhjt",
+                    "albumLink": "https://open.spotify.com/album/4We2NoNXKueLrvQ7oZWhjt",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -26158,7 +26158,7 @@ export default {
                 },
                 {
                     "album": "Innerpretations",
-                    "albumLink": "https://open.spotify.com/albums/4wrJ4sjbQzwibnJMboxlvJ",
+                    "albumLink": "https://open.spotify.com/album/4wrJ4sjbQzwibnJMboxlvJ",
                     "discogsLink": "https://www.discogs.com/release/3917593",
                     "msLink": "",
                     "msRating": "",
@@ -26188,7 +26188,7 @@ export default {
             "albums": [
                 {
                     "album": "Return of Darkness",
-                    "albumLink": "https://open.spotify.com/albums/68KP97L7oPandxWwTAPC1x",
+                    "albumLink": "https://open.spotify.com/album/68KP97L7oPandxWwTAPC1x",
                     "discogsLink": "https://www.discogs.com/master/1448690",
                     "msLink": "",
                     "msRating": "",
@@ -26197,7 +26197,7 @@ export default {
                 },
                 {
                     "album": "The Anatomy of Melancholy",
-                    "albumLink": "https://open.spotify.com/albums/74syo5YGuov2fvwcrAvT2m",
+                    "albumLink": "https://open.spotify.com/album/74syo5YGuov2fvwcrAvT2m",
                     "discogsLink": "https://www.discogs.com/master/1448688",
                     "msLink": "",
                     "msRating": "",
@@ -26206,7 +26206,7 @@ export default {
                 },
                 {
                     "album": "Discover",
-                    "albumLink": "https://open.spotify.com/albums/235uItzi1q1b0hUpnLCohj",
+                    "albumLink": "https://open.spotify.com/album/235uItzi1q1b0hUpnLCohj",
                     "discogsLink": "https://www.discogs.com/master/2191684",
                     "msLink": "",
                     "msRating": "",
@@ -26215,7 +26215,7 @@ export default {
                 },
                 {
                     "album": "The Forgotten Ones",
-                    "albumLink": "https://open.spotify.com/albums/44WShdnT7QGUVzVHzAdmjH",
+                    "albumLink": "https://open.spotify.com/album/44WShdnT7QGUVzVHzAdmjH",
                     "discogsLink": "https://www.discogs.com/master/1484844",
                     "msLink": "",
                     "msRating": "",
@@ -26230,7 +26230,7 @@ export default {
             "albums": [
                 {
                     "album": "Never Ends",
-                    "albumLink": "https://open.spotify.com/albums/1CpE5MsEzcNyw6j8uiBcim",
+                    "albumLink": "https://open.spotify.com/album/1CpE5MsEzcNyw6j8uiBcim",
                     "discogsLink": "https://www.discogs.com/release/3533286",
                     "msLink": "",
                     "msRating": "",
@@ -26245,7 +26245,7 @@ export default {
             "albums": [
                 {
                     "album": "A Decade of Dusk",
-                    "albumLink": "https://open.spotify.com/albums/4vywRwNkJ2jyStuuihwY5I",
+                    "albumLink": "https://open.spotify.com/album/4vywRwNkJ2jyStuuihwY5I",
                     "discogsLink": "https://www.discogs.com/master/1594729",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=56113&band_id=1267&bandname=Lux+Incerta",
                     "msRating": "",
@@ -26254,7 +26254,7 @@ export default {
                 },
                 {
                     "album": "Dark Odyssey",
-                    "albumLink": "https://open.spotify.com/albums/6MMan9fNOeo8WPjANbvM1Y",
+                    "albumLink": "https://open.spotify.com/album/6MMan9fNOeo8WPjANbvM1Y",
                     "discogsLink": "https://www.discogs.com/release/25333399",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=142059&band_id=1267&bandname=Lux+Incerta",
                     "msRating": "7.2",
@@ -26269,7 +26269,7 @@ export default {
             "albums": [
                 {
                     "album": "Painful Dream",
-                    "albumLink": "https://open.spotify.com/albums/4Fuc0m83WqOvexWULjyOqp",
+                    "albumLink": "https://open.spotify.com/album/4Fuc0m83WqOvexWULjyOqp",
                     "discogsLink": "https://www.discogs.com/master/849901",
                     "msLink": "",
                     "msRating": "",
@@ -26335,7 +26335,7 @@ export default {
                 },
                 {
                     "album": "Grace Submerged",
-                    "albumLink": "https://open.spotify.com/albums/2jWAdp4VfXmnWsWGuDwOjZ",
+                    "albumLink": "https://open.spotify.com/album/2jWAdp4VfXmnWsWGuDwOjZ",
                     "discogsLink": "https://www.discogs.com/master/457507",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=17169&band_id=2356&bandname=Octavia+Sperati",
                     "msRating": "7.3",
@@ -26350,7 +26350,7 @@ export default {
             "albums": [
                 {
                     "album": "Springtime's Masquerade",
-                    "albumLink": "https://open.spotify.com/albums/0bbnciRN0HTquAIXH3coOA",
+                    "albumLink": "https://open.spotify.com/album/0bbnciRN0HTquAIXH3coOA",
                     "discogsLink": "https://www.discogs.com/release/12137852",
                     "msLink": "",
                     "msRating": "",
@@ -26359,7 +26359,7 @@ export default {
                 },
                 {
                     "album": "Through",
-                    "albumLink": "https://open.spotify.com/albums/28UhgC6SthTGZHplBUDxYk",
+                    "albumLink": "https://open.spotify.com/album/28UhgC6SthTGZHplBUDxYk",
                     "discogsLink": "https://www.discogs.com/release/25423105",
                     "msLink": "",
                     "msRating": "",
@@ -26416,7 +26416,7 @@ export default {
                 },
                 {
                     "album": "Morgenlicht",
-                    "albumLink": "https://open.spotify.com/albums/7MUxB9yayhiSSTtKvdxIPP",
+                    "albumLink": "https://open.spotify.com/album/7MUxB9yayhiSSTtKvdxIPP",
                     "discogsLink": "https://www.discogs.com/release/14169753",
                     "msLink": "",
                     "msRating": "",
@@ -26425,7 +26425,7 @@ export default {
                 },
                 {
                     "album": "Melodie der Verwandlung",
-                    "albumLink": "https://open.spotify.com/albums/3qHEEVyyCGHKZrq2aevKu1",
+                    "albumLink": "https://open.spotify.com/album/3qHEEVyyCGHKZrq2aevKu1",
                     "discogsLink": "https://www.discogs.com/release/15682812",
                     "msLink": "",
                     "msRating": "",
@@ -26539,7 +26539,7 @@ export default {
                 },
                 {
                     "album": "Безкровна муза",
-                    "albumLink": "https://open.spotify.com/albums/1EKSEv2Ykh4XRV0LG3MaWs",
+                    "albumLink": "https://open.spotify.com/album/1EKSEv2Ykh4XRV0LG3MaWs",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -26554,7 +26554,7 @@ export default {
             "albums": [
                 {
                     "album": "Abstract Senses",
-                    "albumLink": "https://open.spotify.com/albums/6lOkH6wvG8UOIBCCeq6ggO",
+                    "albumLink": "https://open.spotify.com/album/6lOkH6wvG8UOIBCCeq6ggO",
                     "discogsLink": "https://www.discogs.com/master/672968",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5834&band_id=1169&bandname=Ad+Vitam+Aeternam",
                     "msRating": "",
@@ -26635,7 +26635,7 @@ export default {
                 },
                 {
                     "album": "A Veiled Empire",
-                    "albumLink": "https://open.spotify.com/albums/1G0f96EfprrfmSHb2Zo3k6",
+                    "albumLink": "https://open.spotify.com/album/1G0f96EfprrfmSHb2Zo3k6",
                     "discogsLink": "https://www.discogs.com/release/5664632",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4795&band_id=567&bandname=Celestial+Crown",
                     "msRating": "7.7",
@@ -26644,7 +26644,7 @@ export default {
                 },
                 {
                     "album": "Suicidal Angels",
-                    "albumLink": "https://open.spotify.com/albums/2GH3bcS6sDNaPq7GVqzen0",
+                    "albumLink": "https://open.spotify.com/album/2GH3bcS6sDNaPq7GVqzen0",
                     "discogsLink": "https://www.discogs.com/release/6847893",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4780&band_id=567&bandname=Celestial+Crown",
                     "msRating": "8.3",
@@ -26653,7 +26653,7 @@ export default {
                 },
                 {
                     "album": "Ascending...",
-                    "albumLink": "https://open.spotify.com/albums/0FiyPzbzAjTo18nXtQsVgO",
+                    "albumLink": "https://open.spotify.com/album/0FiyPzbzAjTo18nXtQsVgO",
                     "discogsLink": "https://www.discogs.com/release/8239082",
                     "msLink": "",
                     "msRating": "",
@@ -26788,7 +26788,7 @@ export default {
             "albums": [
                 {
                     "album": "Fragments",
-                    "albumLink": "https://open.spotify.com/albums/68eZ7nYnOioAq6brHTZpHn",
+                    "albumLink": "https://open.spotify.com/album/68eZ7nYnOioAq6brHTZpHn",
                     "discogsLink": "https://www.discogs.com/release/4040063",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=41339&band_id=4817&bandname=Helevorn",
                     "msRating": "7.9",
@@ -26797,7 +26797,7 @@ export default {
                 },
                 {
                     "album": "Forthcoming Displeasures",
-                    "albumLink": "https://open.spotify.com/albums/2jFS93oqhWp9ydd4fHmaDX",
+                    "albumLink": "https://open.spotify.com/album/2jFS93oqhWp9ydd4fHmaDX",
                     "discogsLink": "https://www.discogs.com/master/1401531",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=41340&band_id=4817&bandname=Helevorn",
                     "msRating": "8.4",
@@ -26806,7 +26806,7 @@ export default {
                 },
                 {
                     "album": "Compassion Forlorn",
-                    "albumLink": "https://open.spotify.com/albums/60j2oBguzyhHX8pR114PQH",
+                    "albumLink": "https://open.spotify.com/album/60j2oBguzyhHX8pR114PQH",
                     "discogsLink": "https://www.discogs.com/master/795713",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=78237&band_id=4817&bandname=Helevorn",
                     "msRating": "8.5",
@@ -26815,7 +26815,7 @@ export default {
                 },
                 {
                     "album": "Aamamata",
-                    "albumLink": "https://open.spotify.com/albums/1Ek3ffkfTxqfZt62KIh9Yk",
+                    "albumLink": "https://open.spotify.com/album/1Ek3ffkfTxqfZt62KIh9Yk",
                     "discogsLink": "https://www.discogs.com/master/1481419",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96201&band_id=4817&bandname=Helevorn",
                     "msRating": "8.1",
@@ -26830,7 +26830,7 @@ export default {
             "albums": [
                 {
                     "album": "Wintermist",
-                    "albumLink": "https://open.spotify.com/albums/4oOEy0tNwuuByha47GQHnv",
+                    "albumLink": "https://open.spotify.com/album/4oOEy0tNwuuByha47GQHnv",
                     "discogsLink": "https://www.discogs.com/release/5694787",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=87806&band_id=9567&bandname=Keltgar",
                     "msRating": "",
@@ -26845,7 +26845,7 @@ export default {
             "albums": [
                 {
                     "album": "My Grief",
-                    "albumLink": "https://open.spotify.com/albums/1TgXeTSndiNZKOG99eljNv",
+                    "albumLink": "https://open.spotify.com/album/1TgXeTSndiNZKOG99eljNv",
                     "discogsLink": "https://www.discogs.com/release/10850238",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=163335&band_id=20649&bandname=Mistralth",
                     "msRating": "",
@@ -26854,7 +26854,7 @@ export default {
                 },
                 {
                     "album": "But a Walking Shadow",
-                    "albumLink": "https://open.spotify.com/albums/48tHGhdWnyASYOLXVHhe1X",
+                    "albumLink": "https://open.spotify.com/album/48tHGhdWnyASYOLXVHhe1X",
                     "discogsLink": "https://www.discogs.com/master/1544365",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=163336&band_id=20649&bandname=Mistralth",
                     "msRating": "",
@@ -26869,7 +26869,7 @@ export default {
             "albums": [
                 {
                     "album": "The Cold Lament",
-                    "albumLink": "https://open.spotify.com/albums/20U2wP3eTBUXkoZ9nPRHoZ",
+                    "albumLink": "https://open.spotify.com/album/20U2wP3eTBUXkoZ9nPRHoZ",
                     "discogsLink": "https://www.discogs.com/release/8589376",
                     "msLink": "",
                     "msRating": "",
@@ -26878,7 +26878,7 @@ export default {
                 },
                 {
                     "album": "The Rustle of the Leaves",
-                    "albumLink": "https://open.spotify.com/albums/5qmqpmtgffwydsZjwGx2zY",
+                    "albumLink": "https://open.spotify.com/album/5qmqpmtgffwydsZjwGx2zY",
                     "discogsLink": "https://www.discogs.com/release/8589434",
                     "msLink": "",
                     "msRating": "",
@@ -26893,7 +26893,7 @@ export default {
             "albums": [
                 {
                     "album": "Ismeretlen földeken",
-                    "albumLink": "https://open.spotify.com/albums/5kYf2R0OF0nrTmVTcoYVh5",
+                    "albumLink": "https://open.spotify.com/album/5kYf2R0OF0nrTmVTcoYVh5",
                     "discogsLink": "https://www.discogs.com/master/472459",
                     "msLink": "",
                     "msRating": "",
@@ -26959,7 +26959,7 @@ export default {
                 },
                 {
                     "album": "Salvation",
-                    "albumLink": "https://open.spotify.com/albums/1rPyIdXiHPnKPPWnG1NDq2",
+                    "albumLink": "https://open.spotify.com/album/1rPyIdXiHPnKPPWnG1NDq2",
                     "discogsLink": "https://www.discogs.com/release/16243675",
                     "msLink": "",
                     "msRating": "",
@@ -26974,7 +26974,7 @@ export default {
             "albums": [
                 {
                     "album": "Wait till the Time Is R.I.P.",
-                    "albumLink": "https://open.spotify.com/albums/0GEtraqe1B1j6wAAC2oDGa",
+                    "albumLink": "https://open.spotify.com/album/0GEtraqe1B1j6wAAC2oDGa",
                     "discogsLink": "https://www.discogs.com/release/2427261",
                     "msLink": "",
                     "msRating": "",
@@ -27004,7 +27004,7 @@ export default {
             "albums": [
                 {
                     "album": "Fragile Monuments",
-                    "albumLink": "https://open.spotify.com/albums/75zeRx3l7jlIDh6WK8UDMR",
+                    "albumLink": "https://open.spotify.com/album/75zeRx3l7jlIDh6WK8UDMR",
                     "discogsLink": "https://www.discogs.com/master/1461120",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=16473&band_id=2307&bandname=Tales+Of+Dark...",
                     "msRating": "8.4",
@@ -27013,7 +27013,7 @@ export default {
                 },
                 {
                     "album": "Perdition Calls",
-                    "albumLink": "https://open.spotify.com/albums/34y19HZBRIYqtjFNXNck8V",
+                    "albumLink": "https://open.spotify.com/album/34y19HZBRIYqtjFNXNck8V",
                     "discogsLink": "https://www.discogs.com/release/1818991",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=34355&band_id=2307&bandname=Tales+Of+Dark...",
                     "msRating": "8.5",
@@ -27028,7 +27028,7 @@ export default {
             "albums": [
                 {
                     "album": "25th Hour; Bleeding",
-                    "albumLink": "https://open.spotify.com/albums/5aYn3X5y7hIbVanjIIwUPs",
+                    "albumLink": "https://open.spotify.com/album/5aYn3X5y7hIbVanjIIwUPs",
                     "discogsLink": "https://www.discogs.com/master/366894",
                     "msLink": "",
                     "msRating": "",
@@ -27037,7 +27037,7 @@ export default {
                 },
                 {
                     "album": "Still at Arms Length",
-                    "albumLink": "https://open.spotify.com/albums/1BZeKCohcuObDbWZVopI9r",
+                    "albumLink": "https://open.spotify.com/album/1BZeKCohcuObDbWZVopI9r",
                     "discogsLink": "https://www.discogs.com/master/230978",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1352&band_id=192&bandname=The+Provenance",
                     "msRating": "8.3",
@@ -27046,7 +27046,7 @@ export default {
                 },
                 {
                     "album": "How Would You Like to Be Spat At",
-                    "albumLink": "https://open.spotify.com/albums/5pXuTmLethST7WSiOkMEJn",
+                    "albumLink": "https://open.spotify.com/album/5pXuTmLethST7WSiOkMEJn",
                     "discogsLink": "https://www.discogs.com/master/230974",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2756&band_id=192&bandname=The+Provenance",
                     "msRating": "7.8",
@@ -27055,7 +27055,7 @@ export default {
                 },
                 {
                     "album": "Red Flags",
-                    "albumLink": "https://open.spotify.com/albums/7uQHpvYszYbmRI4ivjk4Nk",
+                    "albumLink": "https://open.spotify.com/album/7uQHpvYszYbmRI4ivjk4Nk",
                     "discogsLink": "https://www.discogs.com/master/204574",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=14023&band_id=192&bandname=The+Provenance",
                     "msRating": "8.2",
@@ -27157,7 +27157,7 @@ export default {
             "albums": [
                 {
                     "album": "Fearless Dimension",
-                    "albumLink": "https://open.spotify.com/albums/4Xj7s70iyrsbCdUmbOAP9g",
+                    "albumLink": "https://open.spotify.com/album/4Xj7s70iyrsbCdUmbOAP9g",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27181,7 +27181,7 @@ export default {
             "albums": [
                 {
                     "album": "Ascension",
-                    "albumLink": "https://open.spotify.com/albums/5QSmaRjCYVQVOVyH38BliT",
+                    "albumLink": "https://open.spotify.com/album/5QSmaRjCYVQVOVyH38BliT",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27229,7 +27229,7 @@ export default {
                 },
                 {
                     "album": "Neverday",
-                    "albumLink": "https://open.spotify.com/albums/4K9m1RTRjQ1iESC4OdITjE",
+                    "albumLink": "https://open.spotify.com/album/4K9m1RTRjQ1iESC4OdITjE",
                     "discogsLink": "https://www.discogs.com/release/8675909",
                     "msLink": "",
                     "msRating": "",
@@ -27271,7 +27271,7 @@ export default {
                 },
                 {
                     "album": "Abeyance",
-                    "albumLink": "https://open.spotify.com/albums/6Mxye3gR7aIzuWQmD88Pzd",
+                    "albumLink": "https://open.spotify.com/album/6Mxye3gR7aIzuWQmD88Pzd",
                     "discogsLink": "https://www.discogs.com/release/4553374",
                     "msLink": "",
                     "msRating": "",
@@ -27325,7 +27325,7 @@ export default {
                 },
                 {
                     "album": "St. Portal",
-                    "albumLink": "https://open.spotify.com/albums/68srbFQ2sSD9SW8EC3ZAlC",
+                    "albumLink": "https://open.spotify.com/album/68srbFQ2sSD9SW8EC3ZAlC",
                     "discogsLink": "https://www.discogs.com/release/19995325",
                     "msLink": "",
                     "msRating": "",
@@ -27334,7 +27334,7 @@ export default {
                 },
                 {
                     "album": "Beastlake",
-                    "albumLink": "https://open.spotify.com/albums/7uvOBZTaDc73luR88tgWHu",
+                    "albumLink": "https://open.spotify.com/album/7uvOBZTaDc73luR88tgWHu",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27343,7 +27343,7 @@ export default {
                 },
                 {
                     "album": "Branches and Hooks",
-                    "albumLink": "https://open.spotify.com/albums/7KTM0HarqMaZDCn3eYfPTZ",
+                    "albumLink": "https://open.spotify.com/album/7KTM0HarqMaZDCn3eYfPTZ",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27361,7 +27361,7 @@ export default {
                 },
                 {
                     "album": "Grotesque",
-                    "albumLink": "https://open.spotify.com/albums/7u3TI2EZV8FxKzlOZRaPlH",
+                    "albumLink": "https://open.spotify.com/album/7u3TI2EZV8FxKzlOZRaPlH",
                     "discogsLink": "https://www.discogs.com/master/1534115",
                     "msLink": "",
                     "msRating": "",
@@ -27379,7 +27379,7 @@ export default {
                 },
                 {
                     "album": "Waiting for Darkness",
-                    "albumLink": "https://open.spotify.com/albums/4WrjMgYiZiOEuL29mLnfMQ",
+                    "albumLink": "https://open.spotify.com/album/4WrjMgYiZiOEuL29mLnfMQ",
                     "discogsLink": "https://www.discogs.com/release/21231058",
                     "msLink": "",
                     "msRating": "",
@@ -27388,7 +27388,7 @@ export default {
                 },
                 {
                     "album": "Брутальный блюз",
-                    "albumLink": "https://open.spotify.com/albums/5B9kOxQTvny1uQkHyFjlGo",
+                    "albumLink": "https://open.spotify.com/album/5B9kOxQTvny1uQkHyFjlGo",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27397,7 +27397,7 @@ export default {
                 },
                 {
                     "album": "Чернъ",
-                    "albumLink": "https://open.spotify.com/albums/54Z3cy4bAn03RCAoOV9Sor",
+                    "albumLink": "https://open.spotify.com/album/54Z3cy4bAn03RCAoOV9Sor",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27421,7 +27421,7 @@ export default {
                 },
                 {
                     "album": "À tout jamais",
-                    "albumLink": "https://open.spotify.com/albums/3WOHWmaaZ4b2Q5AYbDoGv4",
+                    "albumLink": "https://open.spotify.com/album/3WOHWmaaZ4b2Q5AYbDoGv4",
                     "discogsLink": "https://www.discogs.com/release/13819216",
                     "msLink": "",
                     "msRating": "",
@@ -27460,7 +27460,7 @@ export default {
                 },
                 {
                     "album": "Nightmare Diaries",
-                    "albumLink": "https://open.spotify.com/albums/5LSv3pRIF411MSYiN5uLOl",
+                    "albumLink": "https://open.spotify.com/album/5LSv3pRIF411MSYiN5uLOl",
                     "discogsLink": "https://www.discogs.com/master/658489",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=48576&band_id=5608&bandname=Ancestral+Legacy",
                     "msRating": "8.4",
@@ -27469,7 +27469,7 @@ export default {
                 },
                 {
                     "album": "Terminal",
-                    "albumLink": "https://open.spotify.com/albums/4A9bxyYTB6ZaKwQugOO8EO",
+                    "albumLink": "https://open.spotify.com/album/4A9bxyYTB6ZaKwQugOO8EO",
                     "discogsLink": "https://www.discogs.com/master/735419",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=78434&band_id=5608&bandname=Ancestral+Legacy",
                     "msRating": "8.3",
@@ -27484,7 +27484,7 @@ export default {
             "albums": [
                 {
                     "album": "Religious as Our Methods",
-                    "albumLink": "https://open.spotify.com/albums/2mKTdJ8F3a0HvpFUxCpIuF",
+                    "albumLink": "https://open.spotify.com/album/2mKTdJ8F3a0HvpFUxCpIuF",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27493,7 +27493,7 @@ export default {
                 },
                 {
                     "album": "Propedeutika ad Contritionem (Vestram!)",
-                    "albumLink": "https://open.spotify.com/albums/4G4OOYMfwUV9scmKGJVd0r",
+                    "albumLink": "https://open.spotify.com/album/4G4OOYMfwUV9scmKGJVd0r",
                     "discogsLink": "https://www.discogs.com/master/2453872",
                     "msLink": "",
                     "msRating": "",
@@ -27511,7 +27511,7 @@ export default {
                 },
                 {
                     "album": "In Sanctitate, Benignitatis Non Miseretur!",
-                    "albumLink": "https://open.spotify.com/albums/1sUDywaVWJjlQZVyEMlYQp",
+                    "albumLink": "https://open.spotify.com/album/1sUDywaVWJjlQZVyEMlYQp",
                     "discogsLink": "https://www.discogs.com/master/1619930",
                     "msLink": "",
                     "msRating": "",
@@ -27535,7 +27535,7 @@ export default {
                 },
                 {
                     "album": "My Endless Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/11WsvFJkuNUn3WiwUicw5R",
+                    "albumLink": "https://open.spotify.com/album/11WsvFJkuNUn3WiwUicw5R",
                     "discogsLink": "https://www.discogs.com/release/6367763",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=29827&band_id=1265&bandname=Diathra",
                     "msRating": "7.7",
@@ -27577,7 +27577,7 @@ export default {
                 },
                 {
                     "album": "Ambivalent Ecstasy",
-                    "albumLink": "https://open.spotify.com/albums/5V5Mk1GClZKTVa1e1vbBzJ",
+                    "albumLink": "https://open.spotify.com/album/5V5Mk1GClZKTVa1e1vbBzJ",
                     "discogsLink": "https://www.discogs.com/release/4597255",
                     "msLink": "",
                     "msRating": "",
@@ -27592,7 +27592,7 @@ export default {
             "albums": [
                 {
                     "album": "Love Is Dead",
-                    "albumLink": "https://open.spotify.com/albums/3wxsnsM0bV6ydnYa0gvLFH",
+                    "albumLink": "https://open.spotify.com/album/3wxsnsM0bV6ydnYa0gvLFH",
                     "discogsLink": "https://www.discogs.com/release/3811034",
                     "msLink": "",
                     "msRating": "",
@@ -27610,7 +27610,7 @@ export default {
                 },
                 {
                     "album": "Erotica 69",
-                    "albumLink": "https://open.spotify.com/albums/6sIA2W04K84vqyFyQdUUD2",
+                    "albumLink": "https://open.spotify.com/album/6sIA2W04K84vqyFyQdUUD2",
                     "discogsLink": "https://www.discogs.com/release/4349230",
                     "msLink": "",
                     "msRating": "",
@@ -27667,7 +27667,7 @@ export default {
             "albums": [
                 {
                     "album": "Sometimes We Have Wings...",
-                    "albumLink": "https://open.spotify.com/albums/1KbGyuIuQDPLIIJM5WVK9S",
+                    "albumLink": "https://open.spotify.com/album/1KbGyuIuQDPLIIJM5WVK9S",
                     "discogsLink": "https://www.discogs.com/master/1844436",
                     "msLink": "",
                     "msRating": "",
@@ -27676,7 +27676,7 @@ export default {
                 },
                 {
                     "album": "Unheard Prayer",
-                    "albumLink": "https://open.spotify.com/albums/05F8yRPcyN0ds4QXDbPtxb",
+                    "albumLink": "https://open.spotify.com/album/05F8yRPcyN0ds4QXDbPtxb",
                     "discogsLink": "https://www.discogs.com/release/6222457",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=80797&band_id=8685&bandname=Amederia",
                     "msRating": "8.4",
@@ -27691,7 +27691,7 @@ export default {
             "albums": [
                 {
                     "album": "Burdens",
-                    "albumLink": "https://open.spotify.com/albums/6rwxyZkU7zt17u0vnqjbLH",
+                    "albumLink": "https://open.spotify.com/album/6rwxyZkU7zt17u0vnqjbLH",
                     "discogsLink": "https://www.discogs.com/master/448983",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=31664&band_id=3851&bandname=Ava+Inferi",
                     "msRating": "7.5",
@@ -27700,7 +27700,7 @@ export default {
                 },
                 {
                     "album": "The Silhouette",
-                    "albumLink": "https://open.spotify.com/albums/5wLzp4XxVgta5RmhhVkaxA",
+                    "albumLink": "https://open.spotify.com/album/5wLzp4XxVgta5RmhhVkaxA",
                     "discogsLink": "https://www.discogs.com/master/725459",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=31665&band_id=3851&bandname=Ava+Inferi",
                     "msRating": "7.8",
@@ -27709,7 +27709,7 @@ export default {
                 },
                 {
                     "album": "Blood of Bacchus",
-                    "albumLink": "https://open.spotify.com/albums/1rF4MLdRNiFwk30GwuZBzn",
+                    "albumLink": "https://open.spotify.com/album/1rF4MLdRNiFwk30GwuZBzn",
                     "discogsLink": "https://www.discogs.com/master/630089",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=31666&band_id=3851&bandname=Ava+Inferi",
                     "msRating": "7.9",
@@ -27718,7 +27718,7 @@ export default {
                 },
                 {
                     "album": "Onyx",
-                    "albumLink": "https://open.spotify.com/albums/4japenwnEsKj0KLiTKRI99",
+                    "albumLink": "https://open.spotify.com/album/4japenwnEsKj0KLiTKRI99",
                     "discogsLink": "https://www.discogs.com/master/584392",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=41654&band_id=3851&bandname=Ava+Inferi",
                     "msRating": "7.9",
@@ -27733,7 +27733,7 @@ export default {
             "albums": [
                 {
                     "album": "Time?",
-                    "albumLink": "https://open.spotify.com/albums/0KZKP1v2qMUBUFHuZoP1a4",
+                    "albumLink": "https://open.spotify.com/album/0KZKP1v2qMUBUFHuZoP1a4",
                     "discogsLink": "https://www.discogs.com/release/2745804",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=50832&band_id=5872&bandname=Blinded+Rain",
                     "msRating": "",
@@ -27742,7 +27742,7 @@ export default {
                 },
                 {
                     "album": "Destination Unknown",
-                    "albumLink": "https://open.spotify.com/albums/6rCL82vsiyGJ980A3jUdbI",
+                    "albumLink": "https://open.spotify.com/album/6rCL82vsiyGJ980A3jUdbI",
                     "discogsLink": "https://www.discogs.com/release/10129846",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=50834&band_id=5872&bandname=Blinded+Rain",
                     "msRating": "",
@@ -27796,7 +27796,7 @@ export default {
             "albums": [
                 {
                     "album": "El delicado sonido del trueno",
-                    "albumLink": "https://open.spotify.com/albums/5AH0jimvOPGTGGDxkmjlyB",
+                    "albumLink": "https://open.spotify.com/album/5AH0jimvOPGTGGDxkmjlyB",
                     "discogsLink": "https://www.discogs.com/master/406702",
                     "msLink": "",
                     "msRating": "",
@@ -27805,7 +27805,7 @@ export default {
                 },
                 {
                     "album": "Oscuridad perpetua",
-                    "albumLink": "https://open.spotify.com/albums/5EzMr8jzPNDUMgrulOn6yi",
+                    "albumLink": "https://open.spotify.com/album/5EzMr8jzPNDUMgrulOn6yi",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -27880,7 +27880,7 @@ export default {
             "albums": [
                 {
                     "album": "Forever Fallen Darkness",
-                    "albumLink": "https://open.spotify.com/albums/73go22TteoOocQucgcdj7e",
+                    "albumLink": "https://open.spotify.com/album/73go22TteoOocQucgcdj7e",
                     "discogsLink": "https://www.discogs.com/release/8631249",
                     "msLink": "",
                     "msRating": "",
@@ -27898,7 +27898,7 @@ export default {
                 },
                 {
                     "album": "Opting for the Quasi​-​Steady State Cosmology",
-                    "albumLink": "https://open.spotify.com/albums/73zyEd5czrPfPZzb9Q95TJ",
+                    "albumLink": "https://open.spotify.com/album/73zyEd5czrPfPZzb9Q95TJ",
                     "discogsLink": "https://www.discogs.com/release/15198426",
                     "msLink": "",
                     "msRating": "",
@@ -27913,7 +27913,7 @@ export default {
             "albums": [
                 {
                     "album": "The Momentary Touches to the Depths",
-                    "albumLink": "https://open.spotify.com/albums/5c7BceXpqxGyS42KDjGlA2",
+                    "albumLink": "https://open.spotify.com/album/5c7BceXpqxGyS42KDjGlA2",
                     "discogsLink": "https://www.discogs.com/release/3700693",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51186&band_id=5004&bandname=Let+It+Flow",
                     "msRating": "",
@@ -27922,7 +27922,7 @@ export default {
                 },
                 {
                     "album": "Meanings",
-                    "albumLink": "https://open.spotify.com/albums/52EHy3mtBXn9btCnncf46L",
+                    "albumLink": "https://open.spotify.com/album/52EHy3mtBXn9btCnncf46L",
                     "discogsLink": "https://www.discogs.com/release/4856897",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=51185&band_id=5004&bandname=Let+It+Flow",
                     "msRating": "",
@@ -27937,7 +27937,7 @@ export default {
             "albums": [
                 {
                     "album": "The Poem - Crying My Grief to a Feeble Dawn",
-                    "albumLink": "https://open.spotify.com/albums/5lgwXnVryU65nSdL9AtWOh",
+                    "albumLink": "https://open.spotify.com/album/5lgwXnVryU65nSdL9AtWOh",
                     "discogsLink": "https://www.discogs.com/master/1938870",
                     "msLink": "",
                     "msRating": "",
@@ -27946,7 +27946,7 @@ export default {
                 },
                 {
                     "album": "Hymn for the Fallen",
-                    "albumLink": "https://open.spotify.com/albums/25siqSijzV1vqhGdbFhCTI",
+                    "albumLink": "https://open.spotify.com/album/25siqSijzV1vqhGdbFhCTI",
                     "discogsLink": "https://www.discogs.com/master/1108706",
                     "msLink": "",
                     "msRating": "",
@@ -27961,7 +27961,7 @@ export default {
             "albums": [
                 {
                     "album": "Salvation",
-                    "albumLink": "https://open.spotify.com/albums/6iBW7Wmm3z0A6pnMvC9kDF",
+                    "albumLink": "https://open.spotify.com/album/6iBW7Wmm3z0A6pnMvC9kDF",
                     "discogsLink": "https://www.discogs.com/release/10642215",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=130747&band_id=14649&bandname=Longed+For+Fusion",
                     "msRating": "",
@@ -28039,7 +28039,7 @@ export default {
                 },
                 {
                     "album": "Catch a Bird",
-                    "albumLink": "https://open.spotify.com/albums/4UOd7Z3HketNQcqbuAEK0W",
+                    "albumLink": "https://open.spotify.com/album/4UOd7Z3HketNQcqbuAEK0W",
                     "discogsLink": "https://www.discogs.com/release/13028923",
                     "msLink": "",
                     "msRating": "",
@@ -28054,7 +28054,7 @@ export default {
             "albums": [
                 {
                     "album": "Noche eterna",
-                    "albumLink": "https://open.spotify.com/albums/7hK5gF4IuNg49NPEctngeU",
+                    "albumLink": "https://open.spotify.com/album/7hK5gF4IuNg49NPEctngeU",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -28063,7 +28063,7 @@ export default {
                 },
                 {
                     "album": "Metamorfosis",
-                    "albumLink": "https://open.spotify.com/albums/7FHBXG1PGfzieEkmW2ZRwP",
+                    "albumLink": "https://open.spotify.com/album/7FHBXG1PGfzieEkmW2ZRwP",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -28078,7 +28078,7 @@ export default {
             "albums": [
                 {
                     "album": "Море отчаяния",
-                    "albumLink": "https://open.spotify.com/albums/67Z48bdLCMwDfbcRQfTE6Y",
+                    "albumLink": "https://open.spotify.com/album/67Z48bdLCMwDfbcRQfTE6Y",
                     "discogsLink": "https://www.discogs.com/master/939415",
                     "msLink": "",
                     "msRating": "",
@@ -28111,7 +28111,7 @@ export default {
             "albums": [
                 {
                     "album": "Rising from the Past",
-                    "albumLink": "https://open.spotify.com/albums/2wLRNJ3PCSCRvJ77UhOCtR",
+                    "albumLink": "https://open.spotify.com/album/2wLRNJ3PCSCRvJ77UhOCtR",
                     "discogsLink": "https://www.discogs.com/release/8538252",
                     "msLink": "",
                     "msRating": "",
@@ -28168,7 +28168,7 @@ export default {
             "albums": [
                 {
                     "album": "All Alone",
-                    "albumLink": "https://open.spotify.com/albums/16EqRTLGsraU9a96Edt2hc",
+                    "albumLink": "https://open.spotify.com/album/16EqRTLGsraU9a96Edt2hc",
                     "discogsLink": "https://www.discogs.com/release/1097389",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55008&band_id=6243&bandname=To+Cast+A+Shadow",
                     "msRating": "8.6",
@@ -28177,7 +28177,7 @@ export default {
                 },
                 {
                     "album": "In Memory Of",
-                    "albumLink": "https://open.spotify.com/albums/2q4Vi7vOyJzy5jSaXrqVfr",
+                    "albumLink": "https://open.spotify.com/album/2q4Vi7vOyJzy5jSaXrqVfr",
                     "discogsLink": "https://www.discogs.com/release/3236360",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55007&band_id=6243&bandname=To+Cast+A+Shadow",
                     "msRating": "8.3",
@@ -28186,7 +28186,7 @@ export default {
                 },
                 {
                     "album": "Winter's Embrace",
-                    "albumLink": "https://open.spotify.com/albums/4zfAqmCiHLN5UY8P2If6BP",
+                    "albumLink": "https://open.spotify.com/album/4zfAqmCiHLN5UY8P2If6BP",
                     "discogsLink": "https://www.discogs.com/release/8542260",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=89049&band_id=6243&bandname=To+Cast+A+Shadow",
                     "msRating": "7.6",
@@ -28201,7 +28201,7 @@ export default {
             "albums": [
                 {
                     "album": "Sleep Now, Quiet Forest",
-                    "albumLink": "https://open.spotify.com/albums/3EmZmQVjoVkj0HtsfA2ji1",
+                    "albumLink": "https://open.spotify.com/album/3EmZmQVjoVkj0HtsfA2ji1",
                     "discogsLink": "https://www.discogs.com/master/254318",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=23134&band_id=1463&bandname=Todesbonden",
                     "msRating": "8.1",
@@ -28246,7 +28246,7 @@ export default {
             "albums": [
                 {
                     "album": "Brother Wolf",
-                    "albumLink": "https://open.spotify.com/albums/73VL3M581KRvy13rARdTjb",
+                    "albumLink": "https://open.spotify.com/album/73VL3M581KRvy13rARdTjb",
                     "discogsLink": "https://www.discogs.com/release/2724507",
                     "msLink": "",
                     "msRating": "",
@@ -28261,7 +28261,7 @@ export default {
             "albums": [
                 {
                     "album": "Equilibrium, Mediocrity",
-                    "albumLink": "https://open.spotify.com/albums/4kAFYXR1Ix01N3Ce8PMSCb",
+                    "albumLink": "https://open.spotify.com/album/4kAFYXR1Ix01N3Ce8PMSCb",
                     "discogsLink": "https://www.discogs.com/release/16676913",
                     "msLink": "",
                     "msRating": "",
@@ -28291,7 +28291,7 @@ export default {
             "albums": [
                 {
                     "album": "Funeral Procession",
-                    "albumLink": "https://open.spotify.com/albums/74RIt0JBrd2ySeQcMLH6Wx",
+                    "albumLink": "https://open.spotify.com/album/74RIt0JBrd2ySeQcMLH6Wx",
                     "discogsLink": "https://www.discogs.com/master/507677",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=42521&band_id=4939&bandname=Consummatum+Est",
                     "msRating": "7.2",
@@ -28300,7 +28300,7 @@ export default {
                 },
                 {
                     "album": "Hypnagogia",
-                    "albumLink": "https://open.spotify.com/albums/0FgD2GD6wwyXvNTbbX7rzI",
+                    "albumLink": "https://open.spotify.com/album/0FgD2GD6wwyXvNTbbX7rzI",
                     "discogsLink": "https://www.discogs.com/release/3126364",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=42384&band_id=4939&bandname=Consummatum+Est",
                     "msRating": "8",
@@ -28330,7 +28330,7 @@ export default {
             "albums": [
                 {
                     "album": "I Am Silence",
-                    "albumLink": "https://open.spotify.com/albums/3AoaTWMyWjy5Im4aFHPFkb",
+                    "albumLink": "https://open.spotify.com/album/3AoaTWMyWjy5Im4aFHPFkb",
                     "discogsLink": "https://www.discogs.com/master/1160045",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=40087&band_id=4695&bandname=Evig+Natt",
                     "msRating": "8",
@@ -28339,7 +28339,7 @@ export default {
                 },
                 {
                     "album": "Darkland",
-                    "albumLink": "https://open.spotify.com/albums/3hZ22KRBBlfPfbpFK0stCy",
+                    "albumLink": "https://open.spotify.com/album/3hZ22KRBBlfPfbpFK0stCy",
                     "discogsLink": "https://www.discogs.com/release/3238607",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=40083&band_id=4695&bandname=Evig+Natt",
                     "msRating": "7.7",
@@ -28348,7 +28348,7 @@ export default {
                 },
                 {
                     "album": "Evig natt",
-                    "albumLink": "https://open.spotify.com/albums/26b4ZHWIP8GTwOqukON4GE",
+                    "albumLink": "https://open.spotify.com/album/26b4ZHWIP8GTwOqukON4GE",
                     "discogsLink": "https://www.discogs.com/release/8279155",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=88159&band_id=4695&bandname=Evig+Natt",
                     "msRating": "7.2",
@@ -28408,7 +28408,7 @@ export default {
             "albums": [
                 {
                     "album": "Inherit the Eden",
-                    "albumLink": "https://open.spotify.com/albums/7hx96FSZZKP1ZlfX0SPtSn",
+                    "albumLink": "https://open.spotify.com/album/7hx96FSZZKP1ZlfX0SPtSn",
                     "discogsLink": "https://www.discogs.com/master/560996",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=22830&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "8.3",
@@ -28417,7 +28417,7 @@ export default {
                 },
                 {
                     "album": "TEOTWAWKI",
-                    "albumLink": "https://open.spotify.com/albums/0wxBrrnEEtVShB5ah2Rtwx",
+                    "albumLink": "https://open.spotify.com/album/0wxBrrnEEtVShB5ah2Rtwx",
                     "discogsLink": "https://www.discogs.com/master/655165",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=36162&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.4",
@@ -28426,7 +28426,7 @@ export default {
                 },
                 {
                     "album": "At Every Door",
-                    "albumLink": "https://open.spotify.com/albums/4WpQKlnO5XMiqJFm38T0Sc",
+                    "albumLink": "https://open.spotify.com/album/4WpQKlnO5XMiqJFm38T0Sc",
                     "discogsLink": "https://www.discogs.com/release/4286312",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=62870&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.9",
@@ -28435,7 +28435,7 @@ export default {
                 },
                 {
                     "album": "Blackout Whiteout",
-                    "albumLink": "https://open.spotify.com/albums/5OAj8YqUpm2UNb0NdoZtAj",
+                    "albumLink": "https://open.spotify.com/album/5OAj8YqUpm2UNb0NdoZtAj",
                     "discogsLink": "https://www.discogs.com/master/948428",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=84235&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.3",
@@ -28444,7 +28444,7 @@ export default {
                 },
                 {
                     "album": "I Am Become",
-                    "albumLink": "https://open.spotify.com/albums/3P852oZjIV75F9VqcGupuB",
+                    "albumLink": "https://open.spotify.com/album/3P852oZjIV75F9VqcGupuB",
                     "discogsLink": "https://www.discogs.com/master/1280971",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=92920&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.8",
@@ -28453,7 +28453,7 @@ export default {
                 },
                 {
                     "album": "Into That Good Night",
-                    "albumLink": "https://open.spotify.com/albums/7nwCLeXnVF5PJxhYpfHI1M",
+                    "albumLink": "https://open.spotify.com/album/7nwCLeXnVF5PJxhYpfHI1M",
                     "discogsLink": "https://www.discogs.com/master/1655505",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=102905&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "8",
@@ -28462,7 +28462,7 @@ export default {
                 },
                 {
                     "album": "Skeleton Lake",
-                    "albumLink": "https://open.spotify.com/albums/095m87bxK0cgoRYsGm5e06",
+                    "albumLink": "https://open.spotify.com/album/095m87bxK0cgoRYsGm5e06",
                     "discogsLink": "https://www.discogs.com/master/2137246",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=130319&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.9",
@@ -28471,7 +28471,7 @@ export default {
                 },
                 {
                     "album": "The Garden",
-                    "albumLink": "https://open.spotify.com/albums/0zYPOV8BHIfUQv4T2mKgLW",
+                    "albumLink": "https://open.spotify.com/album/0zYPOV8BHIfUQv4T2mKgLW",
                     "discogsLink": "https://www.discogs.com/master/21145",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=156552&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "8",
@@ -28516,7 +28516,7 @@ export default {
             "albums": [
                 {
                     "album": "Угрюмые волны студёного моря",
-                    "albumLink": "https://open.spotify.com/albums/5vYJRdVORBU75NuZt27hM4",
+                    "albumLink": "https://open.spotify.com/album/5vYJRdVORBU75NuZt27hM4",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -28567,7 +28567,7 @@ export default {
                 },
                 {
                     "album": "The Last",
-                    "albumLink": "https://open.spotify.com/albums/1eYp2cYVj6YLWmYTGJbuhr",
+                    "albumLink": "https://open.spotify.com/album/1eYp2cYVj6YLWmYTGJbuhr",
                     "discogsLink": "https://www.discogs.com/master/230832",
                     "msLink": "",
                     "msRating": "",
@@ -28591,7 +28591,7 @@ export default {
             "albums": [
                 {
                     "album": "Shadow of Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/0vA5G2uLgymVzV8W25B83i",
+                    "albumLink": "https://open.spotify.com/album/0vA5G2uLgymVzV8W25B83i",
                     "discogsLink": "https://www.discogs.com/master/818826",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=37772&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "8.3",
@@ -28609,7 +28609,7 @@ export default {
                 },
                 {
                     "album": "A Garland of Tears",
-                    "albumLink": "https://open.spotify.com/albums/2SJFCwGdIW7KXBQRi16lzi",
+                    "albumLink": "https://open.spotify.com/album/2SJFCwGdIW7KXBQRi16lzi",
                     "discogsLink": "https://www.discogs.com/master/212961",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=36321&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "8.1",
@@ -28618,7 +28618,7 @@ export default {
                 },
                 {
                     "album": "IV Et Lux Perpetua",
-                    "albumLink": "https://open.spotify.com/albums/4o28jKlGLVDxh8PYvhzs1l",
+                    "albumLink": "https://open.spotify.com/album/4o28jKlGLVDxh8PYvhzs1l",
                     "discogsLink": "https://www.discogs.com/master/479572",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=40574&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "7.3",
@@ -28627,7 +28627,7 @@ export default {
                 },
                 {
                     "album": "Silver Under Midnight",
-                    "albumLink": "https://open.spotify.com/albums/7vCP6cutjxrGkaO8p3R1MC",
+                    "albumLink": "https://open.spotify.com/album/7vCP6cutjxrGkaO8p3R1MC",
                     "discogsLink": "https://www.discogs.com/release/5854199",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=76550&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "7.8",
@@ -28636,7 +28636,7 @@ export default {
                 },
                 {
                     "album": "Preservation Restoration Reconstruction",
-                    "albumLink": "https://open.spotify.com/albums/0TaDEYYb5DyHAegQXgtg87",
+                    "albumLink": "https://open.spotify.com/album/0TaDEYYb5DyHAegQXgtg87",
                     "discogsLink": "https://www.discogs.com/master/751395",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=76551&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "5.5",
@@ -28645,7 +28645,7 @@ export default {
                 },
                 {
                     "album": "Eye of the Needle",
-                    "albumLink": "https://open.spotify.com/albums/6Eu4r4DLN8cbqach7zFjHC",
+                    "albumLink": "https://open.spotify.com/album/6Eu4r4DLN8cbqach7zFjHC",
                     "discogsLink": "https://www.discogs.com/master/706154",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=78693&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "5.3",
@@ -28654,7 +28654,7 @@ export default {
                 },
                 {
                     "album": "Damnatio Memoriae",
-                    "albumLink": "https://open.spotify.com/albums/00MRE48owCuONPJJWNCWPq",
+                    "albumLink": "https://open.spotify.com/album/00MRE48owCuONPJJWNCWPq",
                     "discogsLink": "https://www.discogs.com/master/882388",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=82162&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "7.5",
@@ -28663,7 +28663,7 @@ export default {
                 },
                 {
                     "album": "Invitation to Imperfection",
-                    "albumLink": "https://open.spotify.com/albums/3MffB5FT9bIORJUsYyanJi",
+                    "albumLink": "https://open.spotify.com/album/3MffB5FT9bIORJUsYyanJi",
                     "discogsLink": "https://www.discogs.com/master/1161344",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93768&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "6.3",
@@ -28672,7 +28672,7 @@ export default {
                 },
                 {
                     "album": "There Was Death",
-                    "albumLink": "https://open.spotify.com/albums/0iFVSzOjpRplnaTnnCdOHY",
+                    "albumLink": "https://open.spotify.com/album/0iFVSzOjpRplnaTnnCdOHY",
                     "discogsLink": "https://www.discogs.com/master/1412857",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93243&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "7.3",
@@ -28681,7 +28681,7 @@ export default {
                 },
                 {
                     "album": "Damnum Per Saeculorum",
-                    "albumLink": "https://open.spotify.com/albums/3c8KdJDcQCBQHHsaxXsNUp",
+                    "albumLink": "https://open.spotify.com/album/3c8KdJDcQCBQHHsaxXsNUp",
                     "discogsLink": "https://www.discogs.com/master/2022910",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117055&band_id=4388&bandname=My+Silent+Wake",
                     "msRating": "6.3",
@@ -28792,7 +28792,7 @@ export default {
                 },
                 {
                     "album": "Of Blood-Red and Gold",
-                    "albumLink": "https://open.spotify.com/albums/3x6JstdiQb8Qa8iQtBHwJE",
+                    "albumLink": "https://open.spotify.com/album/3x6JstdiQb8Qa8iQtBHwJE",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=81741&band_id=4469&bandname=Rain+Delay",
                     "msRating": "7.7",
@@ -28801,7 +28801,7 @@ export default {
                 },
                 {
                     "album": "Selenophilia",
-                    "albumLink": "https://open.spotify.com/albums/2SIQM8XRSIz8S1y3wZe3pQ",
+                    "albumLink": "https://open.spotify.com/album/2SIQM8XRSIz8S1y3wZe3pQ",
                     "discogsLink": "https://www.discogs.com/release/10388153",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93196&band_id=4469&bandname=Rain+Delay",
                     "msRating": "10",
@@ -28825,7 +28825,7 @@ export default {
             "albums": [
                 {
                     "album": "Amnio",
-                    "albumLink": "https://open.spotify.com/albums/6bcEPIwEXanUI5tVHkRGu6",
+                    "albumLink": "https://open.spotify.com/album/6bcEPIwEXanUI5tVHkRGu6",
                     "discogsLink": "https://www.discogs.com/release/4813135",
                     "msLink": "",
                     "msRating": "",
@@ -28864,7 +28864,7 @@ export default {
                 },
                 {
                     "album": "Contenebrat",
-                    "albumLink": "https://open.spotify.com/albums/1lXflhcaMXsEH9zpp5yVc0",
+                    "albumLink": "https://open.spotify.com/album/1lXflhcaMXsEH9zpp5yVc0",
                     "discogsLink": "https://www.discogs.com/release/8449889",
                     "msLink": "",
                     "msRating": "",
@@ -28888,7 +28888,7 @@ export default {
                 },
                 {
                     "album": "Smooth Comforts False",
-                    "albumLink": "https://open.spotify.com/albums/2dGnGyxXz2nXAxpuPzLDDf",
+                    "albumLink": "https://open.spotify.com/album/2dGnGyxXz2nXAxpuPzLDDf",
                     "discogsLink": "https://www.discogs.com/release/3536917",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55809&band_id=4295&bandname=Thee+Orakle",
                     "msRating": "7.9",
@@ -28936,7 +28936,7 @@ export default {
             "albums": [
                 {
                     "album": "Timefreeze",
-                    "albumLink": "https://open.spotify.com/albums/5RigwxWYKV9dzBFs5Yl7Pg",
+                    "albumLink": "https://open.spotify.com/album/5RigwxWYKV9dzBFs5Yl7Pg",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=120400&band_id=13080&bandname=Year+Zero",
                     "msRating": "",
@@ -28951,7 +28951,7 @@ export default {
             "albums": [
                 {
                     "album": "Rëvëürt",
-                    "albumLink": "https://open.spotify.com/albums/0m4gla03iOSpjwUudI3A3j",
+                    "albumLink": "https://open.spotify.com/album/0m4gla03iOSpjwUudI3A3j",
                     "discogsLink": "https://www.discogs.com/master/491930",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=64654&band_id=7246&bandname=%C3%96xx%C3%B6+X%C3%B6%C3%B6x",
                     "msRating": "8.1",
@@ -28960,7 +28960,7 @@ export default {
                 },
                 {
                     "album": "Nämïdäë",
-                    "albumLink": "https://open.spotify.com/albums/6hNipG3z2loGLwKyUVf36W",
+                    "albumLink": "https://open.spotify.com/album/6hNipG3z2loGLwKyUVf36W",
                     "discogsLink": "https://www.discogs.com/master/840724",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=81569&band_id=7246&bandname=%C3%96xx%C3%B6+X%C3%B6%C3%B6x",
                     "msRating": "7.7",
@@ -28969,7 +28969,7 @@ export default {
                 },
                 {
                     "album": "Ÿ",
-                    "albumLink": "https://open.spotify.com/albums/4H1xQgc5bHSRxYB5BjVWta",
+                    "albumLink": "https://open.spotify.com/album/4H1xQgc5bHSRxYB5BjVWta",
                     "discogsLink": "https://www.discogs.com/master/1646759",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=104560&band_id=7246&bandname=%C3%96xx%C3%B6+X%C3%B6%C3%B6x",
                     "msRating": "7.9",
@@ -28993,7 +28993,7 @@ export default {
                 },
                 {
                     "album": "Шторм времён",
-                    "albumLink": "https://open.spotify.com/albums/6GrZu78qdRh5JnFE9O93Zd",
+                    "albumLink": "https://open.spotify.com/album/6GrZu78qdRh5JnFE9O93Zd",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -29074,7 +29074,7 @@ export default {
             "albums": [
                 {
                     "album": "Escape to the Dreamlands",
-                    "albumLink": "https://open.spotify.com/albums/5wPbtcQ9Y4yrDYTD2nWOGT",
+                    "albumLink": "https://open.spotify.com/album/5wPbtcQ9Y4yrDYTD2nWOGT",
                     "discogsLink": "https://www.discogs.com/release/3639179",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=70240&band_id=7772&bandname=Evoke+Thy+Lords",
                     "msRating": "",
@@ -29083,7 +29083,7 @@ export default {
                 },
                 {
                     "album": "Drunken Tales",
-                    "albumLink": "https://open.spotify.com/albums/0gjX9zG2HKcXFj3yyWt1K2",
+                    "albumLink": "https://open.spotify.com/album/0gjX9zG2HKcXFj3yyWt1K2",
                     "discogsLink": "https://www.discogs.com/release/4259963",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=70239&band_id=7772&bandname=Evoke+Thy+Lords",
                     "msRating": "",
@@ -29092,7 +29092,7 @@ export default {
                 },
                 {
                     "album": "Boys! Raise Giant Mushrooms in Your Cellar!",
-                    "albumLink": "https://open.spotify.com/albums/2yugb2WlS1KNVV2pzB3R9T",
+                    "albumLink": "https://open.spotify.com/album/2yugb2WlS1KNVV2pzB3R9T",
                     "discogsLink": "https://www.discogs.com/release/6810094",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=81738&band_id=7772&bandname=Evoke+Thy+Lords",
                     "msRating": "",
@@ -29101,7 +29101,7 @@ export default {
                 },
                 {
                     "album": "Lifestories",
-                    "albumLink": "https://open.spotify.com/albums/4xh1BKq1W29DZRbeOYlLmm",
+                    "albumLink": "https://open.spotify.com/album/4xh1BKq1W29DZRbeOYlLmm",
                     "discogsLink": "https://www.discogs.com/release/10135740",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=91598&band_id=7772&bandname=Evoke+Thy+Lords",
                     "msRating": "",
@@ -29116,7 +29116,7 @@ export default {
             "albums": [
                 {
                     "album": "Delusion",
-                    "albumLink": "https://open.spotify.com/albums/7nUJKY7o6IFjm0RgElUegr",
+                    "albumLink": "https://open.spotify.com/album/7nUJKY7o6IFjm0RgElUegr",
                     "discogsLink": "https://www.discogs.com/master/970481",
                     "msLink": "",
                     "msRating": "",
@@ -29188,7 +29188,7 @@ export default {
                 },
                 {
                     "album": "Deep Blue Phoenix",
-                    "albumLink": "https://open.spotify.com/albums/7arEHlkAZfKNoClBsT4866",
+                    "albumLink": "https://open.spotify.com/album/7arEHlkAZfKNoClBsT4866",
                     "discogsLink": "https://www.discogs.com/release/18861229",
                     "msLink": "",
                     "msRating": "",
@@ -29197,7 +29197,7 @@ export default {
                 },
                 {
                     "album": "Kaliningrad",
-                    "albumLink": "https://open.spotify.com/albums/0TbX5h0bfcVZVBhfeKC6Kh",
+                    "albumLink": "https://open.spotify.com/album/0TbX5h0bfcVZVBhfeKC6Kh",
                     "discogsLink": "https://www.discogs.com/master/1789452",
                     "msLink": "",
                     "msRating": "",
@@ -29212,7 +29212,7 @@ export default {
             "albums": [
                 {
                     "album": "A Day in Venice",
-                    "albumLink": "https://open.spotify.com/albums/4jNXP1xrv2LYLY6w7cQLje",
+                    "albumLink": "https://open.spotify.com/album/4jNXP1xrv2LYLY6w7cQLje",
                     "discogsLink": "https://www.discogs.com/master/746886",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=157749&band_id=19595&bandname=A+Day+In+Venice",
                     "msRating": "8",
@@ -29221,7 +29221,7 @@ export default {
                 },
                 {
                     "album": "III",
-                    "albumLink": "https://open.spotify.com/albums/2LzxmtTTzcwdE2ywspuWP7",
+                    "albumLink": "https://open.spotify.com/album/2LzxmtTTzcwdE2ywspuWP7",
                     "discogsLink": "https://www.discogs.com/master/47701",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=157750&band_id=19595&bandname=A+Day+In+Venice",
                     "msRating": "",
@@ -29260,7 +29260,7 @@ export default {
             "albums": [
                 {
                     "album": "Licking Wounds",
-                    "albumLink": "https://open.spotify.com/albums/4Y6hws3EgEnXEK4QW7FV0q",
+                    "albumLink": "https://open.spotify.com/album/4Y6hws3EgEnXEK4QW7FV0q",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -29269,7 +29269,7 @@ export default {
                 },
                 {
                     "album": "Avelyats",
-                    "albumLink": "https://open.spotify.com/albums/3ipdbcYmIg8mI7nbmkQeDK",
+                    "albumLink": "https://open.spotify.com/album/3ipdbcYmIg8mI7nbmkQeDK",
                     "discogsLink": "https://www.discogs.com/release/16219301",
                     "msLink": "",
                     "msRating": "",
@@ -29284,7 +29284,7 @@ export default {
             "albums": [
                 {
                     "album": "Witch-Heart",
-                    "albumLink": "https://open.spotify.com/albums/2uxxV4Ol1cQM7tEhrjdXzo",
+                    "albumLink": "https://open.spotify.com/album/2uxxV4Ol1cQM7tEhrjdXzo",
                     "discogsLink": "https://www.discogs.com/release/9356561",
                     "msLink": "",
                     "msRating": "",
@@ -29299,7 +29299,7 @@ export default {
             "albums": [
                 {
                     "album": "Первая слеза осени",
-                    "albumLink": "https://open.spotify.com/albums/2nCvG14KC2wZ6LUbIdcnVs",
+                    "albumLink": "https://open.spotify.com/album/2nCvG14KC2wZ6LUbIdcnVs",
                     "discogsLink": "https://www.discogs.com/release/3984576",
                     "msLink": "",
                     "msRating": "",
@@ -29329,7 +29329,7 @@ export default {
             "albums": [
                 {
                     "album": "Alms & Avarice",
-                    "albumLink": "https://open.spotify.com/albums/6QKLVoRr9XZqAlfYjNNdln",
+                    "albumLink": "https://open.spotify.com/album/6QKLVoRr9XZqAlfYjNNdln",
                     "discogsLink": "https://www.discogs.com/master/1406081",
                     "msLink": "",
                     "msRating": "",
@@ -29338,7 +29338,7 @@ export default {
                 },
                 {
                     "album": "Hymns for the Vanquished",
-                    "albumLink": "https://open.spotify.com/albums/08uymYT7wcPtSbybchtkEj",
+                    "albumLink": "https://open.spotify.com/album/08uymYT7wcPtSbybchtkEj",
                     "discogsLink": "https://www.discogs.com/release/12373054",
                     "msLink": "",
                     "msRating": "",
@@ -29353,7 +29353,7 @@ export default {
             "albums": [
                 {
                     "album": "Unlit",
-                    "albumLink": "https://open.spotify.com/albums/4amZ2ivCiC0WqG3A00wuK0",
+                    "albumLink": "https://open.spotify.com/album/4amZ2ivCiC0WqG3A00wuK0",
                     "discogsLink": "https://www.discogs.com/release/7137092",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=80990&band_id=8720&bandname=Crimson+Swan",
                     "msRating": "8.3",
@@ -29368,7 +29368,7 @@ export default {
             "albums": [
                 {
                     "album": "Fortitude",
-                    "albumLink": "https://open.spotify.com/albums/5jDAqhya8Z2J5UiXOYnkT6",
+                    "albumLink": "https://open.spotify.com/album/5jDAqhya8Z2J5UiXOYnkT6",
                     "discogsLink": "https://www.discogs.com/master/2851456",
                     "msLink": "",
                     "msRating": "",
@@ -29377,7 +29377,7 @@ export default {
                 },
                 {
                     "album": "Of Sun and Moon",
-                    "albumLink": "https://open.spotify.com/albums/62bAFRROSLsrnl22S4QToF",
+                    "albumLink": "https://open.spotify.com/album/62bAFRROSLsrnl22S4QToF",
                     "discogsLink": "https://www.discogs.com/release/24837263",
                     "msLink": "",
                     "msRating": "",
@@ -29392,7 +29392,7 @@ export default {
             "albums": [
                 {
                     "album": "Forever Fallen",
-                    "albumLink": "https://open.spotify.com/albums/6kycehdVIYU5peVEw99lpw",
+                    "albumLink": "https://open.spotify.com/album/6kycehdVIYU5peVEw99lpw",
                     "discogsLink": "https://www.discogs.com/release/8090948",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=80145&band_id=8596&bandname=Edenfall",
                     "msRating": "9",
@@ -29401,7 +29401,7 @@ export default {
                 },
                 {
                     "album": "Under Sultry Moons and Velvet Skies",
-                    "albumLink": "https://open.spotify.com/albums/4RFEwbzyeKB16W4siAEnPq",
+                    "albumLink": "https://open.spotify.com/album/4RFEwbzyeKB16W4siAEnPq",
                     "discogsLink": "https://www.discogs.com/release/7845802",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=80146&band_id=8596&bandname=Edenfall",
                     "msRating": "8.5",
@@ -29416,7 +29416,7 @@ export default {
             "albums": [
                 {
                     "album": "Winter Shades",
-                    "albumLink": "https://open.spotify.com/albums/16crvbOlr7DNiCRTgIO0pd",
+                    "albumLink": "https://open.spotify.com/album/16crvbOlr7DNiCRTgIO0pd",
                     "discogsLink": "https://www.discogs.com/master/749945",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63285&band_id=7102&bandname=Edenian",
                     "msRating": "7.7",
@@ -29425,7 +29425,7 @@ export default {
                 },
                 {
                     "album": "Rise of the Nephilim",
-                    "albumLink": "https://open.spotify.com/albums/2oktHSOpl65VUG7b8n4TGH",
+                    "albumLink": "https://open.spotify.com/album/2oktHSOpl65VUG7b8n4TGH",
                     "discogsLink": "https://www.discogs.com/master/754458",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=74575&band_id=7102&bandname=Edenian",
                     "msRating": "8.7",
@@ -29440,7 +29440,7 @@ export default {
             "albums": [
                 {
                     "album": "Beyond Light",
-                    "albumLink": "https://open.spotify.com/albums/5xMJI28rvGvPuaOoHvXlKL",
+                    "albumLink": "https://open.spotify.com/album/5xMJI28rvGvPuaOoHvXlKL",
                     "discogsLink": "https://www.discogs.com/release/13284643",
                     "msLink": "",
                     "msRating": "",
@@ -29470,7 +29470,7 @@ export default {
             "albums": [
                 {
                     "album": "Requiem",
-                    "albumLink": "https://open.spotify.com/albums/1KDZJAtCROaQZnUgeSBz53",
+                    "albumLink": "https://open.spotify.com/album/1KDZJAtCROaQZnUgeSBz53",
                     "discogsLink": "https://www.discogs.com/master/336516",
                     "msLink": "",
                     "msRating": "",
@@ -29494,7 +29494,7 @@ export default {
                 },
                 {
                     "album": "Aurore",
-                    "albumLink": "https://open.spotify.com/albums/72jRBEFS2b4KJ49wEr5nM7",
+                    "albumLink": "https://open.spotify.com/album/72jRBEFS2b4KJ49wEr5nM7",
                     "discogsLink": "https://www.discogs.com/release/22323445",
                     "msLink": "",
                     "msRating": "",
@@ -29524,7 +29524,7 @@ export default {
             "albums": [
                 {
                     "album": "On Death",
-                    "albumLink": "https://open.spotify.com/albums/4IS9dBAQH6IZRlGwRJ2cyR",
+                    "albumLink": "https://open.spotify.com/album/4IS9dBAQH6IZRlGwRJ2cyR",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -29539,7 +29539,7 @@ export default {
             "albums": [
                 {
                     "album": "Salem's Wounds",
-                    "albumLink": "https://open.spotify.com/albums/6SIWHmAofxrP9HaQBDy3iR",
+                    "albumLink": "https://open.spotify.com/album/6SIWHmAofxrP9HaQBDy3iR",
                     "discogsLink": "https://www.discogs.com/master/816094",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=86765&band_id=9457&bandname=Karyn+Crisis%27+Gospel+Of+The+Witches",
                     "msRating": "8.6",
@@ -29548,7 +29548,7 @@ export default {
                 },
                 {
                     "album": "Covenant",
-                    "albumLink": "https://open.spotify.com/albums/79oN26BZPGRLsVShyjEO9Y",
+                    "albumLink": "https://open.spotify.com/album/79oN26BZPGRLsVShyjEO9Y",
                     "discogsLink": "https://www.discogs.com/master/1632736",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=104749&band_id=9457&bandname=Karyn+Crisis%27+Gospel+Of+The+Witches",
                     "msRating": "8",
@@ -29563,7 +29563,7 @@ export default {
             "albums": [
                 {
                     "album": "Endless Darkness of Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/4voEv72W75pWBFUTPxrr1P",
+                    "albumLink": "https://open.spotify.com/album/4voEv72W75pWBFUTPxrr1P",
                     "discogsLink": "https://www.discogs.com/master/1196205",
                     "msLink": "",
                     "msRating": "",
@@ -29572,7 +29572,7 @@ export default {
                 },
                 {
                     "album": "The Tree: Yarns of Life",
-                    "albumLink": "https://open.spotify.com/albums/3571R1qf8IL4FhD8CU7YLO",
+                    "albumLink": "https://open.spotify.com/album/3571R1qf8IL4FhD8CU7YLO",
                     "discogsLink": "https://www.discogs.com/release/15969576",
                     "msLink": "",
                     "msRating": "",
@@ -29587,7 +29587,7 @@ export default {
             "albums": [
                 {
                     "album": "Castus Lacrima",
-                    "albumLink": "https://open.spotify.com/albums/4KifmmjjOn9kIObhZrrvMp",
+                    "albumLink": "https://open.spotify.com/album/4KifmmjjOn9kIObhZrrvMp",
                     "discogsLink": "https://www.discogs.com/release/5073885",
                     "msLink": "",
                     "msRating": "",
@@ -29596,7 +29596,7 @@ export default {
                 },
                 {
                     "album": "Never Pretend",
-                    "albumLink": "https://open.spotify.com/albums/31lpgwkqh0SLy3rWhnnea6",
+                    "albumLink": "https://open.spotify.com/album/31lpgwkqh0SLy3rWhnnea6",
                     "discogsLink": "https://www.discogs.com/release/13238282",
                     "msLink": "",
                     "msRating": "",
@@ -29644,7 +29644,7 @@ export default {
                 },
                 {
                     "album": "Obligate Loneliness",
-                    "albumLink": "https://open.spotify.com/albums/5mm6t1ha163KwUDnNhOXfe",
+                    "albumLink": "https://open.spotify.com/album/5mm6t1ha163KwUDnNhOXfe",
                     "discogsLink": "https://www.discogs.com/release/15064600",
                     "msLink": "",
                     "msRating": "",
@@ -29668,7 +29668,7 @@ export default {
                 },
                 {
                     "album": "The Swallow and the Blue Bird",
-                    "albumLink": "https://open.spotify.com/albums/7HJm6UQkjVZXX8LBcJouWL",
+                    "albumLink": "https://open.spotify.com/album/7HJm6UQkjVZXX8LBcJouWL",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -29692,7 +29692,7 @@ export default {
                 },
                 {
                     "album": "Daedalus",
-                    "albumLink": "https://open.spotify.com/albums/1ug9sYBn5KPHuW8fyiAZ2Z",
+                    "albumLink": "https://open.spotify.com/album/1ug9sYBn5KPHuW8fyiAZ2Z",
                     "discogsLink": "https://www.discogs.com/release/15187507",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=101255&band_id=8916&bandname=Plague+Of+Stars",
                     "msRating": "7",
@@ -29722,7 +29722,7 @@ export default {
             "albums": [
                 {
                     "album": "Эта вечная зима...",
-                    "albumLink": "https://open.spotify.com/albums/6RJQn4wsRakDsD3cHG8oKr",
+                    "albumLink": "https://open.spotify.com/album/6RJQn4wsRakDsD3cHG8oKr",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -29737,7 +29737,7 @@ export default {
             "albums": [
                 {
                     "album": "Where the Serpents Grow",
-                    "albumLink": "https://open.spotify.com/albums/6oFNLcAkZJyKknsmGS8W5P",
+                    "albumLink": "https://open.spotify.com/album/6oFNLcAkZJyKknsmGS8W5P",
                     "discogsLink": "https://www.discogs.com/release/24471701",
                     "msLink": "",
                     "msRating": "",
@@ -29752,7 +29752,7 @@ export default {
             "albums": [
                 {
                     "album": "Lovelorn",
-                    "albumLink": "https://open.spotify.com/albums/1YpJyNlZr8TO8xSHnoytL9",
+                    "albumLink": "https://open.spotify.com/album/1YpJyNlZr8TO8xSHnoytL9",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -29767,7 +29767,7 @@ export default {
             "albums": [
                 {
                     "album": "Incarnation of Reality",
-                    "albumLink": "https://open.spotify.com/albums/4130OBdkeqA0Rs0HV7oeMS",
+                    "albumLink": "https://open.spotify.com/album/4130OBdkeqA0Rs0HV7oeMS",
                     "discogsLink": "https://www.discogs.com/release/3048825",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=126404&band_id=14038&bandname=Symphonian",
                     "msRating": "7.3",
@@ -29836,7 +29836,7 @@ export default {
             "albums": [
                 {
                     "album": "Hinterlands",
-                    "albumLink": "https://open.spotify.com/albums/48AuCgal5miEAJIz10rmlx",
+                    "albumLink": "https://open.spotify.com/album/48AuCgal5miEAJIz10rmlx",
                     "discogsLink": "https://www.discogs.com/master/1521445",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=135240&band_id=15216&bandname=Vetrar+Draugurinn",
                     "msRating": "",
@@ -29845,7 +29845,7 @@ export default {
                 },
                 {
                     "album": "The Night Sky",
-                    "albumLink": "https://open.spotify.com/albums/3vqqiajJMlcXRvlLJDz4Qu",
+                    "albumLink": "https://open.spotify.com/album/3vqqiajJMlcXRvlLJDz4Qu",
                     "discogsLink": "https://www.discogs.com/master/2343598",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=135241&band_id=15216&bandname=Vetrar+Draugurinn",
                     "msRating": "",
@@ -29860,7 +29860,7 @@ export default {
             "albums": [
                 {
                     "album": "Punish and Reward",
-                    "albumLink": "https://open.spotify.com/albums/3998VgoDEHKXxqgLOCKCRS",
+                    "albumLink": "https://open.spotify.com/album/3998VgoDEHKXxqgLOCKCRS",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -29932,7 +29932,7 @@ export default {
             "albums": [
                 {
                     "album": "The Forgotten Song",
-                    "albumLink": "https://open.spotify.com/albums/5yP9BRkbgiJ4074rUc2hUX",
+                    "albumLink": "https://open.spotify.com/album/5yP9BRkbgiJ4074rUc2hUX",
                     "discogsLink": "https://www.discogs.com/release/13576150",
                     "msLink": "",
                     "msRating": "",
@@ -30382,7 +30382,7 @@ export default {
             "albums": [
                 {
                     "album": "Errances",
-                    "albumLink": "https://open.spotify.com/albums/7uy8I7rse6YOh7xylyPmss",
+                    "albumLink": "https://open.spotify.com/album/7uy8I7rse6YOh7xylyPmss",
                     "discogsLink": "https://www.discogs.com/release/5395705",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=77655&band_id=8268&bandname=Angellore",
                     "msRating": "7.8",
@@ -30391,7 +30391,7 @@ export default {
                 },
                 {
                     "album": "La litanie des cendres",
-                    "albumLink": "https://open.spotify.com/albums/5SCKr0z71jORvwxQx2NcIl",
+                    "albumLink": "https://open.spotify.com/album/5SCKr0z71jORvwxQx2NcIl",
                     "discogsLink": "https://www.discogs.com/release/7368698",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=83004&band_id=8268&bandname=Angellore",
                     "msRating": "8.4",
@@ -30400,7 +30400,7 @@ export default {
                 },
                 {
                     "album": "Rien ne devait mourir",
-                    "albumLink": "https://open.spotify.com/albums/1HmeOlmIFfTNBV1WcHna3i",
+                    "albumLink": "https://open.spotify.com/album/1HmeOlmIFfTNBV1WcHna3i",
                     "discogsLink": "https://www.discogs.com/master/1690797",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=106270&band_id=8268&bandname=Angellore",
                     "msRating": "7.9",
@@ -30439,7 +30439,7 @@ export default {
             "albums": [
                 {
                     "album": "For a Black Tomorrow",
-                    "albumLink": "https://open.spotify.com/albums/0zuwkaHi3EvkXu4v8ekXOh",
+                    "albumLink": "https://open.spotify.com/album/0zuwkaHi3EvkXu4v8ekXOh",
                     "discogsLink": "https://www.discogs.com/master/1318883",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107311&band_id=11376&bandname=Deathwhite",
                     "msRating": "7.8",
@@ -30448,7 +30448,7 @@ export default {
                 },
                 {
                     "album": "Grave Image",
-                    "albumLink": "https://open.spotify.com/albums/1g0xULogL9tei8cWAOkpaL",
+                    "albumLink": "https://open.spotify.com/album/1g0xULogL9tei8cWAOkpaL",
                     "discogsLink": "https://www.discogs.com/master/1675786",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107310&band_id=11376&bandname=Deathwhite",
                     "msRating": "8",
@@ -30457,7 +30457,7 @@ export default {
                 },
                 {
                     "album": "Grey Everlasting",
-                    "albumLink": "https://open.spotify.com/albums/7dBghXcti5mMX00Z4acUS3",
+                    "albumLink": "https://open.spotify.com/album/7dBghXcti5mMX00Z4acUS3",
                     "discogsLink": "https://www.discogs.com/master/2667875",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=142279&band_id=11376&bandname=Deathwhite",
                     "msRating": "7.1",
@@ -30472,7 +30472,7 @@ export default {
             "albums": [
                 {
                     "album": "Sirens",
-                    "albumLink": "https://open.spotify.com/albums/6027vBN3DLkGtu4wDChOOm",
+                    "albumLink": "https://open.spotify.com/album/6027vBN3DLkGtu4wDChOOm",
                     "discogsLink": "https://www.discogs.com/release/14506494",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=132615&band_id=14811&bandname=Edellom",
                     "msRating": "9",
@@ -30487,7 +30487,7 @@ export default {
             "albums": [
                 {
                     "album": "From Illusion to Despair",
-                    "albumLink": "https://open.spotify.com/albums/0C6RmTW9xEGVhrurEdNQKI",
+                    "albumLink": "https://open.spotify.com/album/0C6RmTW9xEGVhrurEdNQKI",
                     "discogsLink": "https://www.discogs.com/release/4767213",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96699&band_id=10376&bandname=Fading+Bliss",
                     "msRating": "8",
@@ -30496,7 +30496,7 @@ export default {
                 },
                 {
                     "album": "Journeys in Solitude",
-                    "albumLink": "https://open.spotify.com/albums/7nNhBl7Dvm5aOkeyJDAC6D",
+                    "albumLink": "https://open.spotify.com/album/7nNhBl7Dvm5aOkeyJDAC6D",
                     "discogsLink": "https://www.discogs.com/master/1433184",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96698&band_id=10376&bandname=Fading+Bliss",
                     "msRating": "7.6",
@@ -30511,7 +30511,7 @@ export default {
             "albums": [
                 {
                     "album": "Зеркала",
-                    "albumLink": "https://open.spotify.com/albums/7luIwuq2FqnZbo9x2sujTa",
+                    "albumLink": "https://open.spotify.com/album/7luIwuq2FqnZbo9x2sujTa",
                     "discogsLink": "https://www.discogs.com/release/14534703",
                     "msLink": "",
                     "msRating": "",
@@ -30526,7 +30526,7 @@ export default {
             "albums": [
                 {
                     "album": "...кровью на серебре",
-                    "albumLink": "https://open.spotify.com/albums/2rGMvkVuxVP5QnR9XAFX7h",
+                    "albumLink": "https://open.spotify.com/album/2rGMvkVuxVP5QnR9XAFX7h",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -30541,7 +30541,7 @@ export default {
             "albums": [
                 {
                     "album": "The Last Solace",
-                    "albumLink": "https://open.spotify.com/albums/4Six1UJk5q8sydbwt62xoR",
+                    "albumLink": "https://open.spotify.com/album/4Six1UJk5q8sydbwt62xoR",
                     "discogsLink": "https://www.discogs.com/release/10999649",
                     "msLink": "",
                     "msRating": "",
@@ -30598,7 +30598,7 @@ export default {
             "albums": [
                 {
                     "album": "Dreamers",
-                    "albumLink": "https://open.spotify.com/albums/54AdeNNw5hnkiNUoaOv56e",
+                    "albumLink": "https://open.spotify.com/album/54AdeNNw5hnkiNUoaOv56e",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -30622,7 +30622,7 @@ export default {
                 },
                 {
                     "album": "Eigengrau",
-                    "albumLink": "https://open.spotify.com/albums/5r6VY423zAa3c76Rmd3q5n",
+                    "albumLink": "https://open.spotify.com/album/5r6VY423zAa3c76Rmd3q5n",
                     "discogsLink": "https://www.discogs.com/master/1302759",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93457&band_id=8111&bandname=Rise+Of+Avernus",
                     "msRating": "7.4",
@@ -30661,7 +30661,7 @@ export default {
             "albums": [
                 {
                     "album": "Eparistera Daimones",
-                    "albumLink": "https://open.spotify.com/albums/4ebDjAqthFnXg87J8iMeev",
+                    "albumLink": "https://open.spotify.com/album/4ebDjAqthFnXg87J8iMeev",
                     "discogsLink": "https://www.discogs.com/master/235344",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=36998&band_id=3119&bandname=Triptykon",
                     "msRating": "8.5",
@@ -30670,7 +30670,7 @@ export default {
                 },
                 {
                     "album": "Melana Chasmata",
-                    "albumLink": "https://open.spotify.com/albums/1grYUhn0k8XBFGRAEs5qVh",
+                    "albumLink": "https://open.spotify.com/album/1grYUhn0k8XBFGRAEs5qVh",
                     "discogsLink": "https://www.discogs.com/master/677023",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=73535&band_id=3119&bandname=Triptykon",
                     "msRating": "8.3",
@@ -30685,7 +30685,7 @@ export default {
             "albums": [
                 {
                     "album": "By Darkness Undone",
-                    "albumLink": "https://open.spotify.com/albums/5W1UzWNKDNPNNkSryRUwkK",
+                    "albumLink": "https://open.spotify.com/album/5W1UzWNKDNPNNkSryRUwkK",
                     "discogsLink": "https://www.discogs.com/release/5667521",
                     "msLink": "",
                     "msRating": "",
@@ -30700,7 +30700,7 @@ export default {
             "albums": [
                 {
                     "album": "Spectrophobia",
-                    "albumLink": "https://open.spotify.com/albums/1IZqx0BwBpdfQ9610o31Nk",
+                    "albumLink": "https://open.spotify.com/album/1IZqx0BwBpdfQ9610o31Nk",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -30709,7 +30709,7 @@ export default {
                 },
                 {
                     "album": "Nebro",
-                    "albumLink": "https://open.spotify.com/albums/4vGTo4SB2J8HzLHG7p3GAJ",
+                    "albumLink": "https://open.spotify.com/album/4vGTo4SB2J8HzLHG7p3GAJ",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -30724,7 +30724,7 @@ export default {
             "albums": [
                 {
                     "album": "As All Torn Asunder",
-                    "albumLink": "https://open.spotify.com/albums/06dNJzCnngb5SmSm3tcN35",
+                    "albumLink": "https://open.spotify.com/album/06dNJzCnngb5SmSm3tcN35",
                     "discogsLink": "https://www.discogs.com/master/725555",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=65240&band_id=7323&bandname=When+Nothing+Remains",
                     "msRating": "8.1",
@@ -30733,7 +30733,7 @@ export default {
                 },
                 {
                     "album": "Thy Dark Serenity",
-                    "albumLink": "https://open.spotify.com/albums/3vfQgyY2AOqfbBtNbcjlbL",
+                    "albumLink": "https://open.spotify.com/album/3vfQgyY2AOqfbBtNbcjlbL",
                     "discogsLink": "https://www.discogs.com/master/725554",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=70442&band_id=7323&bandname=When+Nothing+Remains",
                     "msRating": "8.2",
@@ -30742,7 +30742,7 @@ export default {
                 },
                 {
                     "album": "In Memoriam",
-                    "albumLink": "https://open.spotify.com/albums/0Gj4DtLewbzwmFZApKfrQR",
+                    "albumLink": "https://open.spotify.com/album/0Gj4DtLewbzwmFZApKfrQR",
                     "discogsLink": "https://www.discogs.com/master/2258536",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=87343&band_id=7323&bandname=When+Nothing+Remains",
                     "msRating": "7.6",
@@ -30757,7 +30757,7 @@ export default {
             "albums": [
                 {
                     "album": "Uljas uusi maailma",
-                    "albumLink": "https://open.spotify.com/albums/651Tnwc7zz4gfMmEcQLJ1s",
+                    "albumLink": "https://open.spotify.com/album/651Tnwc7zz4gfMmEcQLJ1s",
                     "discogsLink": "https://www.discogs.com/master/502595",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=67704&band_id=7544&bandname=Kuolemanlaakso",
                     "msRating": "7.8",
@@ -30766,7 +30766,7 @@ export default {
                 },
                 {
                     "album": "Tulijoutsen",
-                    "albumLink": "https://open.spotify.com/albums/7gAOwZnvtyJ2TSaOc4Bwo9",
+                    "albumLink": "https://open.spotify.com/album/7gAOwZnvtyJ2TSaOc4Bwo9",
                     "discogsLink": "https://www.discogs.com/master/658788",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=74979&band_id=7544&bandname=Kuolemanlaakso",
                     "msRating": "7.8",
@@ -30784,7 +30784,7 @@ export default {
                 },
                 {
                     "album": "Kuusumu",
-                    "albumLink": "https://open.spotify.com/albums/5LCQLN1mhO1TLn59YT0thD",
+                    "albumLink": "https://open.spotify.com/album/5LCQLN1mhO1TLn59YT0thD",
                     "discogsLink": "https://www.discogs.com/master/2730029",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=137495&band_id=7544&bandname=Kuolemanlaakso",
                     "msRating": "7.7",
@@ -30799,7 +30799,7 @@ export default {
             "albums": [
                 {
                     "album": "Give Me Walls",
-                    "albumLink": "https://open.spotify.com/albums/7cd1hp3Uen3IZ0aklsSC3V",
+                    "albumLink": "https://open.spotify.com/album/7cd1hp3Uen3IZ0aklsSC3V",
                     "discogsLink": "https://www.discogs.com/release/3011489",
                     "msLink": "",
                     "msRating": "",
@@ -30808,7 +30808,7 @@ export default {
                 },
                 {
                     "album": "...and Yet",
-                    "albumLink": "https://open.spotify.com/albums/0KpyaqjyZFQKX9odToLkWD",
+                    "albumLink": "https://open.spotify.com/album/0KpyaqjyZFQKX9odToLkWD",
                     "discogsLink": "https://www.discogs.com/release/4017666",
                     "msLink": "",
                     "msRating": "",
@@ -30817,7 +30817,7 @@ export default {
                 },
                 {
                     "album": "The Comfort of Loss & Dust",
-                    "albumLink": "https://open.spotify.com/albums/1SoqGtShyzACqsjYvUWBDC",
+                    "albumLink": "https://open.spotify.com/album/1SoqGtShyzACqsjYvUWBDC",
                     "discogsLink": "https://www.discogs.com/master/922768",
                     "msLink": "",
                     "msRating": "",
@@ -30826,7 +30826,7 @@ export default {
                 },
                 {
                     "album": "Rituals of Surrender",
-                    "albumLink": "https://open.spotify.com/albums/5PJ7jWQ8yqgU4JPHdzfsqq",
+                    "albumLink": "https://open.spotify.com/album/5PJ7jWQ8yqgU4JPHdzfsqq",
                     "discogsLink": "https://www.discogs.com/master/1619908",
                     "msLink": "",
                     "msRating": "",
@@ -30841,7 +30841,7 @@ export default {
             "albums": [
                 {
                     "album": "Presentiment",
-                    "albumLink": "https://open.spotify.com/albums/4VcpLIOOr7TPhvkAfYaUdD",
+                    "albumLink": "https://open.spotify.com/album/4VcpLIOOr7TPhvkAfYaUdD",
                     "discogsLink": "https://www.discogs.com/master/881542",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=113739&band_id=12015&bandname=Dreamgrave",
                     "msRating": "",
@@ -30856,7 +30856,7 @@ export default {
             "albums": [
                 {
                     "album": "In Memories",
-                    "albumLink": "https://open.spotify.com/albums/3SbGp5BjaBvo6gmdoYFrf6",
+                    "albumLink": "https://open.spotify.com/album/3SbGp5BjaBvo6gmdoYFrf6",
                     "discogsLink": "https://www.discogs.com/release/5721708",
                     "msLink": "",
                     "msRating": "",
@@ -30865,7 +30865,7 @@ export default {
                 },
                 {
                     "album": "Mysto",
-                    "albumLink": "https://open.spotify.com/albums/1clLGfK5yOp51eipVqn48i",
+                    "albumLink": "https://open.spotify.com/album/1clLGfK5yOp51eipVqn48i",
                     "discogsLink": "https://www.discogs.com/release/15119848",
                     "msLink": "",
                     "msRating": "",
@@ -30880,7 +30880,7 @@ export default {
             "albums": [
                 {
                     "album": "...to Tread the Ancient Waters",
-                    "albumLink": "https://open.spotify.com/albums/1Rk02WmpsB2ZmIO6lwydRg",
+                    "albumLink": "https://open.spotify.com/album/1Rk02WmpsB2ZmIO6lwydRg",
                     "discogsLink": "https://www.discogs.com/release/24468338",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=152579&band_id=18611&bandname=Amaurot",
                     "msRating": "6.1",
@@ -30895,7 +30895,7 @@ export default {
             "albums": [
                 {
                     "album": "In Darkness",
-                    "albumLink": "https://open.spotify.com/albums/6TntUnCZ38CMcqzdHodwlS",
+                    "albumLink": "https://open.spotify.com/album/6TntUnCZ38CMcqzdHodwlS",
                     "discogsLink": "https://www.discogs.com/master/811828",
                     "msLink": "",
                     "msRating": "",
@@ -30910,7 +30910,7 @@ export default {
             "albums": [
                 {
                     "album": "Order of the Mist",
-                    "albumLink": "https://open.spotify.com/albums/61571fDPSaE1M37QiKcAFu",
+                    "albumLink": "https://open.spotify.com/album/61571fDPSaE1M37QiKcAFu",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=160412&band_id=20091&bandname=Hyldr",
                     "msRating": "",
@@ -30925,7 +30925,7 @@ export default {
             "albums": [
                 {
                     "album": "The Rain Under",
-                    "albumLink": "https://open.spotify.com/albums/2bVkRjGWRnYUsFTayfwaiD",
+                    "albumLink": "https://open.spotify.com/album/2bVkRjGWRnYUsFTayfwaiD",
                     "discogsLink": "https://www.discogs.com/release/14902262",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=156418&band_id=19347&bandname=Inno",
                     "msRating": "",
@@ -30940,7 +30940,7 @@ export default {
             "albums": [
                 {
                     "album": "Cold River Spell",
-                    "albumLink": "https://open.spotify.com/albums/35wsgujW9u2YywsQEci0xN",
+                    "albumLink": "https://open.spotify.com/album/35wsgujW9u2YywsQEci0xN",
                     "discogsLink": "https://www.discogs.com/release/17525383",
                     "msLink": "",
                     "msRating": "",
@@ -30955,7 +30955,7 @@ export default {
             "albums": [
                 {
                     "album": "Remnants of Broken Idols",
-                    "albumLink": "https://open.spotify.com/albums/6FALXmKHEbiV3GkOBXwSeC",
+                    "albumLink": "https://open.spotify.com/album/6FALXmKHEbiV3GkOBXwSeC",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -30964,7 +30964,7 @@ export default {
                 },
                 {
                     "album": "Omnipotence of the Absolute",
-                    "albumLink": "https://open.spotify.com/albums/0reKTwdZ5RhHh3eRyx7ojS",
+                    "albumLink": "https://open.spotify.com/album/0reKTwdZ5RhHh3eRyx7ojS",
                     "discogsLink": "https://www.discogs.com/release/16235177",
                     "msLink": "",
                     "msRating": "",
@@ -30988,7 +30988,7 @@ export default {
             "albums": [
                 {
                     "album": "Chirographon Dei",
-                    "albumLink": "https://open.spotify.com/albums/38wFhnlrKzArC4SAGFjJ2k",
+                    "albumLink": "https://open.spotify.com/album/38wFhnlrKzArC4SAGFjJ2k",
                     "discogsLink": "https://www.discogs.com/release/19238209",
                     "msLink": "",
                     "msRating": "",
@@ -31003,7 +31003,7 @@ export default {
             "albums": [
                 {
                     "album": "Breeding the Shadows",
-                    "albumLink": "https://open.spotify.com/albums/6AKu32Lqbt1wsIGR0C51aw",
+                    "albumLink": "https://open.spotify.com/album/6AKu32Lqbt1wsIGR0C51aw",
                     "discogsLink": "https://www.discogs.com/master/181079",
                     "msLink": "",
                     "msRating": "",
@@ -31018,7 +31018,7 @@ export default {
             "albums": [
                 {
                     "album": "Chains of Blue",
-                    "albumLink": "https://open.spotify.com/albums/55eRDElTJFXUPpOKIodxc1",
+                    "albumLink": "https://open.spotify.com/album/55eRDElTJFXUPpOKIodxc1",
                     "discogsLink": "https://www.discogs.com/release/22630304",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=118143&band_id=12711&bandname=Isaurian",
                     "msRating": "",
@@ -31033,7 +31033,7 @@ export default {
             "albums": [
                 {
                     "album": "Another World",
-                    "albumLink": "https://open.spotify.com/albums/1RVnqaOoYpJx0DzYvN9TMx",
+                    "albumLink": "https://open.spotify.com/album/1RVnqaOoYpJx0DzYvN9TMx",
                     "discogsLink": "https://www.discogs.com/master/1913943",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117684&band_id=12643&bandname=Light+Field+Reverie",
                     "msRating": "8.1",
@@ -31048,7 +31048,7 @@ export default {
             "albums": [
                 {
                     "album": "Imprinted",
-                    "albumLink": "https://open.spotify.com/albums/3QTXJYxsQjWNP0LNPPHwlC",
+                    "albumLink": "https://open.spotify.com/album/3QTXJYxsQjWNP0LNPPHwlC",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -31063,7 +31063,7 @@ export default {
             "albums": [
                 {
                     "album": "Relógio",
-                    "albumLink": "https://open.spotify.com/albums/3hEohfQtEODZINLi3tflNc",
+                    "albumLink": "https://open.spotify.com/album/3hEohfQtEODZINLi3tflNc",
                     "discogsLink": "https://www.discogs.com/master/1622486",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134710&band_id=15115&bandname=Ode+Insone",
                     "msRating": "9",
@@ -31072,7 +31072,7 @@ export default {
                 },
                 {
                     "album": "A Origem da Agonia",
-                    "albumLink": "https://open.spotify.com/albums/5skkDbvyLqdwRNnoOSvLGs",
+                    "albumLink": "https://open.spotify.com/album/5skkDbvyLqdwRNnoOSvLGs",
                     "discogsLink": "https://www.discogs.com/master/2897455",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134712&band_id=15115&bandname=Ode+Insone",
                     "msRating": "7",
@@ -31081,7 +31081,7 @@ export default {
                 },
                 {
                     "album": "Isolamento: Do Silêncio à Poesia",
-                    "albumLink": "https://open.spotify.com/albums/0KI8aF7PeS6WDzRHYaTwka",
+                    "albumLink": "https://open.spotify.com/album/0KI8aF7PeS6WDzRHYaTwka",
                     "discogsLink": "https://www.discogs.com/master/2897461",
                     "msLink": "",
                     "msRating": "",
@@ -31158,7 +31158,7 @@ export default {
             "albums": [
                 {
                     "album": "Cold Winter Nights",
-                    "albumLink": "https://open.spotify.com/albums/2XtX7z2lQiy95TOv7BhqN5",
+                    "albumLink": "https://open.spotify.com/album/2XtX7z2lQiy95TOv7BhqN5",
                     "discogsLink": "https://www.discogs.com/release/11847362",
                     "msLink": "",
                     "msRating": "",
@@ -31260,7 +31260,7 @@ export default {
             "albums": [
                 {
                     "album": "The Promethean Principle",
-                    "albumLink": "https://open.spotify.com/albums/44YTeh4cQKGdEIUsN9QEWz",
+                    "albumLink": "https://open.spotify.com/album/44YTeh4cQKGdEIUsN9QEWz",
                     "discogsLink": "https://www.discogs.com/release/15784106",
                     "msLink": "",
                     "msRating": "",
@@ -31305,7 +31305,7 @@ export default {
             "albums": [
                 {
                     "album": "The Glowering Facades of Night",
-                    "albumLink": "https://open.spotify.com/albums/2igdn72vLwj8DSyC8z1L8K",
+                    "albumLink": "https://open.spotify.com/album/2igdn72vLwj8DSyC8z1L8K",
                     "discogsLink": "https://www.discogs.com/master/656260",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136543&band_id=15451&bandname=Mysterium",
                     "msRating": "",
@@ -31314,7 +31314,7 @@ export default {
                 },
                 {
                     "album": "Soulwards",
-                    "albumLink": "https://open.spotify.com/albums/14fvywEUD7vK3dxY5sv42q",
+                    "albumLink": "https://open.spotify.com/album/14fvywEUD7vK3dxY5sv42q",
                     "discogsLink": "https://www.discogs.com/master/223150",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136544&band_id=15451&bandname=Mysterium",
                     "msRating": "",
@@ -31353,7 +31353,7 @@ export default {
             "albums": [
                 {
                     "album": "Amid Its Hallowed Mirth",
-                    "albumLink": "https://open.spotify.com/albums/3od7h3SY9jc4Ood6SkyZKO",
+                    "albumLink": "https://open.spotify.com/album/3od7h3SY9jc4Ood6SkyZKO",
                     "discogsLink": "https://www.discogs.com/master/181354",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3054&band_id=402&bandname=Novembers+Doom",
                     "msRating": "7.5",
@@ -31362,7 +31362,7 @@ export default {
                 },
                 {
                     "album": "Of Sculptured Ivy and Stone Flowers",
-                    "albumLink": "https://open.spotify.com/albums/5qjEq45rAvSb6EguuNNVci",
+                    "albumLink": "https://open.spotify.com/album/5qjEq45rAvSb6EguuNNVci",
                     "discogsLink": "https://www.discogs.com/master/223066",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3056&band_id=402&bandname=Novembers+Doom",
                     "msRating": "7.6",
@@ -31371,7 +31371,7 @@ export default {
                 },
                 {
                     "album": "The Knowing",
-                    "albumLink": "https://open.spotify.com/albums/6fvSwXId57pDdBOfln5dXQ",
+                    "albumLink": "https://open.spotify.com/album/6fvSwXId57pDdBOfln5dXQ",
                     "discogsLink": "https://www.discogs.com/master/301431",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3048&band_id=402&bandname=Novembers+Doom",
                     "msRating": "7.9",
@@ -31380,7 +31380,7 @@ export default {
                 },
                 {
                     "album": "To Welcome the Fade",
-                    "albumLink": "https://open.spotify.com/albums/1u0mBEtL2rUTMWJL5Mbhxz",
+                    "albumLink": "https://open.spotify.com/album/1u0mBEtL2rUTMWJL5Mbhxz",
                     "discogsLink": "https://www.discogs.com/master/227902",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3057&band_id=402&bandname=Novembers+Doom",
                     "msRating": "7.8",
@@ -31389,7 +31389,7 @@ export default {
                 },
                 {
                     "album": "The Pale Haunt Departure",
-                    "albumLink": "https://open.spotify.com/albums/6A3io91FO1e6GFruHoz4HL",
+                    "albumLink": "https://open.spotify.com/album/6A3io91FO1e6GFruHoz4HL",
                     "discogsLink": "https://www.discogs.com/master/58993",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3140&band_id=402&bandname=Novembers+Doom",
                     "msRating": "8.6",
@@ -31398,7 +31398,7 @@ export default {
                 },
                 {
                     "album": "The Novella Reservoir",
-                    "albumLink": "https://open.spotify.com/albums/5fL7A8fQWQbz4um1ZQFlhM",
+                    "albumLink": "https://open.spotify.com/album/5fL7A8fQWQbz4um1ZQFlhM",
                     "discogsLink": "https://www.discogs.com/master/266236",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=12564&band_id=402&bandname=Novembers+Doom",
                     "msRating": "8.2",
@@ -31407,7 +31407,7 @@ export default {
                 },
                 {
                     "album": "Into Night's Requiem Infernal",
-                    "albumLink": "https://open.spotify.com/albums/26W6vWodUALuO48OMpQuOe",
+                    "albumLink": "https://open.spotify.com/album/26W6vWodUALuO48OMpQuOe",
                     "discogsLink": "https://www.discogs.com/master/260617",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=30988&band_id=402&bandname=Novembers+Doom",
                     "msRating": "8.1",
@@ -31416,7 +31416,7 @@ export default {
                 },
                 {
                     "album": "Aphotic",
-                    "albumLink": "https://open.spotify.com/albums/2qu7B0v0xJYo44KiDJSYnP",
+                    "albumLink": "https://open.spotify.com/album/2qu7B0v0xJYo44KiDJSYnP",
                     "discogsLink": "https://www.discogs.com/master/494662",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46129&band_id=402&bandname=Novembers+Doom",
                     "msRating": "8.1",
@@ -31425,7 +31425,7 @@ export default {
                 },
                 {
                     "album": "Bled White",
-                    "albumLink": "https://open.spotify.com/albums/6avXuI0EwgEQtaev2CnLuZ",
+                    "albumLink": "https://open.spotify.com/album/6avXuI0EwgEQtaev2CnLuZ",
                     "discogsLink": "https://www.discogs.com/master/715493",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=76594&band_id=402&bandname=Novembers+Doom",
                     "msRating": "8",
@@ -31434,7 +31434,7 @@ export default {
                 },
                 {
                     "album": "Hamartia",
-                    "albumLink": "https://open.spotify.com/albums/0FpI1CJs7fzPJqQgCUAGah",
+                    "albumLink": "https://open.spotify.com/album/0FpI1CJs7fzPJqQgCUAGah",
                     "discogsLink": "https://www.discogs.com/master/1157406",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=90880&band_id=402&bandname=Novembers+Doom",
                     "msRating": "8",
@@ -31443,7 +31443,7 @@ export default {
                 },
                 {
                     "album": "Nephilim Grove",
-                    "albumLink": "https://open.spotify.com/albums/7xNZwURYY9mYfrAmrmP828",
+                    "albumLink": "https://open.spotify.com/album/7xNZwURYY9mYfrAmrmP828",
                     "discogsLink": "https://www.discogs.com/master/1631713",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=102524&band_id=402&bandname=Novembers+Doom",
                     "msRating": "7.6",
@@ -31458,7 +31458,7 @@ export default {
             "albums": [
                 {
                     "album": "Prana sempiterno",
-                    "albumLink": "https://open.spotify.com/albums/1d9ncPGml0PgUcatYrZ1BQ",
+                    "albumLink": "https://open.spotify.com/album/1d9ncPGml0PgUcatYrZ1BQ",
                     "discogsLink": "https://www.discogs.com/release/5621545",
                     "msLink": "",
                     "msRating": "",
@@ -31473,7 +31473,7 @@ export default {
             "albums": [
                 {
                     "album": "Mare Veris",
-                    "albumLink": "https://open.spotify.com/albums/7txQc0XTezEyygcte4Yrky",
+                    "albumLink": "https://open.spotify.com/album/7txQc0XTezEyygcte4Yrky",
                     "discogsLink": "https://www.discogs.com/master/563692",
                     "msLink": "",
                     "msRating": "",
@@ -31488,7 +31488,7 @@ export default {
             "albums": [
                 {
                     "album": "Paradise Belongs to You",
-                    "albumLink": "https://open.spotify.com/albums/6Ju1uTddEqcNS45KWnRn8h",
+                    "albumLink": "https://open.spotify.com/album/6Ju1uTddEqcNS45KWnRn8h",
                     "discogsLink": "https://www.discogs.com/master/103515",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=11160&band_id=1771&bandname=Saturnus",
                     "msRating": "8.7",
@@ -31497,7 +31497,7 @@ export default {
                 },
                 {
                     "album": "Martyre",
-                    "albumLink": "https://open.spotify.com/albums/6zbN91UfrhvTWmgNby7OsF",
+                    "albumLink": "https://open.spotify.com/album/6zbN91UfrhvTWmgNby7OsF",
                     "discogsLink": "https://www.discogs.com/master/316434",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=11162&band_id=1771&bandname=Saturnus",
                     "msRating": "8.8",
@@ -31506,7 +31506,7 @@ export default {
                 },
                 {
                     "album": "Veronika Decides to Die",
-                    "albumLink": "https://open.spotify.com/albums/3YdwvcHFBALzypBNXzW6HR",
+                    "albumLink": "https://open.spotify.com/album/3YdwvcHFBALzypBNXzW6HR",
                     "discogsLink": "https://www.discogs.com/master/271887",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=6748&band_id=1771&bandname=Saturnus",
                     "msRating": "9",
@@ -31515,7 +31515,7 @@ export default {
                 },
                 {
                     "album": "Saturn in Ascension",
-                    "albumLink": "https://open.spotify.com/albums/3j7zqj9cIz202nwoeFfLC1",
+                    "albumLink": "https://open.spotify.com/album/3j7zqj9cIz202nwoeFfLC1",
                     "discogsLink": "https://www.discogs.com/master/497153",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=39666&band_id=1771&bandname=Saturnus",
                     "msRating": "8.6",
@@ -31554,7 +31554,7 @@ export default {
             "albums": [
                 {
                     "album": "Dentro de las profundidades... de la tristeza",
-                    "albumLink": "https://open.spotify.com/albums/17Ibp3S6oAEHzY8yNeZHJZ",
+                    "albumLink": "https://open.spotify.com/album/17Ibp3S6oAEHzY8yNeZHJZ",
                     "discogsLink": "https://www.discogs.com/master/978944",
                     "msLink": "",
                     "msRating": "",
@@ -31563,7 +31563,7 @@ export default {
                 },
                 {
                     "album": "Museo de los despojados",
-                    "albumLink": "https://open.spotify.com/albums/4Yu5rH5ywVto1j18ziGdoT",
+                    "albumLink": "https://open.spotify.com/album/4Yu5rH5ywVto1j18ziGdoT",
                     "discogsLink": "https://www.discogs.com/release/5964334",
                     "msLink": "",
                     "msRating": "",
@@ -31572,7 +31572,7 @@ export default {
                 },
                 {
                     "album": "El día en que se inventó la muerte",
-                    "albumLink": "https://open.spotify.com/albums/4TbFdzovQXLEM53lhwE94M",
+                    "albumLink": "https://open.spotify.com/album/4TbFdzovQXLEM53lhwE94M",
                     "discogsLink": "https://www.discogs.com/release/5964582",
                     "msLink": "",
                     "msRating": "",
@@ -31581,7 +31581,7 @@ export default {
                 },
                 {
                     "album": "Culto a la obscuridad",
-                    "albumLink": "https://open.spotify.com/albums/0Ymqt7TWqgYhW7tbWQbTSO",
+                    "albumLink": "https://open.spotify.com/album/0Ymqt7TWqgYhW7tbWQbTSO",
                     "discogsLink": "https://www.discogs.com/release/5965261",
                     "msLink": "",
                     "msRating": "",
@@ -31599,7 +31599,7 @@ export default {
                 },
                 {
                     "album": "Sopa envenenada",
-                    "albumLink": "https://open.spotify.com/albums/1jPAjO1fBkn51eclDaztpU",
+                    "albumLink": "https://open.spotify.com/album/1jPAjO1fBkn51eclDaztpU",
                     "discogsLink": "https://www.discogs.com/release/15289549",
                     "msLink": "",
                     "msRating": "",
@@ -31725,7 +31725,7 @@ export default {
                 },
                 {
                     "album": "Tales of the Woods... Thus Was Written",
-                    "albumLink": "https://open.spotify.com/albums/5zKKh4z5wqAZ8qb0ymIv1m",
+                    "albumLink": "https://open.spotify.com/album/5zKKh4z5wqAZ8qb0ymIv1m",
                     "discogsLink": "https://www.discogs.com/release/750710",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=44751&band_id=5175&bandname=Thalarion",
                     "msRating": "8",
@@ -31734,7 +31734,7 @@ export default {
                 },
                 {
                     "album": "Four Elements Mysterium",
-                    "albumLink": "https://open.spotify.com/albums/3xdIufbw3vBU1Xhs6KZIf0",
+                    "albumLink": "https://open.spotify.com/album/3xdIufbw3vBU1Xhs6KZIf0",
                     "discogsLink": "https://www.discogs.com/master/392302",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=44752&band_id=5175&bandname=Thalarion",
                     "msRating": "8.4",
@@ -31761,7 +31761,7 @@ export default {
                 },
                 {
                     "album": "Dying on the Scorched Plains",
-                    "albumLink": "https://open.spotify.com/albums/5whMLfQF4GIheYRtw0VbK8",
+                    "albumLink": "https://open.spotify.com/album/5whMLfQF4GIheYRtw0VbK8",
                     "discogsLink": "https://www.discogs.com/release/21373237",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=137505&band_id=5175&bandname=Thalarion",
                     "msRating": "6",
@@ -31776,7 +31776,7 @@ export default {
             "albums": [
                 {
                     "album": "Love Is Dead",
-                    "albumLink": "https://open.spotify.com/albums/3wxsnsM0bV6ydnYa0gvLFH",
+                    "albumLink": "https://open.spotify.com/album/3wxsnsM0bV6ydnYa0gvLFH",
                     "discogsLink": "https://www.discogs.com/release/3811034",
                     "msLink": "",
                     "msRating": "",
@@ -31794,7 +31794,7 @@ export default {
                 },
                 {
                     "album": "Erotica 69",
-                    "albumLink": "https://open.spotify.com/albums/6sIA2W04K84vqyFyQdUUD2",
+                    "albumLink": "https://open.spotify.com/album/6sIA2W04K84vqyFyQdUUD2",
                     "discogsLink": "https://www.discogs.com/release/4349230",
                     "msLink": "",
                     "msRating": "",
@@ -31818,7 +31818,7 @@ export default {
                 },
                 {
                     "album": "Two Sides...",
-                    "albumLink": "https://open.spotify.com/albums/4XHeZMWDPL16I2qcBF4N99",
+                    "albumLink": "https://open.spotify.com/album/4XHeZMWDPL16I2qcBF4N99",
                     "discogsLink": "https://www.discogs.com/master/652190",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5936&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -31845,7 +31845,7 @@ export default {
                 },
                 {
                     "album": "Angel & Pain",
-                    "albumLink": "https://open.spotify.com/albums/4lkH7ZXIT85e7LTNY5bFTs",
+                    "albumLink": "https://open.spotify.com/album/4lkH7ZXIT85e7LTNY5bFTs",
                     "discogsLink": "https://www.discogs.com/master/1807364",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47570&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -31854,7 +31854,7 @@ export default {
                 },
                 {
                     "album": "Age of Silence",
-                    "albumLink": "https://open.spotify.com/albums/1opAN76bVTkbplLrcGP0q2",
+                    "albumLink": "https://open.spotify.com/album/1opAN76bVTkbplLrcGP0q2",
                     "discogsLink": "https://www.discogs.com/master/1370806",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96072&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -31869,7 +31869,7 @@ export default {
             "albums": [
                 {
                     "album": "Mesmerised",
-                    "albumLink": "https://open.spotify.com/albums/5WEb5LcqNGmusAWd7ma7Wg",
+                    "albumLink": "https://open.spotify.com/album/5WEb5LcqNGmusAWd7ma7Wg",
                     "discogsLink": "https://www.discogs.com/master/606095",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1671&band_id=246&bandname=Atrox",
                     "msRating": "7.6",
@@ -31878,7 +31878,7 @@ export default {
                 },
                 {
                     "album": "Contentum",
-                    "albumLink": "https://open.spotify.com/albums/3Sja2btviycXpqgdy70RAd",
+                    "albumLink": "https://open.spotify.com/album/3Sja2btviycXpqgdy70RAd",
                     "discogsLink": "https://www.discogs.com/master/186681",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1672&band_id=246&bandname=Atrox",
                     "msRating": "7.6",
@@ -31887,7 +31887,7 @@ export default {
                 },
                 {
                     "album": "Terrestrials",
-                    "albumLink": "https://open.spotify.com/albums/2Hoto4nTXnYQ2hMFVm4hzd",
+                    "albumLink": "https://open.spotify.com/album/2Hoto4nTXnYQ2hMFVm4hzd",
                     "discogsLink": "https://www.discogs.com/master/186672",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1673&band_id=246&bandname=Atrox",
                     "msRating": "8",
@@ -31905,7 +31905,7 @@ export default {
                 },
                 {
                     "album": "Binocular",
-                    "albumLink": "https://open.spotify.com/albums/326tlYabGxuz6uYHWCMFXQ",
+                    "albumLink": "https://open.spotify.com/album/326tlYabGxuz6uYHWCMFXQ",
                     "discogsLink": "https://www.discogs.com/master/322543",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=17100&band_id=246&bandname=Atrox",
                     "msRating": "6.5",
@@ -31914,7 +31914,7 @@ export default {
                 },
                 {
                     "album": "Monocle",
-                    "albumLink": "https://open.spotify.com/albums/15g3drevl0yG4ayQHKGyt4",
+                    "albumLink": "https://open.spotify.com/album/15g3drevl0yG4ayQHKGyt4",
                     "discogsLink": "https://www.discogs.com/master/1235669",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=92359&band_id=246&bandname=Atrox",
                     "msRating": "7.2",
@@ -31929,7 +31929,7 @@ export default {
             "albums": [
                 {
                     "album": "Echoes... in the Ruins",
-                    "albumLink": "https://open.spotify.com/albums/6Gev2Df9TCtxlNVhRb5peG",
+                    "albumLink": "https://open.spotify.com/album/6Gev2Df9TCtxlNVhRb5peG",
                     "discogsLink": "https://www.discogs.com/master/232770",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=41175&band_id=4844&bandname=Dead+In+The+Water",
                     "msRating": "",
@@ -31962,7 +31962,7 @@ export default {
                 },
                 {
                     "album": "My Endless Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/11WsvFJkuNUn3WiwUicw5R",
+                    "albumLink": "https://open.spotify.com/album/11WsvFJkuNUn3WiwUicw5R",
                     "discogsLink": "https://www.discogs.com/release/6367763",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=29827&band_id=1265&bandname=Diathra",
                     "msRating": "7.7",
@@ -31995,7 +31995,7 @@ export default {
                 },
                 {
                     "album": "Songs of Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/5QMXXFhLjsp5oSm0LyzTUF",
+                    "albumLink": "https://open.spotify.com/album/5QMXXFhLjsp5oSm0LyzTUF",
                     "discogsLink": "https://www.discogs.com/master/527961",
                     "msLink": "",
                     "msRating": "",
@@ -32004,7 +32004,7 @@ export default {
                 },
                 {
                     "album": "Secrets of the Sun",
-                    "albumLink": "https://open.spotify.com/albums/3r4GfwrDWa7JOsty4XfpD8",
+                    "albumLink": "https://open.spotify.com/album/3r4GfwrDWa7JOsty4XfpD8",
                     "discogsLink": "https://www.discogs.com/master/697889",
                     "msLink": "",
                     "msRating": "",
@@ -32013,7 +32013,7 @@ export default {
                 },
                 {
                     "album": "Nausea",
-                    "albumLink": "https://open.spotify.com/albums/3L6vETQ8AnwyhIIFiLyRDz",
+                    "albumLink": "https://open.spotify.com/album/3L6vETQ8AnwyhIIFiLyRDz",
                     "discogsLink": "https://www.discogs.com/release/3720586",
                     "msLink": "",
                     "msRating": "",
@@ -32022,7 +32022,7 @@ export default {
                 },
                 {
                     "album": "Reborn",
-                    "albumLink": "https://open.spotify.com/albums/3hBhvdOE6LKRJ6xR1quxoz",
+                    "albumLink": "https://open.spotify.com/album/3hBhvdOE6LKRJ6xR1quxoz",
                     "discogsLink": "https://www.discogs.com/release/9923520",
                     "msLink": "",
                     "msRating": "",
@@ -32070,7 +32070,7 @@ export default {
                 },
                 {
                     "album": "Teath Datas",
-                    "albumLink": "https://open.spotify.com/albums/0lHC59pcgWtxeZB7XifDDx",
+                    "albumLink": "https://open.spotify.com/album/0lHC59pcgWtxeZB7XifDDx",
                     "discogsLink": "https://www.discogs.com/release/10655094",
                     "msLink": "",
                     "msRating": "",
@@ -32103,7 +32103,7 @@ export default {
                 },
                 {
                     "album": "Memorandum",
-                    "albumLink": "https://open.spotify.com/albums/7IwBduRZJOCN1vyn660LVF",
+                    "albumLink": "https://open.spotify.com/album/7IwBduRZJOCN1vyn660LVF",
                     "discogsLink": "https://www.discogs.com/master/219977",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1000&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.6",
@@ -32112,7 +32112,7 @@ export default {
                 },
                 {
                     "album": "Burning: A Wish",
-                    "albumLink": "https://open.spotify.com/albums/2lq4zTRXeYD2XXPw4TOKNj",
+                    "albumLink": "https://open.spotify.com/album/2lq4zTRXeYD2XXPw4TOKNj",
                     "discogsLink": "https://www.discogs.com/master/37025",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1001&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.6",
@@ -32121,7 +32121,7 @@ export default {
                 },
                 {
                     "album": "Fall, I Will Follow",
-                    "albumLink": "https://open.spotify.com/albums/6DMk2oU1czzw9lgVW5FcTA",
+                    "albumLink": "https://open.spotify.com/album/6DMk2oU1czzw9lgVW5FcTA",
                     "discogsLink": "https://www.discogs.com/master/219980",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1002&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.9",
@@ -32130,7 +32130,7 @@ export default {
                 },
                 {
                     "album": "Ave End",
-                    "albumLink": "https://open.spotify.com/albums/2A2Zk3oSPBKlPefKZIy0zu",
+                    "albumLink": "https://open.spotify.com/album/2A2Zk3oSPBKlPefKZIy0zu",
                     "discogsLink": "https://www.discogs.com/master/253810",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2168&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.1",
@@ -32139,7 +32139,7 @@ export default {
                 },
                 {
                     "album": "Filthy Notes for Frozen Hearts",
-                    "albumLink": "https://open.spotify.com/albums/3Lhrrgc8qdwV5jbvX2fczL",
+                    "albumLink": "https://open.spotify.com/album/3Lhrrgc8qdwV5jbvX2fczL",
                     "discogsLink": "https://www.discogs.com/master/194696",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5242&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.8",
@@ -32148,7 +32148,7 @@ export default {
                 },
                 {
                     "album": "Songs for the Last View",
-                    "albumLink": "https://open.spotify.com/albums/5jpBsKskrUdELF3JDmoJrp",
+                    "albumLink": "https://open.spotify.com/album/5jpBsKskrUdELF3JDmoJrp",
                     "discogsLink": "https://www.discogs.com/master/350580",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=19137&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.1",
@@ -32157,7 +32157,7 @@ export default {
                 },
                 {
                     "album": "The Grandiose Nowhere",
-                    "albumLink": "https://open.spotify.com/albums/2auIoLCvBIpJJ2XDbGbLn8",
+                    "albumLink": "https://open.spotify.com/album/2auIoLCvBIpJJ2XDbGbLn8",
                     "discogsLink": "https://www.discogs.com/master/260369",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=37626&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.8",
@@ -32166,7 +32166,7 @@ export default {
                 },
                 {
                     "album": "Antiadore",
-                    "albumLink": "https://open.spotify.com/albums/6jQZBmIaysLbRJJILnshCo",
+                    "albumLink": "https://open.spotify.com/album/6jQZBmIaysLbRJJILnshCo",
                     "discogsLink": "https://www.discogs.com/master/593110",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63231&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.2",
@@ -32175,7 +32175,7 @@ export default {
                 },
                 {
                     "album": "Hope Is Here",
-                    "albumLink": "https://open.spotify.com/albums/4iw5wqkoYKArUuYD2Z9Bmc",
+                    "albumLink": "https://open.spotify.com/album/4iw5wqkoYKArUuYD2Z9Bmc",
                     "discogsLink": "https://www.discogs.com/master/1044105",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=88884&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.5",
@@ -32184,7 +32184,7 @@ export default {
                 },
                 {
                     "album": "Bleeding the Stars",
-                    "albumLink": "https://open.spotify.com/albums/3DPMq9ET2sSyFkTBPLXvjT",
+                    "albumLink": "https://open.spotify.com/album/3DPMq9ET2sSyFkTBPLXvjT",
                     "discogsLink": "https://www.discogs.com/master/1582308",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=97714&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "8.1",
@@ -32193,7 +32193,7 @@ export default {
                 },
                 {
                     "album": "How to Shroud Yourself with Night",
-                    "albumLink": "https://open.spotify.com/albums/64acOLJDFCr9mA2sTbp5Cx",
+                    "albumLink": "https://open.spotify.com/album/64acOLJDFCr9mA2sTbp5Cx",
                     "discogsLink": "https://www.discogs.com/master/2761580",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=144727&band_id=144&bandname=Lacrimas+Profundere",
                     "msRating": "7.5",
@@ -32208,7 +32208,7 @@ export default {
             "albums": [
                 {
                     "album": "Passage",
-                    "albumLink": "https://open.spotify.com/albums/1wvSlnr8p5HfQMllaTDHQc",
+                    "albumLink": "https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc",
                     "discogsLink": "https://www.discogs.com/master/162963",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5946&band_id=1271&bandname=Passage",
                     "msRating": "8.8",
@@ -32217,7 +32217,7 @@ export default {
                 },
                 {
                     "album": "As Darkness Comes",
-                    "albumLink": "https://open.spotify.com/albums/7D7O3U4Buy0no7m10ETsYm",
+                    "albumLink": "https://open.spotify.com/album/7D7O3U4Buy0no7m10ETsYm",
                     "discogsLink": "https://www.discogs.com/release/13435117",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=92110&band_id=1271&bandname=Passage",
                     "msRating": "7.3",
@@ -32226,7 +32226,7 @@ export default {
                 },
                 {
                     "album": "Voyage",
-                    "albumLink": "https://open.spotify.com/albums/0fz9Q83y1mOnWQkO7XisRM",
+                    "albumLink": "https://open.spotify.com/album/0fz9Q83y1mOnWQkO7XisRM",
                     "discogsLink": "https://www.discogs.com/release/1407523",
                     "msLink": "",
                     "msRating": "",
@@ -32241,7 +32241,7 @@ export default {
             "albums": [
                 {
                     "album": "Tears Laid in Earth",
-                    "albumLink": "https://open.spotify.com/albums/6wXKSA8rdDp55Xqfi9iH6M",
+                    "albumLink": "https://open.spotify.com/album/6wXKSA8rdDp55Xqfi9iH6M",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1619&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "8.4",
@@ -32250,7 +32250,7 @@ export default {
                 },
                 {
                     "album": "Painting on Glass",
-                    "albumLink": "https://open.spotify.com/albums/5FkcJRMXrMwTiu2YiM8CFS",
+                    "albumLink": "https://open.spotify.com/album/5FkcJRMXrMwTiu2YiM8CFS",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1621&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "8.2",
@@ -32259,7 +32259,7 @@ export default {
                 },
                 {
                     "album": "In This Room",
-                    "albumLink": "https://open.spotify.com/albums/2lycUsbZkwpxDfaUH13DuF",
+                    "albumLink": "https://open.spotify.com/album/2lycUsbZkwpxDfaUH13DuF",
                     "discogsLink": "https://www.discogs.com/master/12840",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1623&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "7.7",
@@ -32268,7 +32268,7 @@ export default {
                 },
                 {
                     "album": "Memoirs",
-                    "albumLink": "https://open.spotify.com/albums/3LVm46mPKBHPKiAq5cGqdU",
+                    "albumLink": "https://open.spotify.com/album/3LVm46mPKBHPKiAq5cGqdU",
                     "discogsLink": "https://www.discogs.com/master/12850",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1624&band_id=238&bandname=The+3rd+And+The+Mortal",
                     "msRating": "7.4",
@@ -32307,7 +32307,7 @@ export default {
             "albums": [
                 {
                     "album": "The Box",
-                    "albumLink": "https://open.spotify.com/albums/0A9noXFUrokGMuAUhG0YCm",
+                    "albumLink": "https://open.spotify.com/album/0A9noXFUrokGMuAUhG0YCm",
                     "discogsLink": "https://www.discogs.com/release/13986323",
                     "msLink": "",
                     "msRating": "",
@@ -32322,7 +32322,7 @@ export default {
             "albums": [
                 {
                     "album": "The Seeds of Doom",
-                    "albumLink": "https://open.spotify.com/albums/4grlnwprOL2VzmRyciOqrU",
+                    "albumLink": "https://open.spotify.com/album/4grlnwprOL2VzmRyciOqrU",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -32337,7 +32337,7 @@ export default {
             "albums": [
                 {
                     "album": "The Dawning",
-                    "albumLink": "https://open.spotify.com/albums/7daWtDpzNkZe8pmZmDVQGE",
+                    "albumLink": "https://open.spotify.com/album/7daWtDpzNkZe8pmZmDVQGE",
                     "discogsLink": "https://www.discogs.com/release/11443698",
                     "msLink": "",
                     "msRating": "",
@@ -32352,7 +32352,7 @@ export default {
             "albums": [
                 {
                     "album": "Deceptive Awareness",
-                    "albumLink": "https://open.spotify.com/albums/7sq4FwaMZjuwH8Z4pv0erP",
+                    "albumLink": "https://open.spotify.com/album/7sq4FwaMZjuwH8Z4pv0erP",
                     "discogsLink": "https://www.discogs.com/master/512931",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=31112&band_id=3786&bandname=Ablaze+In+Hatred",
                     "msRating": "8.3",
@@ -32361,7 +32361,7 @@ export default {
                 },
                 {
                     "album": "The Quietude Plains",
-                    "albumLink": "https://open.spotify.com/albums/6QedComCPy263tmjovfX65",
+                    "albumLink": "https://open.spotify.com/album/6QedComCPy263tmjovfX65",
                     "discogsLink": "https://www.discogs.com/master/266469",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=31113&band_id=3786&bandname=Ablaze+In+Hatred",
                     "msRating": "8.3",
@@ -32376,7 +32376,7 @@ export default {
             "albums": [
                 {
                     "album": "Fase I",
-                    "albumLink": "https://open.spotify.com/albums/6OBqAg0VErmvOX21dZGUYx",
+                    "albumLink": "https://open.spotify.com/album/6OBqAg0VErmvOX21dZGUYx",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=123415&band_id=13568&bandname=Amen%C3%A9zia",
                     "msRating": "",
@@ -32424,7 +32424,7 @@ export default {
             "albums": [
                 {
                     "album": "For a Black Tomorrow",
-                    "albumLink": "https://open.spotify.com/albums/0zuwkaHi3EvkXu4v8ekXOh",
+                    "albumLink": "https://open.spotify.com/album/0zuwkaHi3EvkXu4v8ekXOh",
                     "discogsLink": "https://www.discogs.com/master/1318883",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107311&band_id=11376&bandname=Deathwhite",
                     "msRating": "7.8",
@@ -32433,7 +32433,7 @@ export default {
                 },
                 {
                     "album": "Grave Image",
-                    "albumLink": "https://open.spotify.com/albums/1g0xULogL9tei8cWAOkpaL",
+                    "albumLink": "https://open.spotify.com/album/1g0xULogL9tei8cWAOkpaL",
                     "discogsLink": "https://www.discogs.com/master/1675786",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107310&band_id=11376&bandname=Deathwhite",
                     "msRating": "8",
@@ -32442,7 +32442,7 @@ export default {
                 },
                 {
                     "album": "Grey Everlasting",
-                    "albumLink": "https://open.spotify.com/albums/7dBghXcti5mMX00Z4acUS3",
+                    "albumLink": "https://open.spotify.com/album/7dBghXcti5mMX00Z4acUS3",
                     "discogsLink": "https://www.discogs.com/master/2667875",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=142279&band_id=11376&bandname=Deathwhite",
                     "msRating": "7.1",
@@ -32457,7 +32457,7 @@ export default {
             "albums": [
                 {
                     "album": "Seven Sins",
-                    "albumLink": "https://open.spotify.com/albums/5ZOHNjE2JOt8NQD97CWKka",
+                    "albumLink": "https://open.spotify.com/album/5ZOHNjE2JOt8NQD97CWKka",
                     "discogsLink": "https://www.discogs.com/release/4859736",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47817&band_id=5484&bandname=Doomas",
                     "msRating": "",
@@ -32499,7 +32499,7 @@ export default {
                 },
                 {
                     "album": "Through Infant Eyes",
-                    "albumLink": "https://open.spotify.com/albums/2couvScA4IJvhJoC2HJBAH",
+                    "albumLink": "https://open.spotify.com/album/2couvScA4IJvhJoC2HJBAH",
                     "discogsLink": "https://www.discogs.com/master/985659",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=88515&band_id=1643&bandname=End+Of+Aeon",
                     "msRating": "7.8",
@@ -32538,7 +32538,7 @@ export default {
                 },
                 {
                     "album": "The Shortest Way",
-                    "albumLink": "https://open.spotify.com/albums/2ULjuVWIaV7ORWHM8rg7Ru",
+                    "albumLink": "https://open.spotify.com/album/2ULjuVWIaV7ORWHM8rg7Ru",
                     "discogsLink": "https://www.discogs.com/master/634480",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=55500&band_id=1591&bandname=Evadne",
                     "msRating": "8.1",
@@ -32547,7 +32547,7 @@ export default {
                 },
                 {
                     "album": "A Mother Named Death",
-                    "albumLink": "https://open.spotify.com/albums/5tZYnc67PlV7XyPCQmPgAm",
+                    "albumLink": "https://open.spotify.com/album/5tZYnc67PlV7XyPCQmPgAm",
                     "discogsLink": "https://www.discogs.com/master/1195782",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=91656&band_id=1591&bandname=Evadne",
                     "msRating": "8",
@@ -32556,7 +32556,7 @@ export default {
                 },
                 {
                     "album": "The Pale Light of Fireflies",
-                    "albumLink": "https://open.spotify.com/albums/4ZODS9oIV8zpZhLsZWqD11",
+                    "albumLink": "https://open.spotify.com/album/4ZODS9oIV8zpZhLsZWqD11",
                     "discogsLink": "https://www.discogs.com/master/2813219",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=137490&band_id=1591&bandname=Evadne",
                     "msRating": "7.9",
@@ -32571,7 +32571,7 @@ export default {
             "albums": [
                 {
                     "album": "Endless Oceans",
-                    "albumLink": "https://open.spotify.com/albums/0MDcOwmCdBrwLWRblwtob1",
+                    "albumLink": "https://open.spotify.com/album/0MDcOwmCdBrwLWRblwtob1",
                     "discogsLink": "https://www.discogs.com/release/5623974",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=74717&band_id=8089&bandname=Ghost+Voyage",
                     "msRating": "6.5",
@@ -32586,7 +32586,7 @@ export default {
             "albums": [
                 {
                     "album": "Inherit the Eden",
-                    "albumLink": "https://open.spotify.com/albums/7hx96FSZZKP1ZlfX0SPtSn",
+                    "albumLink": "https://open.spotify.com/album/7hx96FSZZKP1ZlfX0SPtSn",
                     "discogsLink": "https://www.discogs.com/master/560996",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=22830&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "8.3",
@@ -32595,7 +32595,7 @@ export default {
                 },
                 {
                     "album": "TEOTWAWKI",
-                    "albumLink": "https://open.spotify.com/albums/0wxBrrnEEtVShB5ah2Rtwx",
+                    "albumLink": "https://open.spotify.com/album/0wxBrrnEEtVShB5ah2Rtwx",
                     "discogsLink": "https://www.discogs.com/master/655165",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=36162&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.4",
@@ -32604,7 +32604,7 @@ export default {
                 },
                 {
                     "album": "At Every Door",
-                    "albumLink": "https://open.spotify.com/albums/4WpQKlnO5XMiqJFm38T0Sc",
+                    "albumLink": "https://open.spotify.com/album/4WpQKlnO5XMiqJFm38T0Sc",
                     "discogsLink": "https://www.discogs.com/release/4286312",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=62870&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.9",
@@ -32613,7 +32613,7 @@ export default {
                 },
                 {
                     "album": "Blackout Whiteout",
-                    "albumLink": "https://open.spotify.com/albums/5OAj8YqUpm2UNb0NdoZtAj",
+                    "albumLink": "https://open.spotify.com/album/5OAj8YqUpm2UNb0NdoZtAj",
                     "discogsLink": "https://www.discogs.com/master/948428",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=84235&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.3",
@@ -32622,7 +32622,7 @@ export default {
                 },
                 {
                     "album": "I Am Become",
-                    "albumLink": "https://open.spotify.com/albums/3P852oZjIV75F9VqcGupuB",
+                    "albumLink": "https://open.spotify.com/album/3P852oZjIV75F9VqcGupuB",
                     "discogsLink": "https://www.discogs.com/master/1280971",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=92920&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.8",
@@ -32631,7 +32631,7 @@ export default {
                 },
                 {
                     "album": "Into That Good Night",
-                    "albumLink": "https://open.spotify.com/albums/7nwCLeXnVF5PJxhYpfHI1M",
+                    "albumLink": "https://open.spotify.com/album/7nwCLeXnVF5PJxhYpfHI1M",
                     "discogsLink": "https://www.discogs.com/master/1655505",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=102905&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "8",
@@ -32640,7 +32640,7 @@ export default {
                 },
                 {
                     "album": "Skeleton Lake",
-                    "albumLink": "https://open.spotify.com/albums/095m87bxK0cgoRYsGm5e06",
+                    "albumLink": "https://open.spotify.com/album/095m87bxK0cgoRYsGm5e06",
                     "discogsLink": "https://www.discogs.com/master/2137246",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=130319&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "7.9",
@@ -32649,7 +32649,7 @@ export default {
                 },
                 {
                     "album": "The Garden",
-                    "albumLink": "https://open.spotify.com/albums/0zYPOV8BHIfUQv4T2mKgLW",
+                    "albumLink": "https://open.spotify.com/album/0zYPOV8BHIfUQv4T2mKgLW",
                     "discogsLink": "https://www.discogs.com/master/21145",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=156552&band_id=2935&bandname=Hanging+Garden",
                     "msRating": "8",
@@ -32688,7 +32688,7 @@ export default {
                 },
                 {
                     "album": "Negation of Life",
-                    "albumLink": "https://open.spotify.com/albums/0I6P3Ns9Vjk3rlSWOiOp5J",
+                    "albumLink": "https://open.spotify.com/album/0I6P3Ns9Vjk3rlSWOiOp5J",
                     "discogsLink": "https://www.discogs.com/release/3728265",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=60324&band_id=6810&bandname=In+Loving+Memory",
                     "msRating": "7.7",
@@ -32697,7 +32697,7 @@ export default {
                 },
                 {
                     "album": "The Withering",
-                    "albumLink": "https://open.spotify.com/albums/5n8ZadtS6RSecmAJGBJhOL",
+                    "albumLink": "https://open.spotify.com/album/5n8ZadtS6RSecmAJGBJhOL",
                     "discogsLink": "https://www.discogs.com/release/21183343",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=136688&band_id=6810&bandname=In+Loving+Memory",
                     "msRating": "7.2",
@@ -32775,7 +32775,7 @@ export default {
             "albums": [
                 {
                     "album": "The Last Solace",
-                    "albumLink": "https://open.spotify.com/albums/4Six1UJk5q8sydbwt62xoR",
+                    "albumLink": "https://open.spotify.com/album/4Six1UJk5q8sydbwt62xoR",
                     "discogsLink": "https://www.discogs.com/release/10999649",
                     "msLink": "",
                     "msRating": "",
@@ -32790,7 +32790,7 @@ export default {
             "albums": [
                 {
                     "album": "A Dark Lament",
-                    "albumLink": "https://open.spotify.com/albums/5FOyxK5qwzUk0oE85puA8N",
+                    "albumLink": "https://open.spotify.com/album/5FOyxK5qwzUk0oE85puA8N",
                     "discogsLink": "https://www.discogs.com/release/14493121",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=121159&band_id=13191&bandname=Mortem+Atra",
                     "msRating": "",
@@ -32820,7 +32820,7 @@ export default {
             "albums": [
                 {
                     "album": "Under the Fading Light",
-                    "albumLink": "https://open.spotify.com/albums/1tXodPhzSy3GE5K7WupvkZ",
+                    "albumLink": "https://open.spotify.com/album/1tXodPhzSy3GE5K7WupvkZ",
                     "discogsLink": "https://www.discogs.com/release/5872057",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=116261&band_id=12412&bandname=Myridian",
                     "msRating": "",
@@ -32829,7 +32829,7 @@ export default {
                 },
                 {
                     "album": "We, the Forlorn",
-                    "albumLink": "https://open.spotify.com/albums/7g3SUJiLD5ibwbADFxEvoo",
+                    "albumLink": "https://open.spotify.com/album/7g3SUJiLD5ibwbADFxEvoo",
                     "discogsLink": "https://www.discogs.com/release/6865693",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=116260&band_id=12412&bandname=Myridian",
                     "msRating": "",
@@ -32838,7 +32838,7 @@ export default {
                 },
                 {
                     "album": "Light in the Abyss",
-                    "albumLink": "https://open.spotify.com/albums/3A7LtXy1g8EY6KZbObJrtX",
+                    "albumLink": "https://open.spotify.com/album/3A7LtXy1g8EY6KZbObJrtX",
                     "discogsLink": "https://www.discogs.com/master/1785857",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=116259&band_id=12412&bandname=Myridian",
                     "msRating": "",
@@ -32868,7 +32868,7 @@ export default {
             "albums": [
                 {
                     "album": "Via Gnosis",
-                    "albumLink": "https://open.spotify.com/albums/6kfkPLy9nvoq1USC5TpXBo",
+                    "albumLink": "https://open.spotify.com/album/6kfkPLy9nvoq1USC5TpXBo",
                     "discogsLink": "https://www.discogs.com/master/1574063",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=45609&band_id=5271&bandname=Nox+Aurea",
                     "msRating": "8.2",
@@ -32877,7 +32877,7 @@ export default {
                 },
                 {
                     "album": "Ascending in Triumph",
-                    "albumLink": "https://open.spotify.com/albums/2GLTzEMz98e4vgAiOVwbX5",
+                    "albumLink": "https://open.spotify.com/album/2GLTzEMz98e4vgAiOVwbX5",
                     "discogsLink": "https://www.discogs.com/master/592682",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=45608&band_id=5271&bandname=Nox+Aurea",
                     "msRating": "8.3",
@@ -32907,7 +32907,7 @@ export default {
             "albums": [
                 {
                     "album": "A Beautiful Dystopia",
-                    "albumLink": "https://open.spotify.com/albums/6uJE24W6jEmEQQ0cGzUn23",
+                    "albumLink": "https://open.spotify.com/album/6uJE24W6jEmEQQ0cGzUn23",
                     "discogsLink": "https://www.discogs.com/master/435031",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63408&band_id=7107&bandname=Okera",
                     "msRating": "8.2",
@@ -32922,7 +32922,7 @@ export default {
             "albums": [
                 {
                     "album": "Diotima",
-                    "albumLink": "https://open.spotify.com/albums/12EwaoZfuZaG3BcreYu4s2",
+                    "albumLink": "https://open.spotify.com/album/12EwaoZfuZaG3BcreYu4s2",
                     "discogsLink": "https://www.discogs.com/release/4800269",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=145504&band_id=17284&bandname=Phronesis",
                     "msRating": "",
@@ -32964,7 +32964,7 @@ export default {
                 },
                 {
                     "album": "Of Blood-Red and Gold",
-                    "albumLink": "https://open.spotify.com/albums/3x6JstdiQb8Qa8iQtBHwJE",
+                    "albumLink": "https://open.spotify.com/album/3x6JstdiQb8Qa8iQtBHwJE",
                     "discogsLink": "",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=81741&band_id=4469&bandname=Rain+Delay",
                     "msRating": "7.7",
@@ -32973,7 +32973,7 @@ export default {
                 },
                 {
                     "album": "Selenophilia",
-                    "albumLink": "https://open.spotify.com/albums/2SIQM8XRSIz8S1y3wZe3pQ",
+                    "albumLink": "https://open.spotify.com/album/2SIQM8XRSIz8S1y3wZe3pQ",
                     "discogsLink": "https://www.discogs.com/release/10388153",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=93196&band_id=4469&bandname=Rain+Delay",
                     "msRating": "10",
@@ -32997,7 +32997,7 @@ export default {
             "albums": [
                 {
                     "album": "Concealed Silence",
-                    "albumLink": "https://open.spotify.com/albums/5TzkvJXPdxM59LH7mK283g",
+                    "albumLink": "https://open.spotify.com/album/5TzkvJXPdxM59LH7mK283g",
                     "discogsLink": "https://www.discogs.com/release/4039523",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=98243&band_id=10557&bandname=Red+Moon+Architect",
                     "msRating": "8.8",
@@ -33006,7 +33006,7 @@ export default {
                 },
                 {
                     "album": "Fall",
-                    "albumLink": "https://open.spotify.com/albums/0c97XI5AfGnLw4z4Gr8trh",
+                    "albumLink": "https://open.spotify.com/album/0c97XI5AfGnLw4z4Gr8trh",
                     "discogsLink": "https://www.discogs.com/master/1878855",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=98244&band_id=10557&bandname=Red+Moon+Architect",
                     "msRating": "8.5",
@@ -33015,7 +33015,7 @@ export default {
                 },
                 {
                     "album": "Return of the Black Butterflies",
-                    "albumLink": "https://open.spotify.com/albums/6cKbrnWu08MvsNVxcVUcsr",
+                    "albumLink": "https://open.spotify.com/album/6cKbrnWu08MvsNVxcVUcsr",
                     "discogsLink": "https://www.discogs.com/release/10314313",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=98245&band_id=10557&bandname=Red+Moon+Architect",
                     "msRating": "7.3",
@@ -33024,7 +33024,7 @@ export default {
                 },
                 {
                     "album": "Kuura",
-                    "albumLink": "https://open.spotify.com/albums/1UCSSwCe00cJK7NxJBUCR2",
+                    "albumLink": "https://open.spotify.com/album/1UCSSwCe00cJK7NxJBUCR2",
                     "discogsLink": "https://www.discogs.com/release/13430452",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=98387&band_id=10557&bandname=Red+Moon+Architect",
                     "msRating": "6.9",
@@ -33033,7 +33033,7 @@ export default {
                 },
                 {
                     "album": "Emptiness Weighs the Most",
-                    "albumLink": "https://open.spotify.com/albums/1z83jrsjWCKgCVbkIZAbcd",
+                    "albumLink": "https://open.spotify.com/album/1z83jrsjWCKgCVbkIZAbcd",
                     "discogsLink": "https://www.discogs.com/release/16138384",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=116136&band_id=10557&bandname=Red+Moon+Architect",
                     "msRating": "7.6",
@@ -33048,7 +33048,7 @@ export default {
             "albums": [
                 {
                     "album": "Agonia",
-                    "albumLink": "https://open.spotify.com/albums/29e3ixUKzD4F3YLnAd4DUP",
+                    "albumLink": "https://open.spotify.com/album/29e3ixUKzD4F3YLnAd4DUP",
                     "discogsLink": "https://www.discogs.com/release/9361928",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134657&band_id=15110&bandname=Shadecrown",
                     "msRating": "8.4",
@@ -33057,7 +33057,7 @@ export default {
                 },
                 {
                     "album": "Riven",
-                    "albumLink": "https://open.spotify.com/albums/6eSP7XhPSFH4YClbrV8Ize",
+                    "albumLink": "https://open.spotify.com/album/6eSP7XhPSFH4YClbrV8Ize",
                     "discogsLink": "https://www.discogs.com/release/14244599",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134659&band_id=15110&bandname=Shadecrown",
                     "msRating": "8.8",
@@ -33066,7 +33066,7 @@ export default {
                 },
                 {
                     "album": "Solitarian",
-                    "albumLink": "https://open.spotify.com/albums/66xupchKxjGI4LcE8dOMG5",
+                    "albumLink": "https://open.spotify.com/album/66xupchKxjGI4LcE8dOMG5",
                     "discogsLink": "https://www.discogs.com/release/20267044",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134662&band_id=15110&bandname=Shadecrown",
                     "msRating": "7.8",
@@ -33081,7 +33081,7 @@ export default {
             "albums": [
                 {
                     "album": "Quiescence",
-                    "albumLink": "https://open.spotify.com/albums/6rjv2Lm0sfJxL33HkpOaQZ",
+                    "albumLink": "https://open.spotify.com/album/6rjv2Lm0sfJxL33HkpOaQZ",
                     "discogsLink": "https://www.discogs.com/master/2500615",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=99193&band_id=10702&bandname=Shores+Of+Null",
                     "msRating": "7.9",
@@ -33090,7 +33090,7 @@ export default {
                 },
                 {
                     "album": "Black Drapes for Tomorrow",
-                    "albumLink": "https://open.spotify.com/albums/6CRXUbnSU6QnqZMVKUBBba",
+                    "albumLink": "https://open.spotify.com/album/6CRXUbnSU6QnqZMVKUBBba",
                     "discogsLink": "https://www.discogs.com/master/1545510",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=99194&band_id=10702&bandname=Shores+Of+Null",
                     "msRating": "7.7",
@@ -33099,7 +33099,7 @@ export default {
                 },
                 {
                     "album": "Beyond the Shores (On Death and Dying)",
-                    "albumLink": "https://open.spotify.com/albums/7lKmZkmXCYdvT4lJvAotBN",
+                    "albumLink": "https://open.spotify.com/album/7lKmZkmXCYdvT4lJvAotBN",
                     "discogsLink": "https://www.discogs.com/master/1833910",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=121082&band_id=10702&bandname=Shores+Of+Null",
                     "msRating": "8.2",
@@ -33108,7 +33108,7 @@ export default {
                 },
                 {
                     "album": "The Loss of Beauty",
-                    "albumLink": "https://open.spotify.com/albums/64GTRfZD77H80wLB7xzLE3",
+                    "albumLink": "https://open.spotify.com/album/64GTRfZD77H80wLB7xzLE3",
                     "discogsLink": "https://www.discogs.com/master/3035330",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=156466&band_id=10702&bandname=Shores+Of+Null",
                     "msRating": "8.2",
@@ -33132,7 +33132,7 @@ export default {
                 },
                 {
                     "album": "Contenebrat",
-                    "albumLink": "https://open.spotify.com/albums/1lXflhcaMXsEH9zpp5yVc0",
+                    "albumLink": "https://open.spotify.com/album/1lXflhcaMXsEH9zpp5yVc0",
                     "discogsLink": "https://www.discogs.com/release/8449889",
                     "msLink": "",
                     "msRating": "",
@@ -33162,7 +33162,7 @@ export default {
             "albums": [
                 {
                     "album": "Blood. Stone. Sun. Down.",
-                    "albumLink": "https://open.spotify.com/albums/5nYNWyzmAJwsB6frhuOeqt",
+                    "albumLink": "https://open.spotify.com/album/5nYNWyzmAJwsB6frhuOeqt",
                     "discogsLink": "https://www.discogs.com/release/8755847",
                     "msLink": "",
                     "msRating": "",
@@ -33186,7 +33186,7 @@ export default {
                 },
                 {
                     "album": "October Dark",
-                    "albumLink": "https://open.spotify.com/albums/7oNNQBDmCu04LoA4HItU6j",
+                    "albumLink": "https://open.spotify.com/album/7oNNQBDmCu04LoA4HItU6j",
                     "discogsLink": "https://www.discogs.com/master/1807932",
                     "msLink": "",
                     "msRating": "",
@@ -33201,7 +33201,7 @@ export default {
             "albums": [
                 {
                     "album": "Desidia de la humanidad",
-                    "albumLink": "https://open.spotify.com/albums/59lw30gIwW3y5yPoGL4wf9",
+                    "albumLink": "https://open.spotify.com/album/59lw30gIwW3y5yPoGL4wf9",
                     "discogsLink": "https://www.discogs.com/master/1675631",
                     "msLink": "",
                     "msRating": "",
@@ -33216,7 +33216,7 @@ export default {
             "albums": [
                 {
                     "album": "Burden",
-                    "albumLink": "https://open.spotify.com/albums/4iQR5dqaCt57YA5nd2lEsg",
+                    "albumLink": "https://open.spotify.com/album/4iQR5dqaCt57YA5nd2lEsg",
                     "discogsLink": "https://www.discogs.com/master/244466",
                     "msLink": "",
                     "msRating": "",
@@ -33231,7 +33231,7 @@ export default {
             "albums": [
                 {
                     "album": "Guided by Fire",
-                    "albumLink": "https://open.spotify.com/albums/2NmIY8TLT4Yccug6EnM9yy",
+                    "albumLink": "https://open.spotify.com/album/2NmIY8TLT4Yccug6EnM9yy",
                     "discogsLink": "https://www.discogs.com/master/348426",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=26237&band_id=3288&bandname=Ghost+Brigade",
                     "msRating": "8.4",
@@ -33240,7 +33240,7 @@ export default {
                 },
                 {
                     "album": "Isolation Songs",
-                    "albumLink": "https://open.spotify.com/albums/57V3Gx7AwhKmr6CIUw5zHM",
+                    "albumLink": "https://open.spotify.com/album/57V3Gx7AwhKmr6CIUw5zHM",
                     "discogsLink": "https://www.discogs.com/master/345096",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=33420&band_id=3288&bandname=Ghost+Brigade",
                     "msRating": "8.7",
@@ -33249,7 +33249,7 @@ export default {
                 },
                 {
                     "album": "Until Fear No Longer Defines Us",
-                    "albumLink": "https://open.spotify.com/albums/3TV4lboUxIQZPb6wlcNDUT",
+                    "albumLink": "https://open.spotify.com/album/3TV4lboUxIQZPb6wlcNDUT",
                     "discogsLink": "https://www.discogs.com/master/371328",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=52062&band_id=3288&bandname=Ghost+Brigade",
                     "msRating": "8.4",
@@ -33291,7 +33291,7 @@ export default {
                 },
                 {
                     "album": "2",
-                    "albumLink": "https://open.spotify.com/albums/4ZpbYApEu7u29CsF3wzCMz",
+                    "albumLink": "https://open.spotify.com/album/4ZpbYApEu7u29CsF3wzCMz",
                     "discogsLink": "https://www.discogs.com/release/1682198",
                     "msLink": "",
                     "msRating": "",
@@ -33330,7 +33330,7 @@ export default {
             "albums": [
                 {
                     "album": "Endangered",
-                    "albumLink": "https://open.spotify.com/albums/7q63ncsACfWo4ATQvEenqp",
+                    "albumLink": "https://open.spotify.com/album/7q63ncsACfWo4ATQvEenqp",
                     "discogsLink": "https://www.discogs.com/release/26690906",
                     "msLink": "",
                     "msRating": "",
@@ -33345,7 +33345,7 @@ export default {
             "albums": [
                 {
                     "album": "Dead Poetry",
-                    "albumLink": "https://open.spotify.com/albums/2DEJg5rUFXnSD1EYCNvBbL",
+                    "albumLink": "https://open.spotify.com/album/2DEJg5rUFXnSD1EYCNvBbL",
                     "discogsLink": "https://www.discogs.com/master/1957729",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=123510&band_id=12488&bandname=Veil+Of+Secrets",
                     "msRating": "7.1",
@@ -33390,7 +33390,7 @@ export default {
             "albums": [
                 {
                     "album": "Ascension",
-                    "albumLink": "https://open.spotify.com/albums/0an3vhlxFR6hj4gJkh8ZJy",
+                    "albumLink": "https://open.spotify.com/album/0an3vhlxFR6hj4gJkh8ZJy",
                     "discogsLink": "https://www.discogs.com/master/2301745",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=130249&band_id=14589&bandname=Ghostheart+Nebula",
                     "msRating": "7.1",
@@ -33405,7 +33405,7 @@ export default {
             "albums": [
                 {
                     "album": "Order Divine",
-                    "albumLink": "https://open.spotify.com/albums/6dI0aV0h3BglIVuyomUByB",
+                    "albumLink": "https://open.spotify.com/album/6dI0aV0h3BglIVuyomUByB",
                     "discogsLink": "https://www.discogs.com/master/1573429",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=113748&band_id=12017&bandname=Hinayana",
                     "msRating": "8.1",
@@ -33420,7 +33420,7 @@ export default {
             "albums": [
                 {
                     "album": "Arte Macabro",
-                    "albumLink": "https://open.spotify.com/albums/5JWFjdOwa3g6BtYy9wHgv5",
+                    "albumLink": "https://open.spotify.com/album/5JWFjdOwa3g6BtYy9wHgv5",
                     "discogsLink": "https://www.discogs.com/release/9732146",
                     "msLink": "",
                     "msRating": "",
@@ -33429,7 +33429,7 @@ export default {
                 },
                 {
                     "album": "The Grand Splendour of Death",
-                    "albumLink": "https://open.spotify.com/albums/62oCK9GykHwIYw4ml9Ach4",
+                    "albumLink": "https://open.spotify.com/album/62oCK9GykHwIYw4ml9Ach4",
                     "discogsLink": "https://www.discogs.com/release/19815085",
                     "msLink": "",
                     "msRating": "",
@@ -33459,7 +33459,7 @@ export default {
             "albums": [
                 {
                     "album": "Dreamers",
-                    "albumLink": "https://open.spotify.com/albums/54AdeNNw5hnkiNUoaOv56e",
+                    "albumLink": "https://open.spotify.com/album/54AdeNNw5hnkiNUoaOv56e",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -33474,7 +33474,7 @@ export default {
             "albums": [
                 {
                     "album": "Relógio",
-                    "albumLink": "https://open.spotify.com/albums/3hEohfQtEODZINLi3tflNc",
+                    "albumLink": "https://open.spotify.com/album/3hEohfQtEODZINLi3tflNc",
                     "discogsLink": "https://www.discogs.com/master/1622486",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134710&band_id=15115&bandname=Ode+Insone",
                     "msRating": "9",
@@ -33483,7 +33483,7 @@ export default {
                 },
                 {
                     "album": "A Origem da Agonia",
-                    "albumLink": "https://open.spotify.com/albums/5skkDbvyLqdwRNnoOSvLGs",
+                    "albumLink": "https://open.spotify.com/album/5skkDbvyLqdwRNnoOSvLGs",
                     "discogsLink": "https://www.discogs.com/master/2897455",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=134712&band_id=15115&bandname=Ode+Insone",
                     "msRating": "7",
@@ -33492,7 +33492,7 @@ export default {
                 },
                 {
                     "album": "Isolamento: Do Silêncio à Poesia",
-                    "albumLink": "https://open.spotify.com/albums/0KI8aF7PeS6WDzRHYaTwka",
+                    "albumLink": "https://open.spotify.com/album/0KI8aF7PeS6WDzRHYaTwka",
                     "discogsLink": "https://www.discogs.com/master/2897461",
                     "msLink": "",
                     "msRating": "",
@@ -33507,7 +33507,7 @@ export default {
             "albums": [
                 {
                     "album": "Rain",
-                    "albumLink": "https://open.spotify.com/albums/6t341WLvjXhorLmTkrav2F",
+                    "albumLink": "https://open.spotify.com/album/6t341WLvjXhorLmTkrav2F",
                     "discogsLink": "https://www.discogs.com/master/1977868",
                     "msLink": "",
                     "msRating": "",
@@ -33516,7 +33516,7 @@ export default {
                 },
                 {
                     "album": "No Silver Lining: A Return to Rain",
-                    "albumLink": "https://open.spotify.com/albums/7gDVxRBhr7W5pPBWwztRBb",
+                    "albumLink": "https://open.spotify.com/album/7gDVxRBhr7W5pPBWwztRBb",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -41276,7 +41276,7 @@ export default {
             "albums": [
                 {
                     "album": "Чырвоная ніць",
-                    "albumLink": "https://open.spotify.com/albums/4Tcl5SgTtMl5ulju0SVfRG",
+                    "albumLink": "https://open.spotify.com/album/4Tcl5SgTtMl5ulju0SVfRG",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -41306,7 +41306,7 @@ export default {
             "albums": [
                 {
                     "album": "The Fading Light",
-                    "albumLink": "https://open.spotify.com/albums/5qrIMKDnwuu8MolZWH9oV9",
+                    "albumLink": "https://open.spotify.com/album/5qrIMKDnwuu8MolZWH9oV9",
                     "discogsLink": "https://www.discogs.com/release/5445721",
                     "msLink": "",
                     "msRating": "",
@@ -41351,7 +41351,7 @@ export default {
             "albums": [
                 {
                     "album": "Serpentine Dreamweaver",
-                    "albumLink": "https://open.spotify.com/albums/5CtdNhmPoiImsAyPBtWYjN",
+                    "albumLink": "https://open.spotify.com/album/5CtdNhmPoiImsAyPBtWYjN",
                     "discogsLink": "https://www.discogs.com/release/1105239",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=144636&band_id=17072&bandname=Sobre+Nocturne",
                     "msRating": "",
@@ -41366,7 +41366,7 @@ export default {
             "albums": [
                 {
                     "album": "Fallen from Grace",
-                    "albumLink": "https://open.spotify.com/albums/4M4WpQPhKFgM934bFIDEn0",
+                    "albumLink": "https://open.spotify.com/album/4M4WpQPhKFgM934bFIDEn0",
                     "discogsLink": "https://www.discogs.com/master/1395217",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117208&band_id=12574&bandname=Where+Lovers+Rot",
                     "msRating": "8",
@@ -41390,7 +41390,7 @@ export default {
                 },
                 {
                     "album": "Hammered to the Ice",
-                    "albumLink": "https://open.spotify.com/albums/6s3Rg0mLanjYVvEIuhMIoB",
+                    "albumLink": "https://open.spotify.com/album/6s3Rg0mLanjYVvEIuhMIoB",
                     "discogsLink": "https://www.discogs.com/release/4922370",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=124645&band_id=13754&bandname=After+Rain",
                     "msRating": "",
@@ -41399,7 +41399,7 @@ export default {
                 },
                 {
                     "album": "The Sound of War",
-                    "albumLink": "https://open.spotify.com/albums/2L2ZZs39vTTpXgHgwZKw1C",
+                    "albumLink": "https://open.spotify.com/album/2L2ZZs39vTTpXgHgwZKw1C",
                     "discogsLink": "https://www.discogs.com/master/21662",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=124646&band_id=13754&bandname=After+Rain",
                     "msRating": "",
@@ -41423,7 +41423,7 @@ export default {
             "albums": [
                 {
                     "album": "Deadwood",
-                    "albumLink": "https://open.spotify.com/albums/6458s42v5BqCWbZn6dRBo3",
+                    "albumLink": "https://open.spotify.com/album/6458s42v5BqCWbZn6dRBo3",
                     "discogsLink": "https://www.discogs.com/release/8301909",
                     "msLink": "",
                     "msRating": "",
@@ -41438,7 +41438,7 @@ export default {
             "albums": [
                 {
                     "album": "Season of Grief",
-                    "albumLink": "https://open.spotify.com/albums/7ySFo68qheEwuRzf8CThQc",
+                    "albumLink": "https://open.spotify.com/album/7ySFo68qheEwuRzf8CThQc",
                     "discogsLink": "https://www.discogs.com/master/1708437",
                     "msLink": "",
                     "msRating": "",
@@ -41462,7 +41462,7 @@ export default {
             "albums": [
                 {
                     "album": "A Winter's Tale",
-                    "albumLink": "https://open.spotify.com/albums/49Epx68hJwRvLhOJLsNbA6",
+                    "albumLink": "https://open.spotify.com/album/49Epx68hJwRvLhOJLsNbA6",
                     "discogsLink": "https://www.discogs.com/master/970722",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107015&band_id=11333&bandname=Abyssic",
                     "msRating": "8.2",
@@ -41471,7 +41471,7 @@ export default {
                 },
                 {
                     "album": "High the Memory",
-                    "albumLink": "https://open.spotify.com/albums/0tC5GaIsWbIbf7qQytxjt6",
+                    "albumLink": "https://open.spotify.com/album/0tC5GaIsWbIbf7qQytxjt6",
                     "discogsLink": "https://www.discogs.com/master/1530499",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107016&band_id=11333&bandname=Abyssic",
                     "msRating": "8.6",
@@ -41480,7 +41480,7 @@ export default {
                 },
                 {
                     "album": "Brought Forth in Iniquity",
-                    "albumLink": "https://open.spotify.com/albums/1zsll12QOb9O22JiMUTofL",
+                    "albumLink": "https://open.spotify.com/album/1zsll12QOb9O22JiMUTofL",
                     "discogsLink": "https://www.discogs.com/master/2941090",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=152424&band_id=11333&bandname=Abyssic",
                     "msRating": "8",
@@ -41495,7 +41495,7 @@ export default {
             "albums": [
                 {
                     "album": "Abstract Senses",
-                    "albumLink": "https://open.spotify.com/albums/6lOkH6wvG8UOIBCCeq6ggO",
+                    "albumLink": "https://open.spotify.com/album/6lOkH6wvG8UOIBCCeq6ggO",
                     "discogsLink": "https://www.discogs.com/master/672968",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5834&band_id=1169&bandname=Ad+Vitam+Aeternam",
                     "msRating": "",
@@ -41540,7 +41540,7 @@ export default {
             "albums": [
                 {
                     "album": "Чырвоная ніць",
-                    "albumLink": "https://open.spotify.com/albums/4Tcl5SgTtMl5ulju0SVfRG",
+                    "albumLink": "https://open.spotify.com/album/4Tcl5SgTtMl5ulju0SVfRG",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -41570,7 +41570,7 @@ export default {
             "albums": [
                 {
                     "album": "The Fading Light",
-                    "albumLink": "https://open.spotify.com/albums/5qrIMKDnwuu8MolZWH9oV9",
+                    "albumLink": "https://open.spotify.com/album/5qrIMKDnwuu8MolZWH9oV9",
                     "discogsLink": "https://www.discogs.com/release/5445721",
                     "msLink": "",
                     "msRating": "",
@@ -41615,7 +41615,7 @@ export default {
             "albums": [
                 {
                     "album": "Serpentine Dreamweaver",
-                    "albumLink": "https://open.spotify.com/albums/5CtdNhmPoiImsAyPBtWYjN",
+                    "albumLink": "https://open.spotify.com/album/5CtdNhmPoiImsAyPBtWYjN",
                     "discogsLink": "https://www.discogs.com/release/1105239",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=144636&band_id=17072&bandname=Sobre+Nocturne",
                     "msRating": "",
@@ -41630,7 +41630,7 @@ export default {
             "albums": [
                 {
                     "album": "Fallen from Grace",
-                    "albumLink": "https://open.spotify.com/albums/4M4WpQPhKFgM934bFIDEn0",
+                    "albumLink": "https://open.spotify.com/album/4M4WpQPhKFgM934bFIDEn0",
                     "discogsLink": "https://www.discogs.com/master/1395217",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=117208&band_id=12574&bandname=Where+Lovers+Rot",
                     "msRating": "8",
@@ -41654,7 +41654,7 @@ export default {
                 },
                 {
                     "album": "Hammered to the Ice",
-                    "albumLink": "https://open.spotify.com/albums/6s3Rg0mLanjYVvEIuhMIoB",
+                    "albumLink": "https://open.spotify.com/album/6s3Rg0mLanjYVvEIuhMIoB",
                     "discogsLink": "https://www.discogs.com/release/4922370",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=124645&band_id=13754&bandname=After+Rain",
                     "msRating": "",
@@ -41663,7 +41663,7 @@ export default {
                 },
                 {
                     "album": "The Sound of War",
-                    "albumLink": "https://open.spotify.com/albums/2L2ZZs39vTTpXgHgwZKw1C",
+                    "albumLink": "https://open.spotify.com/album/2L2ZZs39vTTpXgHgwZKw1C",
                     "discogsLink": "https://www.discogs.com/master/21662",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=124646&band_id=13754&bandname=After+Rain",
                     "msRating": "",
@@ -41687,7 +41687,7 @@ export default {
             "albums": [
                 {
                     "album": "Deadwood",
-                    "albumLink": "https://open.spotify.com/albums/6458s42v5BqCWbZn6dRBo3",
+                    "albumLink": "https://open.spotify.com/album/6458s42v5BqCWbZn6dRBo3",
                     "discogsLink": "https://www.discogs.com/release/8301909",
                     "msLink": "",
                     "msRating": "",
@@ -41702,7 +41702,7 @@ export default {
             "albums": [
                 {
                     "album": "Season of Grief",
-                    "albumLink": "https://open.spotify.com/albums/7ySFo68qheEwuRzf8CThQc",
+                    "albumLink": "https://open.spotify.com/album/7ySFo68qheEwuRzf8CThQc",
                     "discogsLink": "https://www.discogs.com/master/1708437",
                     "msLink": "",
                     "msRating": "",
@@ -41726,7 +41726,7 @@ export default {
             "albums": [
                 {
                     "album": "A Winter's Tale",
-                    "albumLink": "https://open.spotify.com/albums/49Epx68hJwRvLhOJLsNbA6",
+                    "albumLink": "https://open.spotify.com/album/49Epx68hJwRvLhOJLsNbA6",
                     "discogsLink": "https://www.discogs.com/master/970722",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107015&band_id=11333&bandname=Abyssic",
                     "msRating": "8.2",
@@ -41735,7 +41735,7 @@ export default {
                 },
                 {
                     "album": "High the Memory",
-                    "albumLink": "https://open.spotify.com/albums/0tC5GaIsWbIbf7qQytxjt6",
+                    "albumLink": "https://open.spotify.com/album/0tC5GaIsWbIbf7qQytxjt6",
                     "discogsLink": "https://www.discogs.com/master/1530499",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=107016&band_id=11333&bandname=Abyssic",
                     "msRating": "8.6",
@@ -41744,7 +41744,7 @@ export default {
                 },
                 {
                     "album": "Brought Forth in Iniquity",
-                    "albumLink": "https://open.spotify.com/albums/1zsll12QOb9O22JiMUTofL",
+                    "albumLink": "https://open.spotify.com/album/1zsll12QOb9O22JiMUTofL",
                     "discogsLink": "https://www.discogs.com/master/2941090",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=152424&band_id=11333&bandname=Abyssic",
                     "msRating": "8",
@@ -41759,7 +41759,7 @@ export default {
             "albums": [
                 {
                     "album": "Abstract Senses",
-                    "albumLink": "https://open.spotify.com/albums/6lOkH6wvG8UOIBCCeq6ggO",
+                    "albumLink": "https://open.spotify.com/album/6lOkH6wvG8UOIBCCeq6ggO",
                     "discogsLink": "https://www.discogs.com/master/672968",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5834&band_id=1169&bandname=Ad+Vitam+Aeternam",
                     "msRating": "",
@@ -42242,7 +42242,7 @@ export default {
             "albums": [
                 {
                     "album": "The Winning Tragedy",
-                    "albumLink": "https://open.spotify.com/albums/0l3jT1Pxnzflte3RaFHQyu",
+                    "albumLink": "https://open.spotify.com/album/0l3jT1Pxnzflte3RaFHQyu",
                     "discogsLink": "https://www.discogs.com/release/18131086",
                     "msLink": "",
                     "msRating": "",
@@ -42257,7 +42257,7 @@ export default {
             "albums": [
                 {
                     "album": "Ghosts of Devotion",
-                    "albumLink": "https://open.spotify.com/albums/4BQs1wLBKQzvvlVKsrQzOj",
+                    "albumLink": "https://open.spotify.com/album/4BQs1wLBKQzvvlVKsrQzOj",
                     "discogsLink": "https://www.discogs.com/master/598221",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=18216&band_id=2477&bandname=Depressed+Mode",
                     "msRating": "8.2",
@@ -42266,7 +42266,7 @@ export default {
                 },
                 {
                     "album": "..for Death..",
-                    "albumLink": "https://open.spotify.com/albums/3aGxhQ1d4VpUzsWCEDcyhx",
+                    "albumLink": "https://open.spotify.com/album/3aGxhQ1d4VpUzsWCEDcyhx",
                     "discogsLink": "https://www.discogs.com/release/1759298",
                     "msLink": "",
                     "msRating": "",
@@ -42275,7 +42275,7 @@ export default {
                 },
                 {
                     "album": "Decade of Silence",
-                    "albumLink": "https://open.spotify.com/albums/0zImQSij3CAhYMlkGiCW78",
+                    "albumLink": "https://open.spotify.com/album/0zImQSij3CAhYMlkGiCW78",
                     "discogsLink": "https://www.discogs.com/release/23400023",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=139375&band_id=2477&bandname=Depressed+Mode",
                     "msRating": "7.7",
@@ -42314,7 +42314,7 @@ export default {
             "albums": [
                 {
                     "album": "Insight",
-                    "albumLink": "https://open.spotify.com/albums/6xl7845EZN4OlC7FxWXpL4",
+                    "albumLink": "https://open.spotify.com/album/6xl7845EZN4OlC7FxWXpL4",
                     "discogsLink": "https://www.discogs.com/release/1393982",
                     "msLink": "",
                     "msRating": "",
@@ -42329,7 +42329,7 @@ export default {
             "albums": [
                 {
                     "album": "Last Called...",
-                    "albumLink": "https://open.spotify.com/albums/0ms1N07WWkFNlQibzeFtGX",
+                    "albumLink": "https://open.spotify.com/album/0ms1N07WWkFNlQibzeFtGX",
                     "discogsLink": "https://www.discogs.com/master/1813503",
                     "msLink": "",
                     "msRating": "",
@@ -42338,7 +42338,7 @@ export default {
                 },
                 {
                     "album": "Tempus",
-                    "albumLink": "https://open.spotify.com/albums/32hkkrIsDQWfPHKzKyBDYs",
+                    "albumLink": "https://open.spotify.com/album/32hkkrIsDQWfPHKzKyBDYs",
                     "discogsLink": "https://www.discogs.com/release/15839775",
                     "msLink": "",
                     "msRating": "",
@@ -42368,7 +42368,7 @@ export default {
             "albums": [
                 {
                     "album": "In Spheres Without Time",
-                    "albumLink": "https://open.spotify.com/albums/3PRAb6t1YGSShKU928xpqw",
+                    "albumLink": "https://open.spotify.com/album/3PRAb6t1YGSShKU928xpqw",
                     "discogsLink": "https://www.discogs.com/master/12689",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=140096&band_id=16114&bandname=Myriads",
                     "msRating": "9",
@@ -42377,7 +42377,7 @@ export default {
                 },
                 {
                     "album": "Introspection",
-                    "albumLink": "https://open.spotify.com/albums/3TY3HgZfP4g4lufgRTEj8T",
+                    "albumLink": "https://open.spotify.com/album/3TY3HgZfP4g4lufgRTEj8T",
                     "discogsLink": "https://www.discogs.com/master/313687",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=140097&band_id=16114&bandname=Myriads",
                     "msRating": "7",
@@ -42401,7 +42401,7 @@ export default {
                 },
                 {
                     "album": "Salvation",
-                    "albumLink": "https://open.spotify.com/albums/1rPyIdXiHPnKPPWnG1NDq2",
+                    "albumLink": "https://open.spotify.com/album/1rPyIdXiHPnKPPWnG1NDq2",
                     "discogsLink": "https://www.discogs.com/release/16243675",
                     "msLink": "",
                     "msRating": "",
@@ -42446,7 +42446,7 @@ export default {
             "albums": [
                 {
                     "album": "Lake of Sorrow",
-                    "albumLink": "https://open.spotify.com/albums/4j6YOlgp8gPbg7eZuTGq1D",
+                    "albumLink": "https://open.spotify.com/album/4j6YOlgp8gPbg7eZuTGq1D",
                     "discogsLink": "https://www.discogs.com/master/231931",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1359&band_id=194&bandname=The+Sins+Of+Thy+Beloved",
                     "msRating": "8.7",
@@ -42455,7 +42455,7 @@ export default {
                 },
                 {
                     "album": "Perpetual Desolation",
-                    "albumLink": "https://open.spotify.com/albums/5j6TJMg4v7gNAvw24v7cyq",
+                    "albumLink": "https://open.spotify.com/album/5j6TJMg4v7gNAvw24v7cyq",
                     "discogsLink": "https://www.discogs.com/master/12743",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1360&band_id=194&bandname=The+Sins+Of+Thy+Beloved",
                     "msRating": "8.3",
@@ -42470,7 +42470,7 @@ export default {
             "albums": [
                 {
                     "album": "Sombre Romantic",
-                    "albumLink": "https://open.spotify.com/albums/01F8GrZihTOm8Q8LnzrtdS",
+                    "albumLink": "https://open.spotify.com/album/01F8GrZihTOm8Q8LnzrtdS",
                     "discogsLink": "https://www.discogs.com/master/11147",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2250&band_id=309&bandname=Virgin+Black",
                     "msRating": "8.6",
@@ -42479,7 +42479,7 @@ export default {
                 },
                 {
                     "album": "Elegant... and Dying",
-                    "albumLink": "https://open.spotify.com/albums/00CRWo1A6lMj4BNoLogev1",
+                    "albumLink": "https://open.spotify.com/album/00CRWo1A6lMj4BNoLogev1",
                     "discogsLink": "https://www.discogs.com/master/11155",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2249&band_id=309&bandname=Virgin+Black",
                     "msRating": "8.5",
@@ -42530,7 +42530,7 @@ export default {
                 },
                 {
                     "album": "Шторм времён",
-                    "albumLink": "https://open.spotify.com/albums/6GrZu78qdRh5JnFE9O93Zd",
+                    "albumLink": "https://open.spotify.com/album/6GrZu78qdRh5JnFE9O93Zd",
                     "discogsLink": "",
                     "msLink": "",
                     "msRating": "",
@@ -42554,7 +42554,7 @@ export default {
                 },
                 {
                     "album": "À tout jamais",
-                    "albumLink": "https://open.spotify.com/albums/3WOHWmaaZ4b2Q5AYbDoGv4",
+                    "albumLink": "https://open.spotify.com/album/3WOHWmaaZ4b2Q5AYbDoGv4",
                     "discogsLink": "https://www.discogs.com/release/13819216",
                     "msLink": "",
                     "msRating": "",
@@ -42578,7 +42578,7 @@ export default {
                 },
                 {
                     "album": "Nightmare Diaries",
-                    "albumLink": "https://open.spotify.com/albums/5LSv3pRIF411MSYiN5uLOl",
+                    "albumLink": "https://open.spotify.com/album/5LSv3pRIF411MSYiN5uLOl",
                     "discogsLink": "https://www.discogs.com/master/658489",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=48576&band_id=5608&bandname=Ancestral+Legacy",
                     "msRating": "8.4",
@@ -42587,7 +42587,7 @@ export default {
                 },
                 {
                     "album": "Terminal",
-                    "albumLink": "https://open.spotify.com/albums/4A9bxyYTB6ZaKwQugOO8EO",
+                    "albumLink": "https://open.spotify.com/album/4A9bxyYTB6ZaKwQugOO8EO",
                     "discogsLink": "https://www.discogs.com/master/735419",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=78434&band_id=5608&bandname=Ancestral+Legacy",
                     "msRating": "8.3",
@@ -42602,7 +42602,7 @@ export default {
             "albums": [
                 {
                     "album": "Die Kemenaten scharlachroter Lichter",
-                    "albumLink": "https://open.spotify.com/albums/2JJJbGmO5nYYL4nEV5zQAj",
+                    "albumLink": "https://open.spotify.com/album/2JJJbGmO5nYYL4nEV5zQAj",
                     "discogsLink": "https://www.discogs.com/master/112172",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46240&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -42611,7 +42611,7 @@ export default {
                 },
                 {
                     "album": "Das Tagebuch der Hanna Anikin",
-                    "albumLink": "https://open.spotify.com/albums/6tmT0aAxDlrcU391eeFmaq",
+                    "albumLink": "https://open.spotify.com/album/6tmT0aAxDlrcU391eeFmaq",
                     "discogsLink": "https://www.discogs.com/master/494122",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46241&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -42620,7 +42620,7 @@ export default {
                 },
                 {
                     "album": "Das Schachbrett des Trommelbuben Zacharias",
-                    "albumLink": "https://open.spotify.com/albums/4nRQft3EsJpWj42b8Efmoe",
+                    "albumLink": "https://open.spotify.com/album/4nRQft3EsJpWj42b8Efmoe",
                     "discogsLink": "https://www.discogs.com/master/372021",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46242&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -42638,7 +42638,7 @@ export default {
                 },
                 {
                     "album": "Ein Toter fährt gern Ringelspiel",
-                    "albumLink": "https://open.spotify.com/albums/1hQZXZrQW3kcM5iy7GGQPu",
+                    "albumLink": "https://open.spotify.com/album/1hQZXZrQW3kcM5iy7GGQPu",
                     "discogsLink": "https://www.discogs.com/master/576887",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=46445&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -42647,7 +42647,7 @@ export default {
                 },
                 {
                     "album": "Kokon (Ein schaurig-schönes Schachtelstück)",
-                    "albumLink": "https://open.spotify.com/albums/66l0l2T1tZUehaxysMNMvG",
+                    "albumLink": "https://open.spotify.com/album/66l0l2T1tZUehaxysMNMvG",
                     "discogsLink": "https://www.discogs.com/master/2843095",
                     "msLink": "",
                     "msRating": "",
@@ -42656,7 +42656,7 @@ export default {
                 },
                 {
                     "album": "Des Winters finsterer Gesell",
-                    "albumLink": "https://open.spotify.com/albums/65HFfn7phk7WkyOeKCAh8m",
+                    "albumLink": "https://open.spotify.com/album/65HFfn7phk7WkyOeKCAh8m",
                     "discogsLink": "https://www.discogs.com/release/4402298",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=59605&band_id=5236&bandname=Angizia",
                     "msRating": "",
@@ -42671,7 +42671,7 @@ export default {
             "albums": [
                 {
                     "album": "Wasteland",
-                    "albumLink": "https://open.spotify.com/albums/27iJ1TW1ujaRV5Lfsfz5BC",
+                    "albumLink": "https://open.spotify.com/album/27iJ1TW1ujaRV5Lfsfz5BC",
                     "discogsLink": "https://www.discogs.com/master/624592",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=21077&band_id=2719&bandname=Atargatis",
                     "msRating": "8.4",
@@ -42680,7 +42680,7 @@ export default {
                 },
                 {
                     "album": "Nova",
-                    "albumLink": "https://open.spotify.com/albums/4vJbaSlFgQ9Mr0iQFW1egB",
+                    "albumLink": "https://open.spotify.com/album/4vJbaSlFgQ9Mr0iQFW1egB",
                     "discogsLink": "https://www.discogs.com/master/446891",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=21076&band_id=2719&bandname=Atargatis",
                     "msRating": "7.5",
@@ -42695,7 +42695,7 @@ export default {
             "albums": [
                 {
                     "album": "Delusion",
-                    "albumLink": "https://open.spotify.com/albums/7nUJKY7o6IFjm0RgElUegr",
+                    "albumLink": "https://open.spotify.com/album/7nUJKY7o6IFjm0RgElUegr",
                     "discogsLink": "https://www.discogs.com/master/970481",
                     "msLink": "",
                     "msRating": "",
@@ -42719,7 +42719,7 @@ export default {
             "albums": [
                 {
                     "album": "In Memories",
-                    "albumLink": "https://open.spotify.com/albums/3SbGp5BjaBvo6gmdoYFrf6",
+                    "albumLink": "https://open.spotify.com/album/3SbGp5BjaBvo6gmdoYFrf6",
                     "discogsLink": "https://www.discogs.com/release/5721708",
                     "msLink": "",
                     "msRating": "",
@@ -42728,7 +42728,7 @@ export default {
                 },
                 {
                     "album": "Mysto",
-                    "albumLink": "https://open.spotify.com/albums/1clLGfK5yOp51eipVqn48i",
+                    "albumLink": "https://open.spotify.com/album/1clLGfK5yOp51eipVqn48i",
                     "discogsLink": "https://www.discogs.com/release/15119848",
                     "msLink": "",
                     "msRating": "",
@@ -42743,7 +42743,7 @@ export default {
             "albums": [
                 {
                     "album": "Ebony Veiled",
-                    "albumLink": "https://open.spotify.com/albums/5bYdmN3cDm4jXcwBgOhhKV",
+                    "albumLink": "https://open.spotify.com/album/5bYdmN3cDm4jXcwBgOhhKV",
                     "discogsLink": "https://www.discogs.com/master/1570951",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=17794&band_id=2397&bandname=Kimaera",
                     "msRating": "8.1",
@@ -42752,7 +42752,7 @@ export default {
                 },
                 {
                     "album": "Solitary Impact",
-                    "albumLink": "https://open.spotify.com/albums/4XQK69DWpzX888GKKrcg8q",
+                    "albumLink": "https://open.spotify.com/album/4XQK69DWpzX888GKKrcg8q",
                     "discogsLink": "https://www.discogs.com/release/4725625",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=33459&band_id=2397&bandname=Kimaera",
                     "msRating": "7.4",
@@ -42761,7 +42761,7 @@ export default {
                 },
                 {
                     "album": "The Harbinger of Doom",
-                    "albumLink": "https://open.spotify.com/albums/60QgtPwMztU8LapNOxhcsj",
+                    "albumLink": "https://open.spotify.com/album/60QgtPwMztU8LapNOxhcsj",
                     "discogsLink": "https://www.discogs.com/master/689632",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=63314&band_id=2397&bandname=Kimaera",
                     "msRating": "7.8",
@@ -42770,7 +42770,7 @@ export default {
                 },
                 {
                     "album": "Imperivm",
-                    "albumLink": "https://open.spotify.com/albums/5axaT9O1BmrilxHYpmC1pZ",
+                    "albumLink": "https://open.spotify.com/album/5axaT9O1BmrilxHYpmC1pZ",
                     "discogsLink": "https://www.discogs.com/release/25578625",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=142543&band_id=2397&bandname=Kimaera",
                     "msRating": "7.1",
@@ -42785,7 +42785,7 @@ export default {
             "albums": [
                 {
                     "album": "The Call of the Wood",
-                    "albumLink": "https://open.spotify.com/albums/6VKUIph5jOinhe1wlPxVPN",
+                    "albumLink": "https://open.spotify.com/album/6VKUIph5jOinhe1wlPxVPN",
                     "discogsLink": "https://www.discogs.com/master/99590",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4353&band_id=397&bandname=Opera+IX",
                     "msRating": "8.1",
@@ -42794,7 +42794,7 @@ export default {
                 },
                 {
                     "album": "Sacro culto",
-                    "albumLink": "https://open.spotify.com/albums/3gywJVWFxcwGTpY4wV9YdV",
+                    "albumLink": "https://open.spotify.com/album/3gywJVWFxcwGTpY4wV9YdV",
                     "discogsLink": "https://www.discogs.com/master/434371",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2987&band_id=397&bandname=Opera+IX",
                     "msRating": "8.4",
@@ -42803,7 +42803,7 @@ export default {
                 },
                 {
                     "album": "The Black Opera: Symphoniae Mysteriorum in Laudem Tenebrarum",
-                    "albumLink": "https://open.spotify.com/albums/1fBDyGNaiYTL00aZNa4wa2",
+                    "albumLink": "https://open.spotify.com/album/1fBDyGNaiYTL00aZNa4wa2",
                     "discogsLink": "https://www.discogs.com/master/179736",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=3816&band_id=397&bandname=Opera+IX",
                     "msRating": "8.6",
@@ -42821,7 +42821,7 @@ export default {
                 },
                 {
                     "album": "Anphisbena",
-                    "albumLink": "https://open.spotify.com/albums/2Bjqgah9xtfp6WzkEkc9YU",
+                    "albumLink": "https://open.spotify.com/album/2Bjqgah9xtfp6WzkEkc9YU",
                     "discogsLink": "https://www.discogs.com/master/99589",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=2989&band_id=397&bandname=Opera+IX",
                     "msRating": "7.4",
@@ -42839,7 +42839,7 @@ export default {
                 },
                 {
                     "album": "Back to Sepulcro",
-                    "albumLink": "https://open.spotify.com/albums/28W7UoMzIdEoONjRnsBHaD",
+                    "albumLink": "https://open.spotify.com/album/28W7UoMzIdEoONjRnsBHaD",
                     "discogsLink": "https://www.discogs.com/master/1552937",
                     "msLink": "",
                     "msRating": "",
@@ -42848,7 +42848,7 @@ export default {
                 },
                 {
                     "album": "The Gospel",
-                    "albumLink": "https://open.spotify.com/albums/31Zd55fLSPyYJwfw36WWC4",
+                    "albumLink": "https://open.spotify.com/album/31Zd55fLSPyYJwfw36WWC4",
                     "discogsLink": "https://www.discogs.com/master/1461703",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=95465&band_id=397&bandname=Opera+IX",
                     "msRating": "7.8",
@@ -42863,7 +42863,7 @@ export default {
             "albums": [
                 {
                     "album": "Infinita Plango Vulnera",
-                    "albumLink": "https://open.spotify.com/albums/4xEkXAb3efO4YZ2enR8zCC",
+                    "albumLink": "https://open.spotify.com/album/4xEkXAb3efO4YZ2enR8zCC",
                     "discogsLink": "https://www.discogs.com/master/885384",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1466&band_id=211&bandname=Silentium",
                     "msRating": "8",
@@ -42872,7 +42872,7 @@ export default {
                 },
                 {
                     "album": "Altum",
-                    "albumLink": "https://open.spotify.com/albums/4fUydcmV57t3GlZELFY4Sv",
+                    "albumLink": "https://open.spotify.com/album/4fUydcmV57t3GlZELFY4Sv",
                     "discogsLink": "https://www.discogs.com/master/235619",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1468&band_id=211&bandname=Silentium",
                     "msRating": "8.1",
@@ -42881,7 +42881,7 @@ export default {
                 },
                 {
                     "album": "Sufferion - Hamartia of Prudence",
-                    "albumLink": "https://open.spotify.com/albums/3AWSFc54TXFkOIG43uvDIx",
+                    "albumLink": "https://open.spotify.com/album/3AWSFc54TXFkOIG43uvDIx",
                     "discogsLink": "https://www.discogs.com/master/191386",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=1469&band_id=211&bandname=Silentium",
                     "msRating": "7.7",
@@ -42890,7 +42890,7 @@ export default {
                 },
                 {
                     "album": "Seducia",
-                    "albumLink": "https://open.spotify.com/albums/0wREftVJib84MnpEb1UPGl",
+                    "albumLink": "https://open.spotify.com/album/0wREftVJib84MnpEb1UPGl",
                     "discogsLink": "https://www.discogs.com/master/235612",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=4478&band_id=211&bandname=Silentium",
                     "msRating": "7.5",
@@ -42899,7 +42899,7 @@ export default {
                 },
                 {
                     "album": "Amortean",
-                    "albumLink": "https://open.spotify.com/albums/11XgQbZ2NYOTdzXNRL7XVc",
+                    "albumLink": "https://open.spotify.com/album/11XgQbZ2NYOTdzXNRL7XVc",
                     "discogsLink": "https://www.discogs.com/master/504316",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=25602&band_id=211&bandname=Silentium",
                     "msRating": "6.9",
@@ -42908,7 +42908,7 @@ export default {
                 },
                 {
                     "album": "Motiva",
-                    "albumLink": "https://open.spotify.com/albums/4zarYABSRq9GONo3ud4tzz",
+                    "albumLink": "https://open.spotify.com/album/4zarYABSRq9GONo3ud4tzz",
                     "discogsLink": "https://www.discogs.com/release/15832187",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=118319&band_id=211&bandname=Silentium",
                     "msRating": "6.5",
@@ -42941,7 +42941,7 @@ export default {
                 },
                 {
                     "album": "A Social Berserker",
-                    "albumLink": "https://open.spotify.com/albums/1HEeTg0e36gllJPoLNom0Z",
+                    "albumLink": "https://open.spotify.com/album/1HEeTg0e36gllJPoLNom0Z",
                     "discogsLink": "https://www.discogs.com/master/1382882",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=75864&band_id=2186&bandname=Tacit+Fury",
                     "msRating": "7.7",
@@ -42974,7 +42974,7 @@ export default {
                 },
                 {
                     "album": "Deep Blue Phoenix",
-                    "albumLink": "https://open.spotify.com/albums/7arEHlkAZfKNoClBsT4866",
+                    "albumLink": "https://open.spotify.com/album/7arEHlkAZfKNoClBsT4866",
                     "discogsLink": "https://www.discogs.com/release/18861229",
                     "msLink": "",
                     "msRating": "",
@@ -42983,7 +42983,7 @@ export default {
                 },
                 {
                     "album": "Kaliningrad",
-                    "albumLink": "https://open.spotify.com/albums/0TbX5h0bfcVZVBhfeKC6Kh",
+                    "albumLink": "https://open.spotify.com/album/0TbX5h0bfcVZVBhfeKC6Kh",
                     "discogsLink": "https://www.discogs.com/master/1789452",
                     "msLink": "",
                     "msRating": "",
@@ -43007,7 +43007,7 @@ export default {
                 },
                 {
                     "album": "Two Sides...",
-                    "albumLink": "https://open.spotify.com/albums/4XHeZMWDPL16I2qcBF4N99",
+                    "albumLink": "https://open.spotify.com/album/4XHeZMWDPL16I2qcBF4N99",
                     "discogsLink": "https://www.discogs.com/master/652190",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=5936&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -43034,7 +43034,7 @@ export default {
                 },
                 {
                     "album": "Angel & Pain",
-                    "albumLink": "https://open.spotify.com/albums/4lkH7ZXIT85e7LTNY5bFTs",
+                    "albumLink": "https://open.spotify.com/album/4lkH7ZXIT85e7LTNY5bFTs",
                     "discogsLink": "https://www.discogs.com/master/1807364",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=47570&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
@@ -43043,7 +43043,7 @@ export default {
                 },
                 {
                     "album": "Age of Silence",
-                    "albumLink": "https://open.spotify.com/albums/1opAN76bVTkbplLrcGP0q2",
+                    "albumLink": "https://open.spotify.com/album/1opAN76bVTkbplLrcGP0q2",
                     "discogsLink": "https://www.discogs.com/master/1370806",
                     "msLink": "https://metalstorm.net/bands/album.php?album_id=96072&band_id=1262&bandname=Little+Dead+Bertha",
                     "msRating": "",
