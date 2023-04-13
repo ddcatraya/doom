@@ -15,10 +15,13 @@
         text-align: left;
         border-bottom: 1px solid #ddd;
       }
+      td:nth-child(1) {
+        text-align: left;
+      }
       td:nth-child(2) {
         text-align: center;
       }
-      td:nth-child(4) {
+      td:nth-child(3) {
         text-align: center;
       }
       td:nth-child(5) {
@@ -31,6 +34,9 @@
         text-align: center;
       }
       td:nth-child(8) {
+        text-align: center;
+      }
+      td:nth-child(9) {
         text-align: center;
       }
       th {
@@ -46,9 +52,12 @@
         width: 5%;
       }
       th:nth-child(3) {
-        width: 35%;
+        width: 5%;
       }
       th:nth-child(4) {
+        width: 30%;
+      }
+      th:nth-child(5) {
         width: 8%;
         text-align: center;
       }
@@ -106,43 +115,111 @@
       .hidden {
         display: none;
       }
+
+      .top-button {
+        position: absolute;
+        top: 5px;
+        right: 15px;
+        background-color: #007bff;
+        color: #fff;
+        padding: 8px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      a:hover {
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .floating {
+        position: fixed;
+        bottom: 10px;
+        right: 15px;
+        background-color: #007bff;
+        color: #fff;
+        padding: 8px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>
     <script type="module">
-      import bandsList from './joined-bands.js'
-      import countries from './countries.js'
+      import bandsList from "./joined-bands.js";
+      import countries from "./countries.js";
 
-      const headers = Object.keys(bandsList)
-      const bandsdata = Object.values(bandsList)
+      const headers = Object.keys(bandsList);
+      const bandsdata = Object.values(bandsList);
 
-      const data = bandsdata.map((genre) => {
-        return genre.flatMap((band) => {
-          return band.albums.map((album) => ({
-            artist: band.artist,
-            country: band.country,
-            ...album,
-          }));
+      const duplicateArray = new Map();
+      bandsdata.forEach((currentData, tabIndex) => {
+        currentData.forEach((band) => {
+          if (duplicateArray.has(band.artist)) {
+            const dup = duplicateArray.get(band.artist);
+            dup.push(headers[tabIndex]);
+            duplicateArray.set(band.artist, dup);
+          } else {
+            duplicateArray.set(band.artist, [headers[tabIndex]]);
+          }
         });
       });
 
-      let sortOrder = 1;
+      bandsdata.forEach((currentData, tabIndex) => {
+        currentData.forEach((band) => {
+          const duplicate = [...duplicateArray.get(band.artist)];
+          if (duplicate.length > 1) {
+            band.genre = duplicate.filter(
+              (dup, idx) => dup !== headers[tabIndex]
+            );
+          } else {
+            band.genre = [];
+          }
+        });
+      });
+
+      const getData = () =>
+        bandsdata.map((genre) => {
+          return genre.flatMap((band) => {
+            return band.albums.map((album) => ({
+              ...band,
+              ...album,
+            }));
+          });
+        });
+      let data = getData();
+
+      const bringTopButton = document.createElement("button");
+      bringTopButton.classList.add("floating");
+      bringTopButton.innerText = "+";
+      bringTopButton.addEventListener("click", () => {
+        window.scrollTo(0, 0);
+      });
+      document.body.appendChild(bringTopButton);
 
       const tabsContainer = document.createElement("div");
       tabsContainer.classList.add("tabs");
 
       const tabButtons = headers.map((genre, index) => ({
-          label: genre.replace(/-doom/g, "").replace(/^\w/, c => c.toUpperCase()),
-          dataTab: "table" + (index+1),
-          active: index === 0
-        })
-      )
+        label: genre
+          .replace(/-doom/g, "")
+          .replace(/^\w/, (c) => c.toUpperCase()),
+        dataTab: genre,
+        active: index === 0,
+        href: `#${genre}`,
+      }));
 
       tabButtons.forEach((tab, index) => {
-        const button = document.createElement("button");
+        const button = document.createElement("a");
         button.classList.add("tab-link");
         button.textContent = tab.label;
         button.dataset.tab = tab.dataTab;
+        button.href = tab.href;
         if (tab.active) {
           button.classList.add("active");
         }
@@ -156,38 +233,14 @@
       document.body.appendChild(tabsContainer);
       document.body.appendChild(tabContentContainer);
 
-      function sortData(tabIndex, column) {
-        data[tabIndex].sort((a, b) => {
-          const valA =
-            column === "album"
-              ? a.album
-              : column === "year"
-              ? a.year
-              : column === "country"
-              ? a.country
-              : a.artist;
-          const valB =
-            column === "album"
-              ? b.album
-              : column === "year"
-              ? b.year
-              : column === "country"
-              ? b.country
-              : b.artist;
-          if (valA < valB) {
-            return -sortOrder;
-          }
-          if (valA > valB) {
-            return sortOrder;
-          }
-          return 0;
-        });
-      }
-
       const tabLinks = document.querySelectorAll(".tab-link");
+
+      let sortOrder = 1;
 
       tabLinks.forEach((link, tabIndex) => {
         link.addEventListener("click", () => {
+          let previousArtist = "";
+
           tabLinks.forEach((tab) => void tab.classList.remove("active"));
           link.classList.add("active");
 
@@ -203,6 +256,7 @@
           tr.append(
             th("Artist"),
             th("Country"),
+            th("Genre"),
             th("Album"),
             th("Year"),
             th("Archives"),
@@ -213,13 +267,12 @@
           thead.append(tr);
           table.append(thead, tbody);
 
-          let previousArtist = "";
-
           data[tabIndex].forEach(
             ({
               artist,
               album,
               year,
+              genre,
               archivesLink,
               albumLink,
               msLink,
@@ -229,9 +282,11 @@
             }) => {
               const tr = document.createElement("tr");
               const { code } = countries.find((con) => con.name === country);
+              const duplicate = [...duplicateArray.get(artist)];
 
               if (previousArtist === artist) {
                 const tdArtist = document.createElement("td");
+                tdArtist.textContent = artist;
                 tdArtist.classList.add("invisible");
                 tr.appendChild(tdArtist);
 
@@ -239,9 +294,13 @@
                 tdCountry.classList.add("invisible");
                 tdCountry.textContent = code;
                 tr.appendChild(tdCountry);
+
+                const gName = document.createElement("td");
+                tr.appendChild(gName);
               } else {
                 const tdArtist = document.createElement("td");
-                tdArtist.textContent = artist;
+                tdArtist.textContent = artist + " ";
+                tdArtist.setAttribute("aria-label", artist);
                 previousArtist = artist;
                 tr.appendChild(tdArtist);
 
@@ -249,6 +308,28 @@
                 tdCountry.textContent = code;
                 tdCountry.title = country;
                 tr.appendChild(tdCountry);
+
+                const gName = document.createElement("td");
+                if (genre.length > 0) {
+                  genre.forEach((dup, idx) => {
+                    if (dup !== headers[tabIndex]) {
+                      const span = document.createElement("a");
+                      span.textContent =
+                        dup === "progressive-metal" ? `(v) ` : `(${dup[0]}) `;
+                      span.href = `#${dup}`;
+                      span.title = dup;
+                      span.style.cursor = "pointer";
+                      span.addEventListener("click", () => {
+                        document.querySelector(`[data-tab="${dup}"]`).click();
+                        document
+                          .querySelector(`td[aria-label="${artist}"]`)
+                          .scrollIntoView();
+                      });
+                      gName.appendChild(span);
+                    }
+                  });
+                }
+                tr.appendChild(gName);
               }
 
               const tdName = document.createElement("td");
@@ -298,19 +379,40 @@
           content.innerHTML = "";
           content.appendChild(table);
 
+          const resetButton = document.createElement("button");
+          resetButton.textContent = "x";
+          resetButton.classList.add("top-button");
+          content.appendChild(resetButton);
+          resetButton.addEventListener("click", () => {
+            data = getData();
+            link.click();
+          });
+
           const ths = [...thead.querySelectorAll("th")];
 
-          ths.slice(0, 4).forEach((cols) => {
+          ths.slice(0, 5).forEach((cols) => {
             cols.addEventListener("click", (currentTh) => {
-              const currentText = cols.textContent.toLowerCase();
-              sortData(tabIndex, currentText);
+              const column = cols.textContent.toLowerCase();
+
+              data[tabIndex].sort((a, b) => {
+                const valA = a[column];
+                const valB = b[column];
+                if (valA < valB) {
+                  return -sortOrder;
+                }
+                if (valA > valB) {
+                  return sortOrder;
+                }
+                return 0;
+              });
+
               sortOrder *= -1;
 
               link.click();
             });
           });
 
-          ths.slice(3).forEach((th) => {
+          ths.slice(5).forEach((th) => {
             th.addEventListener("click", (currentTh) => {
               const currentText = th.textContent.toLowerCase();
               const rows = document.querySelectorAll("tr");
