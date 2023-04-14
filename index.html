@@ -416,6 +416,24 @@
           ths.slice(5).forEach((th) => {
             th.addEventListener("click", (currentTh) => {
               const currentText = th.textContent.toLowerCase();
+              
+              if (currentText === "metalstorm") {
+                data[tabIndex].sort((a, b) => {
+                  const valA = a.msRating;
+                  const valB = b.msRating;
+                  if (valA > valB) {
+                    return -sortOrder;
+                  }
+                  if (valA < valB) {
+                    return sortOrder;
+                  }
+                  return 0;
+                });
+
+                sortOrder *= -1;
+                link.click();
+              }
+
               const rows = document.querySelectorAll("tr");
               const [header, ...rest] = rows;
 
@@ -427,6 +445,7 @@
                   row.classList.add("hidden");
                 }
               });
+
             });
           });
         });
