@@ -14,31 +14,15 @@
         padding: 8px;
         text-align: left;
         border-bottom: 1px solid #ddd;
-      }
-      td:nth-child(1) {
-        text-align: left;
+        text-align: center;
       }
       td:nth-child(2) {
-        text-align: center;
-      }
-      td:nth-child(3) {
-        text-align: center;
+        text-align: left;
       }
       td:nth-child(5) {
-        text-align: center;
+        text-align: left;
       }
-      td:nth-child(6) {
-        text-align: center;
-      }
-      td:nth-child(7) {
-        text-align: center;
-      }
-      td:nth-child(8) {
-        text-align: center;
-      }
-      td:nth-child(9) {
-        text-align: center;
-      }
+
       th {
         background-color: #f2f2f2;
         font-weight: bold;
@@ -46,24 +30,27 @@
         width: 300px;
       }
       th:first-child {
-        width: 17%;
+        width: 3%;
       }
       th:nth-child(2) {
-        width: 5%;
+        width: 14%;
       }
       th:nth-child(3) {
-        width: 8%;
-        text-align: center;
+        width: 5%;
       }
       th:nth-child(4) {
-        width: 30%;
-      }
-      th:nth-child(5) {
         width: 8%;
         text-align: center;
       }
-      th:nth-last-child(-n + 4) {
-        width: 8%;
+      th:nth-child(5) {
+        width: 30%;
+      }
+      th:nth-child(6) {
+        width: 10%;
+        text-align: center;
+      }
+      th:nth-last-child(-n + 5) {
+        width: 6%;
         text-align: center;
       }
 
@@ -86,6 +73,7 @@
       .tab-link {
         position: relative;
         top: 1px;
+        font-size: 12px;
         display: block;
         padding: 10px 15px;
         margin-right: 10px;
@@ -152,40 +140,39 @@
   </head>
   <body>
     <script type="module">
-      import bandsList from "./joined-bands.js";
+      import bandsList from "./joined-bands-youtube.js";
       import countries from "./countries.js";
 
       const headers = Object.keys(bandsList);
       const bandsdata = Object.values(bandsList);
 
       const duplicateArray = new Map();
+      const artists = new Set();
       bandsdata.forEach((currentData, tabIndex) => {
         currentData.forEach((band) => {
           if (duplicateArray.has(band.artist)) {
             const dup = duplicateArray.get(band.artist);
-            dup.push(headers[tabIndex]);
+            dup.add(headers[tabIndex]);
             duplicateArray.set(band.artist, dup);
           } else {
-            duplicateArray.set(band.artist, [headers[tabIndex]]);
+            duplicateArray.set(band.artist, new Set([headers[tabIndex]]));
           }
         });
       });
 
       bandsdata.forEach((currentData, tabIndex) => {
         currentData.forEach((band) => {
-          const duplicate = [...duplicateArray.get(band.artist)];
-          if (duplicate.length > 1) {
-            band.genre = duplicate.filter(
-              (dup, idx) => dup !== headers[tabIndex]
-            );
-          } else {
-            band.genre = [];
-          }
+          band.genre = [...duplicateArray.get(band.artist)];
+          band.tabGenre = headers[tabIndex];
         });
       });
 
-      const getData = () =>
-        bandsdata.map((genre) => {
+      const artistNames = [
+        ...new Set(bandsdata.flat().map((item) => item.artist)),
+      ];
+
+      const getData = (tabIndex = -1) => {
+        const gottenData = bandsdata.flatMap((genre) => {
           return genre.flatMap((band) => {
             return band.albums.map((album) => ({
               ...band,
@@ -193,7 +180,11 @@
             }));
           });
         });
-      let data = getData();
+
+        return tabIndex === -1
+          ? gottenData.filter(item => artistNames.includes(item.artist) && headers.includes(item.tabGenre))
+          : gottenData.filter((dat) => dat.tabGenre === headers[tabIndex]);
+      };
 
       const bringTopButton = document.createElement("button");
       bringTopButton.classList.add("floating");
@@ -203,15 +194,26 @@
       });
       document.body.appendChild(bringTopButton);
 
+      const allButton = document.createElement("a");
+      allButton.classList.add("tab-link");
+      allButton.classList.add("all");
+      allButton.textContent = "All" + " (" + artistNames.length + ")";
+      allButton.dataset.tab = "all";
+      allButton.href = "#all";
+      allButton.classList.add("active");
+
       const tabsContainer = document.createElement("div");
       tabsContainer.classList.add("tabs");
+      tabsContainer.appendChild(allButton);
 
       const tabButtons = headers.map((genre, index) => ({
-        label: genre
-          .replace(/-doom/g, "")
-          .replace(/^\w/, (c) => c.toUpperCase()),
+        label:
+          genre.replace(/-doom/g, "").replace(/^\w/, (c) => c.toUpperCase()) +
+          " (" +
+          bandsdata[index].length +
+          ")",
         dataTab: genre,
-        active: index === 0,
+        active: false,
         href: `#${genre}`,
       }));
 
@@ -237,13 +239,22 @@
       const tabLinks = document.querySelectorAll(".tab-link");
 
       let sortOrder = 1;
-
-      tabLinks.forEach((link, tabIndex) => {
+      let currentTab = -1;
+      let data;
+      tabLinks.forEach((link, tabIndexer) => {
+        const tabIndex = tabIndexer - 1;
         link.addEventListener("click", () => {
           let previousArtist = "";
-
+          const content = document.getElementById("main-table");
+          content.innerHTML = "";
           tabLinks.forEach((tab) => void tab.classList.remove("active"));
           link.classList.add("active");
+
+          if (currentTab !== tabIndexer) {
+            data = getData(tabIndex);
+          }
+
+          currentTab = tabIndexer;
 
           const table = document.createElement("table");
           const thead = document.createElement("thead");
@@ -255,12 +266,14 @@
             return el;
           };
           tr.append(
+            th("#"),
             th("Artist"),
             th("Country"),
             th("Genre"),
             th("Album"),
             th("Year"),
             th("Archives"),
+            th("Youtube"),
             th("Spotify"),
             th("Metalstorm"),
             th("Discogs")
@@ -268,7 +281,9 @@
           thead.append(tr);
           table.append(thead, tbody);
 
-          data[tabIndex].forEach(
+          let num = 1;
+
+          data.forEach(
             ({
               artist,
               album,
@@ -278,6 +293,7 @@
               albumLink,
               msLink,
               discogsLink,
+              youtubeLink = "",
               msRating,
               country,
             }) => {
@@ -286,6 +302,11 @@
               const duplicate = [...duplicateArray.get(artist)];
 
               if (previousArtist === artist) {
+                const tdId = document.createElement("td");
+                tdId.textContent = "";
+                tdId.classList.add("invisible");
+                tr.appendChild(tdId);
+
                 const tdArtist = document.createElement("td");
                 tdArtist.textContent = artist;
                 tdArtist.classList.add("invisible");
@@ -299,6 +320,11 @@
                 const gName = document.createElement("td");
                 tr.appendChild(gName);
               } else {
+                const tdId = document.createElement("td");
+                tdId.textContent = String(num);
+                num++;
+                tr.appendChild(tdId);
+
                 const tdArtist = document.createElement("td");
                 tdArtist.textContent = artist + " ";
                 tdArtist.setAttribute("aria-label", artist);
@@ -343,6 +369,7 @@
 
               Object.entries({
                 archives: archivesLink,
+                youtube: youtubeLink,
                 spotify: albumLink,
                 metalstorm: msLink,
                 discogs: discogsLink,
@@ -376,8 +403,6 @@
             }
           );
 
-          const content = document.getElementById("main-table");
-          content.innerHTML = "";
           content.appendChild(table);
 
           const resetButton = document.createElement("button");
@@ -385,17 +410,17 @@
           resetButton.classList.add("top-button");
           content.appendChild(resetButton);
           resetButton.addEventListener("click", () => {
-            data = getData();
+            data = getData(tabIndex);
             link.click();
           });
 
           const ths = [...thead.querySelectorAll("th")];
 
-          ths.slice(0, 5).forEach((cols) => {
+          ths.slice(1, 6).forEach((cols) => {
             cols.addEventListener("click", (currentTh) => {
               const column = cols.textContent.toLowerCase();
 
-              data[tabIndex].sort((a, b) => {
+              data.sort((a, b) => {
                 const valA = a[column];
                 const valB = b[column];
                 if (valA < valB) {
@@ -413,12 +438,12 @@
             });
           });
 
-          ths.slice(5).forEach((th) => {
+          ths.slice(6).forEach((th) => {
             th.addEventListener("click", (currentTh) => {
               const currentText = th.textContent.toLowerCase();
-              
+
               if (currentText === "metalstorm") {
-                data[tabIndex].sort((a, b) => {
+                data.sort((a, b) => {
                   const valA = a.msRating;
                   const valB = b.msRating;
                   if (valA > valB) {
@@ -445,14 +470,13 @@
                   row.classList.add("hidden");
                 }
               });
-
             });
           });
         });
       });
 
       setTimeout(() => {
-        document.querySelector(".tab-link").click();
+        allButton.click();
       }, 0);
     </script>
   </body>
