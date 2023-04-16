@@ -105,17 +105,6 @@
         display: none;
       }
 
-      .top-button {
-        position: absolute;
-        top: 5px;
-        right: 15px;
-        background-color: #007bff;
-        color: #fff;
-        padding: 8px;
-        border-radius: 5px;
-        cursor: pointer;
-      }
-
       a {
         text-decoration: none;
         color: inherit;
@@ -136,6 +125,10 @@
         border-radius: 5px;
         cursor: pointer;
       }
+
+      .year,.genres,.country,.metalstorm {
+        color:teal
+      }
     </style>
   </head>
   <body>
@@ -145,6 +138,9 @@
 
       const headers = Object.keys(bandsList);
       const bandsdata = Object.values(bandsList);
+
+      const hashtag = window.location.hash;
+      const cleartag = hashtag.substring(1);
 
       const duplicateArray = new Map();
       const artists = new Set();
@@ -167,23 +163,33 @@
         });
       });
 
+      const flattedbandsdata = bandsdata.flat();
       const artistNames = [
         ...new Set(bandsdata.flat().map((item) => item.artist)),
       ];
 
       const getData = (tabIndex = -1) => {
-        const gottenData = bandsdata.flatMap((genre) => {
-          return genre.flatMap((band) => {
+        if (tabIndex === -1) {
+          return flattedbandsdata
+            .filter(
+              (v, i, a) => a.findIndex((v2) => v2.artist === v.artist) === i
+            )
+            .flatMap((band) => {
+              return band.albums.map((album) => ({
+                ...band,
+                ...album,
+              }));
+            });
+        }
+
+        return flattedbandsdata
+          .flatMap((band) => {
             return band.albums.map((album) => ({
               ...band,
               ...album,
             }));
-          });
-        });
-
-        return tabIndex === -1
-          ? gottenData.filter(item => artistNames.includes(item.artist) && headers.includes(item.tabGenre))
-          : gottenData.filter((dat) => dat.tabGenre === headers[tabIndex]);
+          })
+          .filter((dat) => dat.tabGenre === headers[tabIndex]);
       };
 
       const bringTopButton = document.createElement("button");
@@ -243,14 +249,14 @@
       let data;
       tabLinks.forEach((link, tabIndexer) => {
         const tabIndex = tabIndexer - 1;
-        link.addEventListener("click", () => {
+        link.addEventListener("click", (event) => {
           let previousArtist = "";
           const content = document.getElementById("main-table");
           content.innerHTML = "";
           tabLinks.forEach((tab) => void tab.classList.remove("active"));
           link.classList.add("active");
 
-          if (currentTab !== tabIndexer) {
+          if (currentTab !== tabIndexer || event.isTrusted) {
             data = getData(tabIndex);
           }
 
@@ -314,6 +320,7 @@
 
                 const tdCountry = document.createElement("td");
                 tdCountry.classList.add("invisible");
+                tdCountry.classList.add('country')
                 tdCountry.textContent = code;
                 tr.appendChild(tdCountry);
 
@@ -334,23 +341,45 @@
                 const tdCountry = document.createElement("td");
                 tdCountry.textContent = code;
                 tdCountry.title = country;
+                tdCountry.classList.add('country')
+                tdCountry.style.cursor = "pointer";
+                tdCountry.addEventListener("click", () => {
+                  const rows = document.querySelectorAll("tr");
+                  const [header, ...rest] = rows;
+                  rest.forEach((row) => row.classList.remove("hidden"));
+                  rest.forEach((row) => {
+                    const countrylist = row.querySelector(".country")
+                    if (countrylist.textContent !== code) {
+                      row.classList.add("hidden");
+                    }
+                  });
+                });
                 tr.appendChild(tdCountry);
 
                 const gName = document.createElement("td");
                 if (genre.length > 0) {
                   genre.forEach((dup, idx) => {
                     if (dup !== headers[tabIndex]) {
-                      const span = document.createElement("a");
+                      const span = document.createElement("span");
                       span.textContent =
                         dup === "progressive-metal" ? `(v) ` : `(${dup[0]}) `;
-                      span.href = `#${dup}`;
                       span.title = dup;
+                      span.classList.add("genres");
                       span.style.cursor = "pointer";
                       span.addEventListener("click", () => {
-                        document.querySelector(`[data-tab="${dup}"]`).click();
-                        document
-                          .querySelector(`td[aria-label="${artist}"]`)
-                          .scrollIntoView();
+                        const rows = document.querySelectorAll("tr");
+                        const [header, ...rest] = rows;
+
+                        rest.forEach((row) => row.classList.remove("hidden"));
+
+                        rest.forEach((row) => {
+                          const genresList = [
+                            ...row.querySelectorAll(".genres"),
+                          ];
+                          if (!genresList.some((im) => im.title === dup)) {
+                            row.classList.add("hidden");
+                          }
+                        });
                       });
                       gName.appendChild(span);
                     }
@@ -365,7 +394,22 @@
 
               const tdYear = document.createElement("td");
               tdYear.textContent = year;
+              tdYear.style.cursor = "pointer";
+              tdYear.classList.add('year');
               tr.appendChild(tdYear);
+              tdYear.addEventListener("click", () => {
+                  const rows = document.querySelectorAll("tr");
+                  const [header, ...rest] = rows;
+
+                  rest.forEach((row) => row.classList.remove("hidden"));
+
+                  rest.forEach((row) => {
+                    const currentYear = row.querySelector(".year")
+                    if (currentYear.textContent !== year) {
+                      row.classList.add("hidden");
+                    }
+                  });
+                });
 
               Object.entries({
                 archives: archivesLink,
@@ -390,6 +434,7 @@
                   if (name === "metalstorm" && msRating) {
                     const span = document.createElement("span");
                     span.textContent = "   " + msRating;
+                    span.classList.add('metalstorm')
                     a.appendChild(span);
 
                     img.classList.add("hidden");
@@ -404,15 +449,6 @@
           );
 
           content.appendChild(table);
-
-          const resetButton = document.createElement("button");
-          resetButton.textContent = "x";
-          resetButton.classList.add("top-button");
-          content.appendChild(resetButton);
-          resetButton.addEventListener("click", () => {
-            data = getData(tabIndex);
-            link.click();
-          });
 
           const ths = [...thead.querySelectorAll("th")];
 
@@ -476,7 +512,13 @@
       });
 
       setTimeout(() => {
-        allButton.click();
+        if (cleartag) {
+          const dataTab = document.querySelector(`[data-tab="${cleartag}"]`)
+          
+          dataTab && dataTab.click()
+        } else {
+          allButton.click();
+        }
       }, 0);
     </script>
   </body>
