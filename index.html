@@ -361,8 +361,7 @@
                   genre.forEach((dup, idx) => {
                     if (dup !== headers[tabIndex]) {
                       const span = document.createElement("span");
-                      span.textContent =
-                        dup === "progressive-doom" ? `(v) ` : `(${dup[0]}) `;
+                      span.textContent = `(${dup[0]}${dup[1]}) `;
                       span.title = dup;
                       span.classList.add("genres");
                       span.style.cursor = "pointer";
