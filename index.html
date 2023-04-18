@@ -24,7 +24,8 @@
       }
 
       th {
-        background-color: #f2f2f2;
+        background-color: LightSlateGray;
+        color: white;
         font-weight: bold;
         cursor: pointer;
         width: 300px;
@@ -86,8 +87,9 @@
       }
 
       .tab-link.active {
-        background-color: #ddd;
+        background-color: LightSlateGray;
         border-bottom: 1px solid #ddd;
+        color: white;
         z-index: 1;
       }
 
@@ -247,17 +249,19 @@
       let sortOrder = 1;
       let currentTab = -1;
       let data;
+      let lastColumn = ""
       tabLinks.forEach((link, tabIndexer) => {
         const tabIndex = tabIndexer - 1;
         link.addEventListener("click", (event) => {
-          let previousArtist = "";
           const content = document.getElementById("main-table");
           content.innerHTML = "";
           tabLinks.forEach((tab) => void tab.classList.remove("active"));
           link.classList.add("active");
 
           if (currentTab !== tabIndexer || event.isTrusted) {
-            data = getData(tabIndex);
+            data = getData(tabIndex);  
+            sortOrder = 1;
+            lastColumn = ""
           }
 
           currentTab = tabIndexer;
@@ -288,6 +292,8 @@
           table.append(thead, tbody);
 
           let num = 1;
+          let albumArray = {};
+          let previousArtist = ""
 
           data.forEach(
             ({
@@ -299,13 +305,18 @@
               albumLink,
               msLink,
               discogsLink,
-              youtubeLink = "",
+              youtubeLink,
               msRating,
               country,
             }) => {
               const tr = document.createElement("tr");
               const { code } = countries.find((con) => con.name === country);
               const duplicate = [...duplicateArray.get(artist)];
+              
+              if (!albumArray[artist]) {
+                albumArray[artist] = [];
+              }
+              albumArray[artist].push(album);
 
               if (previousArtist === artist) {
                 const tdId = document.createElement("td");
@@ -327,6 +338,7 @@
                 const gName = document.createElement("td");
                 tr.appendChild(gName);
               } else {
+                previousArtist = artist;
                 const tdId = document.createElement("td");
                 tdId.textContent = String(num);
                 num++;
@@ -335,7 +347,6 @@
                 const tdArtist = document.createElement("td");
                 tdArtist.textContent = artist + " ";
                 tdArtist.setAttribute("aria-label", artist);
-                previousArtist = artist;
                 tr.appendChild(tdArtist);
 
                 const tdCountry = document.createElement("td");
@@ -390,6 +401,10 @@
               const tdName = document.createElement("td");
               tdName.textContent = album;
               tr.appendChild(tdName);
+
+              if (albumArray[artist][0] === album) {
+                tr.style.backgroundColor = 'AliceBlue'
+              }
 
               const tdYear = document.createElement("td");
               tdYear.textContent = year;
@@ -455,6 +470,13 @@
             cols.addEventListener("click", (currentTh) => {
               const column = cols.textContent.toLowerCase();
 
+              if (lastColumn !== column) {
+                sortOrder = 1;
+                lastColumn = ""
+              }
+
+              lastColumn = column;
+
               data.sort((a, b) => {
                 const valA = a[column];
                 const valB = b[column];
@@ -478,6 +500,12 @@
               const currentText = th.textContent.toLowerCase();
 
               if (currentText === "metalstorm") {
+                if (lastColumn !== "metalstorm") {
+                  sortOrder = 1;
+                  lastColumn = ""
+                }
+                
+                lastColumn = "metalstorm";
                 data.sort((a, b) => {
                   const valA = a.msRating;
                   const valB = b.msRating;
