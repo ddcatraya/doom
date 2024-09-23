@@ -128,15 +128,61 @@
         cursor: pointer;
       }
 
-      .year,.genres,.country,.metalstorm {
-        color:teal
+      .year,
+      .genres,
+      .country,
+      .metalstorm {
+        color: teal;
+      }
+
+      #snackbar {
+        visibility: hidden;
+        min-width: 250px;
+        background-color: lightgreen;
+        color: teal;
+        text-align: center;
+        border-radius: 4px;
+        padding: 16px;
+        position: fixed;
+        z-index: 1;
+        left: 50%;
+        bottom: 30px;
+        font-size: 17px;
+        transform: translateX(-50%);
+      }
+
+      #snackbar.show {
+        visibility: visible;
+        animation: fadeInOut 2s ease-in-out forwards;
+      }
+
+      @keyframes fadeInOut {
+        0%,
+        100% {
+          opacity: 0;
+        }
+        10%,
+        90% {
+          opacity: 1;
+        }
       }
     </style>
   </head>
   <body>
+    <div id="snackbar"></div>
     <script type="module">
       import bandsList from "./joined-bands-youtube.js";
       import countries from "./countries.js";
+
+      function showSnackbar(message) {
+        const snackbar = document.getElementById("snackbar");
+        snackbar.textContent = message;
+        snackbar.className = "show";
+
+        setTimeout(function () {
+          snackbar.className = snackbar.className.replace("show", "");
+        }, 3000);
+      }
 
       const headers = Object.keys(bandsList);
       const bandsdata = Object.values(bandsList);
@@ -249,7 +295,7 @@
       let sortOrder = 1;
       let currentTab = -1;
       let data;
-      let lastColumn = ""
+      let lastColumn = "";
       tabLinks.forEach((link, tabIndexer) => {
         const tabIndex = tabIndexer - 1;
         link.addEventListener("click", (event) => {
@@ -259,9 +305,9 @@
           link.classList.add("active");
 
           if (currentTab !== tabIndexer || event.isTrusted) {
-            data = getData(tabIndex);  
+            data = getData(tabIndex);
             sortOrder = 1;
-            lastColumn = ""
+            lastColumn = "";
           }
 
           currentTab = tabIndexer;
@@ -293,7 +339,7 @@
 
           let num = 1;
           let albumArray = {};
-          let previousArtist = ""
+          let previousArtist = "";
 
           data.forEach(
             ({
@@ -312,7 +358,7 @@
               const tr = document.createElement("tr");
               const { code } = countries.find((con) => con.name === country);
               const duplicate = [...duplicateArray.get(artist)];
-              
+
               if (!albumArray[artist]) {
                 albumArray[artist] = [];
               }
@@ -331,7 +377,7 @@
 
                 const tdCountry = document.createElement("td");
                 tdCountry.classList.add("invisible");
-                tdCountry.classList.add('country')
+                tdCountry.classList.add("country");
                 tdCountry.textContent = code;
                 tr.appendChild(tdCountry);
 
@@ -347,19 +393,33 @@
                 const tdArtist = document.createElement("td");
                 tdArtist.textContent = artist + " ";
                 tdArtist.setAttribute("aria-label", artist);
+                tdArtist.style.cursor = "pointer";
+                tdArtist.addEventListener("click", function () {
+                  const textToCopy = tdArtist.textContent;
+
+                  const tempTextarea = document.createElement("textarea");
+                  tempTextarea.value = textToCopy;
+                  document.body.appendChild(tempTextarea);
+
+                  tempTextarea.select();
+                  document.execCommand("copy");
+                  showSnackbar(`COPIED: ${textToCopy}`);
+
+                  document.body.removeChild(tempTextarea);
+                });
                 tr.appendChild(tdArtist);
 
                 const tdCountry = document.createElement("td");
                 tdCountry.textContent = code;
                 tdCountry.title = country;
-                tdCountry.classList.add('country')
+                tdCountry.classList.add("country");
                 tdCountry.style.cursor = "pointer";
                 tdCountry.addEventListener("click", () => {
                   const rows = document.querySelectorAll("tr");
                   const [header, ...rest] = rows;
                   rest.forEach((row) => row.classList.remove("hidden"));
                   rest.forEach((row) => {
-                    const countrylist = row.querySelector(".country")
+                    const countrylist = row.querySelector(".country");
                     if (countrylist.textContent !== code) {
                       row.classList.add("hidden");
                     }
@@ -400,30 +460,43 @@
 
               const tdName = document.createElement("td");
               tdName.textContent = album;
+              tdName.style.cursor = "pointer";
+              tdName.addEventListener("click", function () {
+                const textToCopy = artist + " - " + tdName.textContent;
+                const tempTextarea = document.createElement("textarea");
+                tempTextarea.value = textToCopy;
+                document.body.appendChild(tempTextarea);
+
+                tempTextarea.select();
+                document.execCommand("copy");
+                showSnackbar(`COPIED: ${textToCopy}`);
+
+                document.body.removeChild(tempTextarea);
+              });
               tr.appendChild(tdName);
 
               if (albumArray[artist][0] === album) {
-                tr.style.backgroundColor = 'AliceBlue'
+                tr.style.backgroundColor = "AliceBlue";
               }
 
               const tdYear = document.createElement("td");
               tdYear.textContent = year;
               tdYear.style.cursor = "pointer";
-              tdYear.classList.add('year');
+              tdYear.classList.add("year");
               tr.appendChild(tdYear);
               tdYear.addEventListener("click", () => {
-                  const rows = document.querySelectorAll("tr");
-                  const [header, ...rest] = rows;
+                const rows = document.querySelectorAll("tr");
+                const [header, ...rest] = rows;
 
-                  rest.forEach((row) => row.classList.remove("hidden"));
+                rest.forEach((row) => row.classList.remove("hidden"));
 
-                  rest.forEach((row) => {
-                    const currentYear = row.querySelector(".year")
-                    if (currentYear.textContent !== year) {
-                      row.classList.add("hidden");
-                    }
-                  });
+                rest.forEach((row) => {
+                  const currentYear = row.querySelector(".year");
+                  if (currentYear.textContent !== year) {
+                    row.classList.add("hidden");
+                  }
                 });
+              });
 
               Object.entries({
                 archives: archivesLink,
@@ -448,7 +521,7 @@
                   if (name === "metalstorm" && msRating) {
                     const span = document.createElement("span");
                     span.textContent = "   " + msRating;
-                    span.classList.add('metalstorm')
+                    span.classList.add("metalstorm");
                     a.appendChild(span);
 
                     img.classList.add("hidden");
@@ -472,7 +545,7 @@
 
               if (lastColumn !== column) {
                 sortOrder = 1;
-                lastColumn = ""
+                lastColumn = "";
               }
 
               lastColumn = column;
@@ -502,9 +575,9 @@
               if (currentText === "metalstorm") {
                 if (lastColumn !== "metalstorm") {
                   sortOrder = 1;
-                  lastColumn = ""
+                  lastColumn = "";
                 }
-                
+
                 lastColumn = "metalstorm";
                 data.sort((a, b) => {
                   const valA = a.msRating;
@@ -540,9 +613,9 @@
 
       setTimeout(() => {
         if (cleartag) {
-          const dataTab = document.querySelector(`[data-tab="${cleartag}"]`)
-          
-          dataTab && dataTab.click()
+          const dataTab = document.querySelector(`[data-tab="${cleartag}"]`);
+
+          dataTab && dataTab.click();
         } else {
           allButton.click();
         }
