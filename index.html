@@ -255,6 +255,10 @@
       });
       document.body.appendChild(bringTopButton);
 
+      const doomTitle = document.createElement("h3");
+      doomTitle.textContent = "Doom with Female Vocalists / Witch Metal";
+      document.body.appendChild(doomTitle);
+
       const allButton = document.createElement("a");
       allButton.classList.add("tab-link");
       allButton.classList.add("all");
@@ -269,7 +273,7 @@
 
       const tabButtons = headers.map((genre, index) => ({
         label:
-          genre.replace(/-doom/g, "").replace(/^\w/, (c) => c.toUpperCase()) +
+          genre.replace(/^\w/, (c) => c.toUpperCase()) +
           " (" +
           bandsdata[index].length +
           ")",
@@ -323,16 +327,6 @@
           const thead = document.createElement("thead");
           const tbody = document.createElement("tbody");
 
-          const maintr = document.createElement("tr");
-          const mainElem = document.createElement("th");
-          mainElem.textContent = headers[currentTab - 1]
-            ? `${convertToTitleCase(
-                headers[currentTab - 1]
-              )} with Female Vocalist`
-            : "Doom with Female Vocalist";
-          mainElem.colSpan = 11;
-          maintr.append(mainElem);
-
           const tr = document.createElement("tr");
           const th = (text) => {
             const el = document.createElement("th");
@@ -353,7 +347,6 @@
             th("Discogs")
           );
 
-          thead.append(maintr);
           thead.append(tr);
           table.append(thead, tbody);
 
